@@ -36,14 +36,14 @@ databases, big data performance optimization and approaches for handling large q
 data. Kelvin is a 3D GIS researcher at the Department of Computer Science, and is currently working
 in conjunction with Ordnance Survey in developing a new 3D dataset for Great Britain.
 
-###The workshop will provide:
+### The workshop will provide:
 
  - An overview of the state of the art in 3D GIS;
  - Experience with handling and processing 3D geographic information;
  - An insight into the future of 3D GIS;
  - A discussion on the challenges 3D GIS faces.
 
-###Timetable (provisional)
+### Timetable (provisional)
 
 *Tuesday 14th April*
 
@@ -60,6 +60,10 @@ in conjunction with Ordnance Survey in developing a new 3D dataset for Great Bri
 1100-1300 QGIS and Three.js
 
 1300-1400 Lunch
+
+### Registration
+
+_Details about how to register coming soon..._
 
 
 <a name="ESRI">XXXX ESRI</a>
