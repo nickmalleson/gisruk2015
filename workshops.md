@@ -12,7 +12,7 @@ See the details below if you would like to register for any of the workshops.
 
  - [3D GIS Workshop and Tutorial](#3DGIS)
  - [XXXX ESRI](#ESRI)
- - [XXXX Transport](#Transport)
+ - [RGS Transport Geography - Call for Maps](#Transport)
 
 
 <a name="3DGIS">3D GIS Workshop and Tutorial</a>
@@ -71,5 +71,41 @@ _Details about how to register coming soon..._
 
 
 
-<a name="">XXXX Transport</a>
+<a name="transport">RGS Transport Geography Research Group (TGRG)</a>
 ----------------------
+
+
+*Call for maps: deadline - 19th December 2014*
+
+Workshop date: 14th April, 2014
+
+### Aims of the workshop
+The aim of this workshop is to showcase and develop growing expertise with Geographical Information
+Systems (GIS) in the Transport community, and encourage further engagement of the GIS community in
+transport issues.
+
+### Call for maps
+
+Instead of the traditional ‘Call for Papers’, this event calls for maps that people have made.
+Entrants will be given a 5 minute slot to describe their map and how it is useful in a session
+before lunch.
+
+### Process
+Participants are invited to submit short abstracts describing their map and how they would benefit
+from the event (around 100 words) to Robin Lovelace by December 19th 2014. Acceptance will be
+confirmed by February 28th 2014.
+
+### Preliminary programme
+
+These topics are subject to availability of instructors, who have been contacted. We will pick two
+or three from the options below, morning and afternoon. Speakers to be confirmed (TBC).
+ 
+ - Use of OSM vs Ordnance Survey for route planning \ QGIS for transport analysis
+ - QGIS and PGRouting as open source tools for Transport planning 
+ - Presentation of maps
+ 
+### Lunch
+
+ - Hackathon to identify places where cycle paths are most needed
+ - Travel flow analysis in R (Robin Lovelace)
+ - Institute for Transport Studies session
