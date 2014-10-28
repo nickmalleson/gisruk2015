@@ -12,13 +12,13 @@ See the details below if you would like to register for any of the workshops.
 
  - [3D GIS Workshop and Tutorial](#3DGIS)
  - [XXXX ESRI](#ESRI)
- - [XXXX Transport]](#Transport)
+ - [XXXX Transport](#Transport)
 
 
 <a name="3DGIS">3D GIS Workshop and Tutorial</a>
 ----------------------
 
-For more information please [download the flyer](./figures/3DGIS).
+For more information please [download the flyer](./figures/3DGIS.pdf).
 
 ### Introduction
 
@@ -36,14 +36,14 @@ databases, big data performance optimization and approaches for handling large q
 data. Kelvin is a 3D GIS researcher at the Department of Computer Science, and is currently working
 in conjunction with Ordnance Survey in developing a new 3D dataset for Great Britain.
 
-The workshop will provide:
+###The workshop will provide:
 
  - An overview of the state of the art in 3D GIS;
  - Experience with handling and processing 3D geographic information;
  - An insight into the future of 3D GIS;
  - A discussion on the challenges 3D GIS faces.
 
-Timetable (provisional)
+###Timetable (provisional)
 
 *Tuesday 14th April*
 
@@ -56,7 +56,9 @@ Timetable (provisional)
 *Wednesday 15th April*
 
 1030-1100 Future of 3DGIS
+
 1100-1300 QGIS and Three.js
+
 1300-1400 Lunch
 
 
