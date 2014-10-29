@@ -100,7 +100,7 @@ confirmed by February 28th 2014.
 These topics are subject to availability of instructors, who have been contacted. We will pick two
 or three from the options below, morning and afternoon. Speakers to be confirmed (TBC).
  
- - Use of OSM vs Ordnance Survey for route planning  QGIS for transport analysis
+ - 09:30 – 10:00	Registration and meet and great
  - QGIS and PGRouting as open source tools for Transport planning 
  - Presentation of maps
  
