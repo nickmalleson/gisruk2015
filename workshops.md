@@ -92,7 +92,7 @@ before lunch.
 
 ### Process
 Participants are invited to submit short abstracts describing their map and how they would benefit
-from the event (around 100 words) to Robin Lovelace by December 19th 2014. Acceptance will be
+from the event (around 100 words) to [Eusebio Odiari](mailto:gyeao@leeds.ac.uk) by December 19th 2014. Acceptance will be
 confirmed by February 28th 2014.
 
 ### Preliminary programme
@@ -100,7 +100,7 @@ confirmed by February 28th 2014.
 These topics are subject to availability of instructors, who have been contacted. We will pick two
 or three from the options below, morning and afternoon. Speakers to be confirmed (TBC).
  
- - Use of OSM vs Ordnance Survey for route planning \ QGIS for transport analysis
+ - Use of OSM vs Ordnance Survey for route planning  QGIS for transport analysis
  - QGIS and PGRouting as open source tools for Transport planning 
  - Presentation of maps
  
