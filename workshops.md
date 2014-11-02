@@ -100,14 +100,20 @@ confirmed by February 28th 2014.
 These topics are subject to availability of instructors, who have been contacted. We will pick two
 or three from the options below, morning and afternoon. Speakers to be confirmed (TBC).
  
-09:30 – 10:00	 Registration and meet and greet
-10:00 – 11:00	 Introduction to R and QGIS for transport applications (Robin Lovelace)
-11:00 – 12:00	 Route analysis using R and Routino (Nick Bearman)
-12:00 – 12:30	 Presentation of maps
-12:30 – 13:30 	Lunch
-13:30 – 14:30	 Institute for Transport Studies session (Speaker TBC)
-14:30 – 16:30	 Hackathon to develop methods for identifying optimal routes for bicycle paths,
-		             using methods learned in the morning (Ollie O'Brien, Godwin Yeboah TBC)
+09:30 – 10:00	 Registration and meet and greet 
+
+10:00 – 11:00	 Introduction to R and QGIS for transport applications (Robin Lovelace) 
+
+11:00 – 12:00	 Route analysis using R and Routino (Nick Bearman) 
+
+12:00 – 12:30	 Presentation of maps 
+
+12:30 – 13:30 	 Lunch 
+
+13:30 – 14:30	 Institute for Transport Studies session (Speaker TBC) 
+
+14:30 – 16:30	 Hackathon to develop methods for identifying optimal routes for bicycle paths using methods learned in the morning (Ollie O'Brien, Godwin Yeboah TBC) 
+
 16:30 – 17:00	 Questions and answers session. Best map prize announcement.
  
 
