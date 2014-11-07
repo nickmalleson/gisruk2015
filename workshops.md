@@ -10,10 +10,24 @@ following morning (Wednesday 15th).
 
 See the details below if you would like to register for any of the workshops.
 
+ - [Early Career Researchers Forum](#ECRF)
  - [3D GIS Workshop and Tutorial](#3DGIS)
- - [XXXX ESRI](#ESRI)
  - [RGS Transport Geography - Call for Maps](#Transport)
+ - [ESRI GIS Workshop](#ESRI)
 
+
+<a name="ECRF">Early Career Researchers Forum</a>
+----------------------
+
+The Early Career Researchers Forum (ECRF) will run before the main GISRUK conference, on the afternoon of Tuesday 14th of April and the morning of Wednesday 15th April 2013. This valuable training opportunity will raise awareness and confidence in Early Career Researchers, addressing a range of issues that will help you complete your PhD and get the most from the GISRUK conference. We will cover:
+
+ - What we are and what we do - Ourselves and our own research topics.
+ - Your PhD as an elevator pitch - what you do in 30 seconds. 
+ - What's a conference for? Getting the most from GISRUK (and other conferences).
+ - Networking (& social networking) as ways of getting jobs.
+ - Getting Published - An exploration of some of the various routes to publishing research findings and to identify the requirements, opportunities and limitations involved.
+
+<img src="figures/3DGIS-Logo.png" style="float:right; width:30%; height:auto;" />
 
 <a name="3DGIS">3D GIS Workshop and Tutorial</a>
 ----------------------
@@ -43,6 +57,8 @@ in conjunction with Ordnance Survey in developing a new 3D dataset for Great Bri
  - An insight into the future of 3D GIS;
  - A discussion on the challenges 3D GIS faces.
 
+<img src="figures/Gaze_Vector_Points3.png" style="float:right; width:50%; height:auto;" />
+
 ### Timetable (provisional)
 
 *Tuesday 14th April*
@@ -66,18 +82,16 @@ in conjunction with Ordnance Survey in developing a new 3D dataset for Great Bri
 _Details about how to register coming soon..._
 
 
-<a name="ESRI">XXXX ESRI</a>
+
+<a name="Transport">RGS Transport Geography - Call for Maps</a>
 ----------------------
 
+<img src="figures/ordnance-survey-map-leeds-50s-rl.png" style="float:right; width:30%; height:auto;" />
 
+The RGS Transport Geography Research Group (TGRG) is proud to announce a _call for maps_
 
-<a name="Transport">RGS Transport Geography Research Group (TGRG)</a>
-----------------------
-
-
-*Call for maps: deadline - 19th December 2014*
-
-Workshop date: 14th April, 2014
+ - Deadline: 19th December 2014
+ - Workshop date: 14th April, 2014
 
 ### Aims of the workshop
 The aim of this workshop is to showcase and develop growing expertise with Geographical Information
@@ -115,5 +129,10 @@ or three from the options below, morning and afternoon. Speakers to be confirmed
 14:30 – 16:30	 Hackathon to develop methods for identifying optimal routes for bicycle paths using methods learned in the morning (Ollie O'Brien, Godwin Yeboah TBC) 
 
 16:30 – 17:00	 Questions and answers session. Best map prize announcement.
- 
+
+
+<a name="ESRI">ESRI GIS Workshop</a>
+----------------------
+
+_Details coming soon_ 
 
