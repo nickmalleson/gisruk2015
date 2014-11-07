@@ -27,7 +27,7 @@ The Early Career Researchers Forum (ECRF) will run before the main GISRUK confer
  - Networking (& social networking) as ways of getting jobs.
  - Getting Published - An exploration of some of the various routes to publishing research findings and to identify the requirements, opportunities and limitations involved.
 
-<img src="figures/3DGIS-Logo.png" style="float:right; width:50%; height:auto;" />
+<img src="figures/3DGIS-Logo.png" style="float:right; width:30%; height:auto;" />
 
 <a name="3DGIS">3D GIS Workshop and Tutorial</a>
 ----------------------
@@ -43,8 +43,6 @@ understanding of the capabilities of the third dimension. Attendees will gain ex
 with a variety of 3D packages and plugins including ArcScene, Google Earth, QGIS, Three.js and FME,
 learning to handle, process and present data in 3D.
 
-<img src="figures/Gaze_Vector_Points3.png" style="float:left; width:50%; height:auto;" />
-
 This workshop is being run by Dr Claire Ellul (UCL) and Kelvin Wong (UCL). Claire is a lecturer in
 Geographic Information Science (GIS) in the Department of Civil, Environmental and Geomatic
 Engineering and is the Director of MSc in GISci. Her research interest include 3D GIS, spatial
@@ -58,6 +56,8 @@ in conjunction with Ordnance Survey in developing a new 3D dataset for Great Bri
  - Experience with handling and processing 3D geographic information;
  - An insight into the future of 3D GIS;
  - A discussion on the challenges 3D GIS faces.
+
+<img src="figures/Gaze_Vector_Points3.png" style="float:right; width:50%; height:auto;" />
 
 ### Timetable (provisional)
 
@@ -83,12 +83,10 @@ _Details about how to register coming soon..._
 
 
 
-<img src="figures/ordnance-survey-map-leeds-50s-rl.png" style="float:right; width:50%; height:auto;" />
-
-
 <a name="Transport">RGS Transport Geography - Call for Maps</a>
 ----------------------
 
+<img src="figures/ordnance-survey-map-leeds-50s-rl.png" style="float:right; width:30%; height:auto;" />
 
 The RGS Transport Geography Research Group (TGRG) is proud to announce a _call for maps_
 
