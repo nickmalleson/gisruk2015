@@ -29,7 +29,7 @@ will be a special poster session for authors to briefly present their poster.
 Important Dates
 ---------------
 
-~~Abstract submission deadline: <span style="color:red">**Friday 7th November 2014**</span>.~~
+<s>Abstract submission deadline: <span style="color:red">**Friday 7th November 2014**</span>.</s>
 
 **Abstract deadline extended until <span style="color:red">9th Jan 2015</span>.**
 
@@ -65,7 +65,7 @@ Bursaries
 ---------
 
 
-The ***Consumer Data Research Centre** ([CDRC](http://www.lida.leeds.ac.uk/index.html)) is
+The **Consumer Data Research Centre** ([CDRC](http://www.lida.leeds.ac.uk/index.html)) is
 sponsoring up to 5 bursaries, covering registration and accommodation. These are for early-career
 researchers (Masters or PhD students) submitting papers relating to 'Innovations in Geographical Consumer Data'.
 
