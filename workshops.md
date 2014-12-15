@@ -5,8 +5,7 @@ layout: master
 Workshops
 =========
 
-GISRUK will be organising workshops on the day before the conference (Tuesday 14th April) and the
-following morning (Wednesday 15th).
+GISRUK will be organising workshops on the day before the conference (Tuesday 14th April) and the following morning (Wednesday 15th).
 
 See the details below if you would like to register for any of the workshops.
 
@@ -14,6 +13,10 @@ See the details below if you would like to register for any of the workshops.
  - [3D GIS Workshop and Tutorial](#3DGIS)
  - [RGS Transport Geography - Call for Maps](#Transport)
  - [ESRI GIS Workshop](#ESRI)
+ 
+ Add this event to your digital organiser via Google Calendar and don't forget to sign up asap.
+
+<a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=NzkyNXYyY3VodjJxcmZnam4zaThmcm52OWsgMGVybzVrcjUwb3JvN2lzM3IzbjJvMjBhdXNAZw&tmsrc=0ero5kr50oro7is3r3n2o20aus%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
 
 
 <a name="ECRF">Early Career Researchers Forum</a>
@@ -90,8 +93,10 @@ _Details about how to register coming soon..._
 
 The RGS Transport Geography Research Group (TGRG) is proud to announce a _call for maps_
 
- - Deadline: 19th December 2014
- - Workshop date: 14th April, 2014
+ - Application deadline ([via email](mailto:gyeao@leeds.ac.uk)):
+ Friday 16th January, 2015
+ - Workshop date: Tuesday 14th April, 2015 
+ 
 
 ### Aims of the workshop
 The aim of this workshop is to showcase and develop growing expertise with Geographical Information
@@ -106,10 +111,10 @@ before lunch.
 
 ### Process
 Participants are invited to submit short abstracts describing their map and how they would benefit
-from the event (around 100 words) to [Eusebio Odiari](mailto:gyeao@leeds.ac.uk) by December 19th 2014. Acceptance will be
-confirmed by February 28th 2014.
+from the event (around 100 words) to [Eusebio Odiari](mailto:gyeao@leeds.ac.uk) by January 16th. Acceptance will be
+confirmed by February 5th.
 
-### Preliminary programme
+### Programme
 
 These topics are subject to availability of instructors, who have been contacted. We will pick two
 or three from the options below, morning and afternoon. Speakers to be confirmed (TBC).
