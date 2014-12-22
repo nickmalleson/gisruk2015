@@ -99,6 +99,7 @@ The RGS Transport Geography Research Group (TGRG) is proud to announce a _call f
  
 
 ### Aims of the workshop
+
 The aim of this workshop is to showcase and develop growing expertise with Geographical Information
 Systems (GIS) in the Transport community, and encourage further engagement of the GIS community in
 transport issues.
@@ -110,6 +111,7 @@ Entrants will be given a 5 minute slot to describe their map and how it is usefu
 before lunch.
 
 ### Process
+
 Participants are invited to submit short abstracts describing their map and how they would benefit
 from the event (around 100 words) to [Eusebio Odiari](mailto:gyeao@leeds.ac.uk) by January 16th. Acceptance will be
 confirmed by February 5th.
@@ -131,7 +133,7 @@ or three from the options below, morning and afternoon. Speakers to be confirmed
 
 13:30 – 14:30	 Institute for Transport Studies session (Speaker TBC) 
 
-14:30 – 16:30	 Hackathon to develop methods for identifying optimal routes for bicycle paths using methods learned in the morning (Ollie O'Brien, Godwin Yeboah TBC) 
+14:30 – 16:30	 Hackathon to develop methods for identifying optimal routes for bicycle paths using methods learned in the morning (Ollie O'Brien, Godwin Yeboah TBC)
 
 16:30 – 17:00	 Questions and answers session. Best map prize announcement.
 
@@ -139,5 +141,41 @@ or three from the options below, morning and afternoon. Speakers to be confirmed
 <a name="ESRI">ESRI GIS Workshop</a>
 ----------------------
 
-_Details coming soon_ 
+### Aims of the workshop
+
+The aim of this workshop will be to introduce users to some of the latest GIS tools offered by the
+ArcGIS suite. It will include lessons on how to build interactive web apps using ArcGIS Pro and ArcGIS
+Online, and how to easily create geospatial code use the ArcGIS Developer toolkit.
+
+### Programme
+
+*Tuesday 14th April*
+
+_Interactive web apps with coding using ArcGIS Pro and ArcGIS Online_
+
+14:00 - 14:15   Arrive and register
+
+14:15 – 14:30   What’s new in the ArcGIS Platform (ArcGIS Pro / 3D / CityEngine  / ArcGIS Online / Collector App)
+
+14:30 – 15:30   Introduction to ArcGIS Pro including small exercise
+
+15:30 - 15:45   Tea / Coffee break
+
+15:45 – 17:00   Creating interactive web apps without coding through ArcGIS Online and Web App Builder
+
+
+*Wednesday 15th April*
+
+_Geospatial coding made easy with ArcGIS Developer toolkit_
+
+10:00 - 10:30   Arrival, coffee etc.
+
+10:30 - 11:00   Introduction, what is an API and SDK? What platforms do we support? What is possible with our APIs and SDKs? What is the REST API and why is it important?
+
+11:00 - 11:30   Sign up for a developer account, create application credentials, and create a feature service in developer account. 
+
+11:30 - 11:45   Tea / Coffee
+
+11:45 - 13:15   Start using the JavaScript API; HTML page setup, CSS map setup, putting a map on the page, changing the basemap, changing center point/zoom distance. Next add a 2D hosted feature service from yesterday to our map, explain how to change symbology. Finally do some analysis and produce a heatmap.
+
 
