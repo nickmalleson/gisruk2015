@@ -18,6 +18,7 @@ See the details below if you would like to register for any of the workshops.
 
 <a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=NzkyNXYyY3VodjJxcmZnam4zaThmcm52OWsgMGVybzVrcjUwb3JvN2lzM3IzbjJvMjBhdXNAZw&tmsrc=0ero5kr50oro7is3r3n2o20aus%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
 
+- - -
 
 <a name="ECRF">Early Career Researchers Forum</a>
 ----------------------
@@ -31,6 +32,8 @@ The Early Career Researchers Forum (ECRF) will run before the main GISRUK confer
  - Getting Published - An exploration of some of the various routes to publishing research findings and to identify the requirements, opportunities and limitations involved.
 
 <img src="figures/3DGIS-Logo.png" style="float:right; width:30%; height:auto;" />
+
+- - -
 
 <a name="3DGIS">3D GIS Workshop and Tutorial</a>
 ----------------------
@@ -86,6 +89,8 @@ _Details about how to register coming soon..._
 
 
 
+- - -
+
 <a name="Transport">RGS Transport Geography - Call for Maps</a>
 ----------------------
 
@@ -137,6 +142,8 @@ or three from the options below, morning and afternoon. Speakers to be confirmed
 
 16:30 – 17:00	 Questions and answers session. Best map prize announcement.
 
+
+- - -
 
 <a name="ESRI">ESRI GIS Workshop</a>
 ----------------------
