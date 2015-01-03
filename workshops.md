@@ -89,7 +89,7 @@ _Details about how to register coming soon..._
 <a name="Transport">RGS Transport Geography - Call for Maps</a>
 ----------------------
 
-<img src="figures/ordnance-survey-map-leeds-50s-rl.png" style="float:right; width:30%; height:auto;" />
+<img src="https://dl.dropboxusercontent.com/u/15008199/img/mel-cycle-cent-close.png" style="float:right; width:50%; height:auto;" />
 
 The RGS Transport Geography Research Group (TGRG) is proud to announce a _call for maps_
 
