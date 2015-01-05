@@ -10,7 +10,7 @@ How to Register
 How To Submit A Paper - EasyChair Instructions
 --------------------------------------
 
-(For the call for papers, [Call for Papers](/submit.html))
+(For the call for papers, [Call for Papers](submit.html))
 
 Papers and posters must be submitted through EasyChair:
 
