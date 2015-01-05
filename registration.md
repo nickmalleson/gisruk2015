@@ -2,8 +2,15 @@
 layout: master
 ---
 
-How To Submit - EasyChair Instructions
+How to Register
+---------------
+
+**A registration page for the conference will be here very soon!**
+
+How To Submit A Paper - EasyChair Instructions
 --------------------------------------
+
+(For the call for papers, [Call for Papers](/submit/))
 
 Papers and posters must be submitted through EasyChair:
 
