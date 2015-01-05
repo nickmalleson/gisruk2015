@@ -18,7 +18,6 @@ See the details below if you would like to register for any of the workshops.
 
 <a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=NzkyNXYyY3VodjJxcmZnam4zaThmcm52OWsgMGVybzVrcjUwb3JvN2lzM3IzbjJvMjBhdXNAZw&tmsrc=0ero5kr50oro7is3r3n2o20aus%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
 
-- - -
 
 <a name="ECRF">Early Career Researchers Forum</a>
 ----------------------
@@ -32,8 +31,6 @@ The Early Career Researchers Forum (ECRF) will run before the main GISRUK confer
  - Getting Published - An exploration of some of the various routes to publishing research findings and to identify the requirements, opportunities and limitations involved.
 
 <img src="figures/3DGIS-Logo.png" style="float:right; width:30%; height:auto;" />
-
-- - -
 
 <a name="3DGIS">3D GIS Workshop and Tutorial</a>
 ----------------------
@@ -89,12 +86,10 @@ _Details about how to register coming soon..._
 
 
 
-- - -
-
 <a name="Transport">RGS Transport Geography - Call for Maps</a>
 ----------------------
 
-<img src="figures/ordnance-survey-map-leeds-50s-rl.png" style="float:right; width:30%; height:auto;" />
+<img src="https://dl.dropboxusercontent.com/u/15008199/img/mel-cycle-cent-close.png" style="float:right; width:50%; height:auto;" />
 
 The RGS Transport Geography Research Group (TGRG) is proud to announce a _call for maps_
 
@@ -104,7 +99,6 @@ The RGS Transport Geography Research Group (TGRG) is proud to announce a _call f
  
 
 ### Aims of the workshop
-
 The aim of this workshop is to showcase and develop growing expertise with Geographical Information
 Systems (GIS) in the Transport community, and encourage further engagement of the GIS community in
 transport issues.
@@ -118,71 +112,32 @@ before lunch.
 ### Process
 
 Participants are invited to submit short abstracts describing their map and how they would benefit
-from the event (around 100 words) to [Eusebio Odiari](mailto:gyeao@leeds.ac.uk) by January 16th. Acceptance will be
-confirmed by February 5th.
+from the event (around 100 words) to [Eusebio Odiari](mailto:gyeao@leeds.ac.uk) by 16th January 2015. Acceptance will be confirmed by Friday 13th February.
 
 ### Programme
-
-These topics are subject to availability of instructors, who have been contacted. We will pick two
-or three from the options below, morning and afternoon. Speakers to be confirmed (TBC).
  
-09:30 – 10:00	 Registration and meet and greet 
+09:30 – 10:00	 Registration and refreshments
 
-10:00 – 11:00	 Introduction to R and QGIS for transport applications (Robin Lovelace) 
+10:00 – 11:00	 ntroduction to R and QGIS for transport applications (Robin Lovelace, [University of Leeds](http://www.geog.leeds.ac.uk/people/r.lovelace))
 
-11:00 – 12:00	 Route analysis using R and Routino (Nick Bearman) 
+11:00 – 12:00	 Route analysis using R and Routino (Nick Bearman, [University of Liverpool](http://www.liv.ac.uk/environmental-sciences/staff/nick-bearman/)) 
 
 12:00 – 12:30	 Presentation of maps 
 
-12:30 – 13:30 	 Lunch 
+**12:30 – 13:30 	 Lunch**
 
-13:30 – 14:30	 Institute for Transport Studies session (Speaker TBC) 
+13:30 – 14:30	Collecting, processing and analysing large GPS and Smartphone datasets: talk 
+		followed by an introductory tutorial ([Richard Ellison](http://sydney.edu.au/business/itls/staff/richarde) and [Adrian Ellison](http://sydney.edu.au/business/staff/adriane), [University of Sydney](http://sydney.edu.au/business/itls))
 
-14:30 – 16:30	 Hackathon to develop methods for identifying optimal routes for bicycle paths using methods learned in the morning (Ollie O'Brien, Godwin Yeboah TBC)
+14:30 – 16:30	 Hackathon to develop methods for identifying optimal routes for bicycle paths,
+		using methods described in morning session (Godwin Yeboah,
+		[University of	Aberdeen](http://www.abdn.ac.uk/geosciences/people/profiles/godwin.yeboah))
 
 16:30 – 17:00	 Questions and answers session. Best map prize announcement.
 
 
-- - -
-
 <a name="ESRI">ESRI GIS Workshop</a>
 ----------------------
 
-### Aims of the workshop
-
-The aim of this workshop will be to introduce users to some of the latest GIS tools offered by the
-ArcGIS suite. It will include lessons on how to build interactive web apps using ArcGIS Pro and ArcGIS
-Online, and how to easily create geospatial code use the ArcGIS Developer toolkit.
-
-### Programme
-
-*Tuesday 14th April*
-
-_Interactive web apps with coding using ArcGIS Pro and ArcGIS Online_
-
-14:00 - 14:15   Arrive and register
-
-14:15 – 14:30   What’s new in the ArcGIS Platform (ArcGIS Pro / 3D / CityEngine  / ArcGIS Online / Collector App)
-
-14:30 – 15:30   Introduction to ArcGIS Pro including small exercise
-
-15:30 - 15:45   Tea / Coffee break
-
-15:45 – 17:00   Creating interactive web apps without coding through ArcGIS Online and Web App Builder
-
-
-*Wednesday 15th April*
-
-_Geospatial coding made easy with ArcGIS Developer toolkit_
-
-10:00 - 10:30   Arrival, coffee etc.
-
-10:30 - 11:00   Introduction, what is an API and SDK? What platforms do we support? What is possible with our APIs and SDKs? What is the REST API and why is it important?
-
-11:00 - 11:30   Sign up for a developer account, create application credentials, and create a feature service in developer account. 
-
-11:30 - 11:45   Tea / Coffee
-
-11:45 - 13:15   Start using the JavaScript API; HTML page setup, CSS map setup, putting a map on the page, changing the basemap, changing center point/zoom distance. Next add a 2D hosted feature service from yesterday to our map, explain how to change symbology. Finally do some analysis and produce a heatmap.
-
+_Details coming soon_ 
 
