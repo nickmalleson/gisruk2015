@@ -125,7 +125,7 @@ Instead of a traditional call for papers, we request a _call for maps_. Attendee
 
 16:30 – 17:00	 Questions and answers session. Best map prize announcement.
 
-For more information on this workshop, please see its [web page](http://leeds.gisruk.org/gis4ta.html)
+For more information on this workshop, please see its [web page](http://leeds.gisruk.org/gis4ta.html).
 
 
 <a name="ESRI">ESRI GIS Workshop</a>
