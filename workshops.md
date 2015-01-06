@@ -131,5 +131,40 @@ For more information on this workshop, please see its [web page](http://leeds.gi
 <a name="ESRI">ESRI GIS Workshop</a>
 ----------------------
 
-_Details coming soon_ 
+### Aims of the workshop
+
+The aim of this workshop will be to introduce users to some of the latest GIS tools offered by the
+ArcGIS suite. It will include lessons on how to build interactive web apps using ArcGIS Pro and ArcGIS
+Online, and how to easily create geospatial code use the ArcGIS Developer toolkit.
+
+### Programme
+
+*Tuesday 14th April*
+
+_Interactive web apps with coding using ArcGIS Pro and ArcGIS Online_
+
+14:00 - 14:15   Arrive and register
+
+14:15 – 14:30   What’s new in the ArcGIS Platform (ArcGIS Pro / 3D / CityEngine  / ArcGIS Online / Collector App)
+
+14:30 – 15:30   Introduction to ArcGIS Pro including small exercise
+
+15:30 - 15:45   Tea / Coffee break
+
+15:45 – 17:00   Creating interactive web apps without coding through ArcGIS Online and Web App Builder
+
+
+*Wednesday 15th April*
+
+_Geospatial coding made easy with ArcGIS Developer toolkit_
+
+10:00 - 10:30   Arrival, coffee etc.
+
+10:30 - 11:00   Introduction, what is an API and SDK? What platforms do we support? What is possible with our APIs and SDKs? What is the REST API and why is it important?
+
+11:00 - 11:30   Sign up for a developer account, create application credentials, and create a feature service in developer account. 
+
+11:30 - 11:45   Tea / Coffee
+
+11:45 - 13:15   Start using the JavaScript API; HTML page setup, CSS map setup, putting a map on the page, changing the basemap, changing center point/zoom distance. Next add a 2D hosted feature service from yesterday to our map, explain how to change symbology. Finally do some analysis and produce a heatmap.
 
