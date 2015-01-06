@@ -2,4 +2,6 @@
 layout: master
 ---
 
-Watch this space for the conference programme.
+The preliminary programme is as follows:
+
+<iframe src="programme-draft.html" width="95%" height="600px"></iframe> 

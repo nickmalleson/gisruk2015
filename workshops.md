@@ -85,40 +85,30 @@ in conjunction with Ordnance Survey in developing a new 3D dataset for Great Bri
 _Details about how to register coming soon..._
 
 
-
-<a name="Transport">RGS Transport Geography - Call for Maps</a>
+<a name="Transport">GIS for Transport Applications</a>
 ----------------------
 
 <img src="https://dl.dropboxusercontent.com/u/15008199/img/mel-cycle-cent-close.png" style="float:right; width:50%; height:auto;" />
 
-The RGS Transport Geography Research Group (TGRG) is proud to announce a _call for maps_
+The [GIS for Transport Applications workshop](http://leeds.gisruk.org/gis4ta.html) ([#GIS4TA](https://twitter.com/search?f=realtime&q=%23gis4ta&src=typd) for short!) is organised by the University of Leed's School of Geography in collaboration with the Institute of Transport Studies ([ITS](http://www.its.leeds.ac.uk/)). Official sponsors include the Royal Geographical Society ([RGS](http://www.rgs.org/)) via the Transport Geography Research Group ([TGRG](http://tgrg.wordpress.com/)).
 
- - Application deadline ([via email](mailto:gyeao@leeds.ac.uk)):
- Friday 16th January, 2015
- - Workshop date: Tuesday 14th April, 2015 
- 
+The **aim** of this workshop is to showcase the latest methods of GIS analysis in transport and illustrate how to apply these to real-world transport problems.
 
-### Aims of the workshop
-The aim of this workshop is to showcase and develop growing expertise with Geographical Information
-Systems (GIS) in the Transport community, and encourage further engagement of the GIS community in
-transport issues.
+Instead of a traditional call for papers, we request a _call for maps_. Attendees who provide a map will be asked to present it in less than 5 minutes, allowing for wider discussion about how it was created. The author of the winning map will be awarded a £50 cash prize. 
 
-### Call for maps
+### Application
 
-Instead of the traditional ‘Call for Papers’, this event calls for maps that people have made.
-Entrants will be given a 5 minute slot to describe their map and how it is useful in a session
-before lunch.
+ **Application** is [via email](mailto:gyeao@leeds.ac.uk) to [Eusebio Odiari](http://www.geog.leeds.ac.uk/people/e.odiari). In the email include your name, position and a written statement of around 50 words outlining how you will benefit from the workshop. Also state if you plan to present a map at the conference and, if so, a short description of the map.
 
-### Process
-
-Participants are invited to submit short abstracts describing their map and how they would benefit
-from the event (around 100 words) to [Eusebio Odiari](mailto:gyeao@leeds.ac.uk) by 16th January 2015. Acceptance will be confirmed by Friday 13th February.
+ - **Deadline: Friday 16th January, 2015**
+ - **Notification of acceptance: Friday 13th February**
+ - **Workshop date: Tuesday 14th April, 2015**
 
 ### Programme
  
 09:30 – 10:00	 Registration and refreshments
 
-10:00 – 11:00	 ntroduction to R and QGIS for transport applications (Robin Lovelace, [University of Leeds](http://www.geog.leeds.ac.uk/people/r.lovelace))
+10:00 – 11:00	 Introduction to R and QGIS for transport applications (Robin Lovelace, [University of Leeds](http://www.geog.leeds.ac.uk/people/r.lovelace))
 
 11:00 – 12:00	 Route analysis using R and Routino (Nick Bearman, [University of Liverpool](http://www.liv.ac.uk/environmental-sciences/staff/nick-bearman/)) 
 
@@ -134,6 +124,8 @@ from the event (around 100 words) to [Eusebio Odiari](mailto:gyeao@leeds.ac.uk) 
 		[University of	Aberdeen](http://www.abdn.ac.uk/geosciences/people/profiles/godwin.yeboah))
 
 16:30 – 17:00	 Questions and answers session. Best map prize announcement.
+
+For more information on this workshop, please see its [web page](http://leeds.gisruk.org/gis4ta.html)
 
 
 <a name="ESRI">ESRI GIS Workshop</a>
