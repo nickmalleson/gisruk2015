@@ -11,7 +11,7 @@ See the details below if you would like to register for any of the workshops.
 
  - [Early Career Researchers Forum](#ECRF)
  - [3D GIS Workshop and Tutorial](#3DGIS)
- - [RGS Transport Geography - Call for Maps](#Transport)
+ - [GIS for Transport Applications](#Transport)
  - [ESRI GIS Workshop](#ESRI)
  
  Add this event to your digital organiser via Google Calendar and don't forget to sign up asap.
@@ -90,15 +90,13 @@ _Details about how to register coming soon..._
 
 <img src="https://dl.dropboxusercontent.com/u/15008199/img/mel-cycle-cent-close.png" style="float:right; width:50%; height:auto;" />
 
-The [GIS for Transport Applications workshop](http://leeds.gisruk.org/gis4ta.html) ([#GIS4TA](https://twitter.com/search?f=realtime&q=%23gis4ta&src=typd) for short!) is organised by the University of Leed's School of Geography in collaboration with the Institute of Transport Studies ([ITS](http://www.its.leeds.ac.uk/)). Official sponsors include the Royal Geographical Society ([RGS](http://www.rgs.org/)) via the Transport Geography Research Group ([TGRG](http://tgrg.wordpress.com/)).
+The [GIS for Transport Applications workshop](http://leeds.gisruk.org/gis4ta.html) is organised by the University of Leed's School of Geography in collaboration with the Institute of Transport Studies ([ITS](http://www.its.leeds.ac.uk/)). Official sponsors include the Royal Geographical Society ([RGS](http://www.rgs.org/)) via the Transport Geography Research Group ([TGRG](http://tgrg.wordpress.com/)).
 
 The **aim** of this workshop is to showcase the latest methods of GIS analysis in transport and illustrate how to apply these to real-world transport problems.
 
-Instead of a traditional call for papers, we request a _call for maps_. Attendees who provide a map will be asked to present it in less than 5 minutes, allowing for wider discussion about how it was created. The author of the winning map will be awarded a £50 cash prize. 
-
 ### Application
 
- **Application** is [via email](mailto:gyeao@leeds.ac.uk) to [Eusebio Odiari](http://www.geog.leeds.ac.uk/people/e.odiari). In the email include your name, position and a written statement of around 50 words outlining how you will benefit from the workshop. Also state if you plan to present a map at the conference and, if so, a short description of the map.
+ **Application** is [via email](mailto:gyeao@leeds.ac.uk) to [Eusebio Odiari](http://www.geog.leeds.ac.uk/people/e.odiari). In the email include your name, position and a written statement of around 50 words outlining how you will benefit from the workshop. Also state if you would like to present a map at the conference (see [additional information](http://leeds.gisruk.org/gis4ta.html) for details) and, if so, a short description of the map.
 
  - **Deadline: Friday 16th January, 2015**
  - **Notification of acceptance: Friday 13th February**

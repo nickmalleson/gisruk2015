@@ -7,7 +7,7 @@ The GIS for Transport Applications workshop ([#GIS4TA](https://twitter.com/searc
 
 ## Introduction
 
-Transport is a field that relies on high quality geographical information. The storage, analysis, visualisation and modelling of roads, pathways, and vehicle flows is critical to understanding any transport system. This makes geographical information systems (GIS) a critical component of the transport researcher's toolkit.
+Transport is a field that relies on high quality geographical information. The storage, analysis, visualisation and modelling of roads, pathways, and vehicle flows is critical to understanding any transport system. This makes GIS a critical component of the transport researcher's toolkit.
 
 <img src="https://dl.dropboxusercontent.com/u/15008199/img/mel-cycle-cent-close.png" style="float:right; width:70%; height:auto;" />
 
@@ -28,16 +28,22 @@ The workshop is not intended for GIS novices and will contain practicals that wi
 
 ## Software
 
-The focus will be on open-source programs because these are free and accessible to all workshop attendees, and are becoming increasingly used by governmental and private transport planning organisations. Participants should have QGIS and R preinstalled on their laptops before attending.
+The focus will be on open-source programs because these are free and accessible to all workshop attendees, and are becoming increasingly used by governmental and private transport planning organisations. Participants should have recent versions of QGIS and R preinstalled on their laptops.
 
 ## Call for maps
 
-Instead of the traditional 'Call for Papers', this event has an optional 'Calls for Maps' These can be any type of transport-related map that attendees have created. Entrants who enter a map (and accompanying description of up-to 50 words) will be given a 5 minute slot to describe their map and how it is useful in a session
-before lunch.
+Instead of the traditional 'Call for Papers', this event has an optional 'Calls for Maps' These can be any type of transport-related map that attendees have created. Entrants who would like to present a map (signalled in the application, with accompanying description) will be given a short slot to describe their map and how it is useful in a session before lunch. The 'best map', voted by a panel, will win a £50 cash prize.
 
 ## Application
 
-To **apply** to attend the conference, a short (around 50 words) summary of your interest in #GIS4TA should be sent to [Eusebio Odiari](mailto:gyeao@leeds.ac.uk) by 16th January 2015. Preference will be given to those who provide a strong justification for attending the conference, and to those who will present their own maps. Acceptance will be confirmed by Friday 13th February.
+Application to the conference is via email to [Eusebio Odiari](mailto:gyeao@leeds.ac.uk) by 16th January 2015. The application should be sent as a separate word or pdf file which contains:
+
+- Name, title and position.
+- A short (around 50 words) summary of your interest in #GIS4TA.
+- Contact details
+- Description of map if you are submitting one (optional)
+
+Preference will be given to those who provide a strong justification for attending the conference, and to those who will present their own maps. Acceptance will be confirmed by Friday 13th February. The workshop will cost £20 to attend.
 
 ### Important dates
 
@@ -65,8 +71,3 @@ To **apply** to attend the conference, a short (around 50 words) summary of your
 		[University of	Aberdeen](http://www.abdn.ac.uk/geosciences/people/profiles/godwin.yeboah))
 
 16:30 – 17:00	 Questions and answers session. Best map prize announcement.
-
-
-
-
-
