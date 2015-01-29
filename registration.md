@@ -22,8 +22,10 @@ There are also four optional pre-conference [workshops](workshops.html) that tak
  - 3D GIS Workshop and Tutorial
  - GIS for Transport Applications
  - ESRI GIS Workshop
-
+ 
 The cost of each workshop is **£20**
+
+For more information about the schedules of the workshops and content, see the [workshops](workshops.html) page.
 
 Accommodation
 -------------
