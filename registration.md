@@ -12,6 +12,18 @@ Registration is for the entire conference (Wednesday 15th April - Friday 17th Ap
 
  - **Academic / industry: £200**
  - **Students (PhD or MSc): £100**
+ 
+Workshops
+---------
+
+There are also four optional pre-conference [workshops](workshops.html):
+
+ - Early Career Researchers Forum
+ - 3D GIS Workshop and Tutorial
+ - GIS for Transport Applications
+ - ESRI GIS Workshop
+
+The cost of each workshop is **£20**
 
 Accommodation
 -------------
@@ -21,21 +33,8 @@ We have also reserved accommodation for delegates at the
 The rate includes breakfast and internet access.
 
  - **Accommodation (2 nights): £120**
- 
-Please note that some rooms can be shared by two people for the same price of £120. If you are sharing a room, please make this clear when registering (only one person needs to pay the accommodation fee).
+ - **Accommodation (3 nights): £180** (for people attending workshops on Tuesday)
 
-
-Workshops
----------
-
-There are also four optional pre-conference [workshops](workshops.html):
-
- - [Early Career Researchers Forum](#ECRF)
- - [3D GIS Workshop and Tutorial](#3DGIS)
- - [GIS for Transport Applications](#Transport)
- - [ESRI GIS Workshop](#ESRI)
-
-The cost of each workshop is **£20** plus an extra nights accommodation (if you choose to stay in Leeds on Tuesday night)
 
 
 How to Register
