@@ -96,11 +96,13 @@ The **aim** of this workshop is to showcase the latest methods of GIS analysis i
 
 ### Application
 
- **Application** is [via email](mailto:gyeao@leeds.ac.uk) to [Eusebio Odiari](http://www.geog.leeds.ac.uk/people/e.odiari). In the email include your name, position and a written statement of around 50 words outlining how you will benefit from the workshop. Also state if you would like to present a map at the conference (see [additional information](http://leeds.gisruk.org/gis4ta.html) for details) and, if so, a short description of the map.
+ **Application** is [via email](mailto:gyeao@leeds.ac.uk) to [Eusebio Odiari](http://www.geog.leeds.ac.uk/people/e.odiari). The email should contain an attachment including your name, position and a written statement of around 50 words outlining how you will benefit from the workshop. Also state if you would like to present a map at the conference (see [additional information](http://leeds.gisruk.org/gis4ta.html) for details) and, if so, a short description of the map.
 
  - **Deadline: Friday 16th January, 2015**
  - **Notification of acceptance: Friday 13th February**
  - **Workshop date: Tuesday 14th April, 2015**
+ 
+Please use the [application template](http://leeds.gisruk.org/GIS4TA_Application.doc) to apply.
 
 ### Programme
  

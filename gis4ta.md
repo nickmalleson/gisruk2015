@@ -3,11 +3,12 @@ title: "Transport for GIS Applications"
 layout: master
 ---
 
-The GIS for Transport Applications workshop ([#GIS4TA](https://twitter.com/search?f=realtime&q=%23gis4ta&src=typd) for short!) is organised by the University of Leed's School of Geography in collaboration with the Institute of Transport Studies ([ITS](http://www.its.leeds.ac.uk/)). Official sponsors include the Royaly Geographical Society ([RGS](http://www.rgs.org/)) via the Transport Geography Research Group ([TGRG](http://tgrg.wordpress.com/)).
+The GIS for Transport Applications workshop ([#GIS4TA](https://twitter.com/search?f=realtime&q=%23gis4ta&src=typd) for short!) is organised by the University of Leed's School of Geography in collaboration with the Institute of Transport Studies ([ITS](http://www.its.leeds.ac.uk/)). Official sponsors include the Royal Geographical Society ([RGS](http://www.rgs.org/)) via the Transport Geography Research Group ([TGRG](http://tgrg.wordpress.com/)).
 
 ## Introduction
 
 Transport is a field that relies on high quality geographical information. The storage, analysis, visualisation and modelling of roads, pathways, and vehicle flows is critical to understanding any transport system. This makes GIS a critical component of the transport researcher's toolkit.
+The workshop will demonstrate methods of flow analysis, route allocation and processing of large GPS datasets.
 
 <img src="https://dl.dropboxusercontent.com/u/15008199/img/mel-cycle-cent-close.png" style="float:right; width:70%; height:auto;" />
 
@@ -40,8 +41,10 @@ Application to the conference is via email to [Eusebio Odiari](mailto:gyeao@leed
 
 - Name, title and position.
 - A short (around 50 words) summary of your interest in #GIS4TA.
-- Contact details
-- Description of map if you are submitting one (optional)
+- Contact details.
+- Description of map if you are submitting one (optional).
+
+Please use the [application template](http://leeds.gisruk.org/GIS4TA_Application.doc), which contains these fields.
 
 Preference will be given to those who provide a strong justification for attending the conference, and to those who will present their own maps. Acceptance will be confirmed by Friday 13th February. The workshop will cost £20 to attend.
 
