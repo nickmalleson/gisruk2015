@@ -16,6 +16,5 @@ Local Programme Committee
 * Paul Norman 
 * Nick Addis
 * Rachel Oldroyd 
-* Calum Carson
 * Robin Lovelace
 * Alison Heppenstall
