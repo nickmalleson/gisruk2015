@@ -119,7 +119,9 @@ Please use the [application template](http://leeds.gisruk.org/GIS4TA_Application
 13:30 – 14:30	Collecting, processing and analysing large GPS and Smartphone datasets: talk 
 		followed by an introductory tutorial ([Richard Ellison](http://sydney.edu.au/business/itls/staff/richarde) and [Adrian Ellison](http://sydney.edu.au/business/staff/adriane), [University of Sydney](http://sydney.edu.au/business/itls))
 
-14:30 – 16:30	 Hackathon to develop methods for identifying optimal routes for bicycle paths,
+14:30 - 15:00    Tea / coffee break
+
+15:00 – 16:30	 Hackathon to develop methods for identifying optimal routes for bicycle paths,
 		using methods described in morning session (Godwin Yeboah,
 		[University of	Aberdeen](http://www.abdn.ac.uk/geosciences/people/profiles/godwin.yeboah))
 
