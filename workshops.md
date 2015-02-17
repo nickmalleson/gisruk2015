@@ -66,7 +66,7 @@ in conjunction with Ordnance Survey in developing a new 3D dataset for Great Bri
 
 *Tuesday 14th April*
 
-1400-1430  Workshop Registration
+1400-1430  Workshop Registration and refreshments
 
 1430-1500  Introduction to 3D GIS
 
@@ -74,11 +74,13 @@ in conjunction with Ordnance Survey in developing a new 3D dataset for Great Bri
 
 *Wednesday 15th April*
 
-1030-1100 Future of 3DGIS
+0930-1000   Arrival and refreshments
 
-1100-1300 QGIS and Three.js
+1000-1130 Future of 3DGIS
 
-1300-1400 Lunch
+1130-1230 QGIS and Three.js
+
+1230-1330 Lunch
 
 ### Registration
 
