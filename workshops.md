@@ -66,21 +66,21 @@ in conjunction with Ordnance Survey in developing a new 3D dataset for Great Bri
 
 *Tuesday 14th April*
 
-1400-1430  Workshop Registration and refreshments
+14:00-14:30  Workshop Registration and refreshments
 
-1430-1500  Introduction to 3D GIS
+14:30-15:00  Introduction to 3D GIS
 
-1500-1630 Using ArcScene, Google Earth and FME
+15:00-16:30 Using ArcScene, Google Earth and FME
 
 *Wednesday 15th April*
 
-0930-1000   Arrival and refreshments
+09:30-10:00   Arrival and refreshments
 
-1000-1130 Future of 3DGIS
+10:00-11:30 Future of 3DGIS
 
-1130-1230 QGIS and Three.js
+11:30-12:30 QGIS and Three.js
 
-1230-1330 Lunch
+12:30-13:30 Lunch
 
 ### Registration
 
