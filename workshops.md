@@ -92,7 +92,7 @@ _Details about how to register coming soon..._
 
 <img src="https://dl.dropboxusercontent.com/u/15008199/img/mel-cycle-cent-close.png" style="float:right; width:50%; height:auto;" />
 
-The [GIS for Transport Applications workshop](http://leeds.gisruk.org/gis4ta.html) is organised by the University of Leed's School of Geography in collaboration with the Institute of Transport Studies ([ITS](http://www.its.leeds.ac.uk/)). Official sponsors include the Royal Geographical Society ([RGS](http://www.rgs.org/)) via the Transport Geography Research Group ([TGRG](http://tgrg.wordpress.com/)).
+The [GIS for Transport Applications workshop](http://leeds.gisruk.org/gis4ta.html) is organised by the University of Leeds School of Geography in collaboration with the Institute of Transport Studies ([ITS](http://www.its.leeds.ac.uk/)). Official sponsors include the Royal Geographical Society ([RGS](http://www.rgs.org/)) via the Transport Geography Research Group ([TGRG](http://tgrg.wordpress.com/)).
 
 The **aim** of this workshop is to showcase the latest methods of GIS analysis in transport and illustrate how to apply these to real-world transport problems.
 
