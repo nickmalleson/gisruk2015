@@ -158,13 +158,15 @@ _Interactive web apps with coding using ArcGIS Pro and ArcGIS Online_
 
 _Geospatial coding made easy with ArcGIS Developer toolkit_
 
-10:00 - 10:30   Arrival, coffee etc.
+09:30 - 09:45   Arrival, coffee etc.
 
-10:30 - 11:00   Introduction, what is an API and SDK? What platforms do we support? What is possible with our APIs and SDKs? What is the REST API and why is it important?
+09:45 - 10:15   Introduction, what is an API and SDK? What platforms do we support? What is possible with our APIs and SDKs? What is the REST API and why is it important?
 
-11:00 - 11:30   Sign up for a developer account, create application credentials, and create a feature service in developer account. 
+10:15 - 10:45   Sign up for a developer account, create application credentials, and create a feature service in developer account. 
 
-11:30 - 11:45   Tea / Coffee
+10:45 - 11:00   Tea / Coffee
 
-11:45 - 13:15   Start using the JavaScript API; HTML page setup, CSS map setup, putting a map on the page, changing the basemap, changing center point/zoom distance. Next add a 2D hosted feature service from yesterday to our map, explain how to change symbology. Finally do some analysis and produce a heatmap.
+11:00 - 12:30   Start using the JavaScript API; HTML page setup, CSS map setup, putting a map on the page, changing the basemap, changing center point/zoom distance. Next add a 2D hosted feature service from yesterday to our map, explain how to change symbology. Finally do some analysis and produce a heatmap.
+
+12:30 - 13:30   Lunch
 
