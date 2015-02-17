@@ -66,19 +66,21 @@ in conjunction with Ordnance Survey in developing a new 3D dataset for Great Bri
 
 *Tuesday 14th April*
 
-1400-1430  Workshop Registration
+14:00-14:30  Workshop Registration and refreshments
 
-1430-1500  Introduction to 3D GIS
+14:30-15:00  Introduction to 3D GIS
 
-1500-1630 Using ArcScene, Google Earth and FME
+15:00-16:30 Using ArcScene, Google Earth and FME
 
 *Wednesday 15th April*
 
-1030-1100 Future of 3DGIS
+09:30-10:00   Arrival and refreshments
 
-1100-1300 QGIS and Three.js
+10:00-11:30 Future of 3DGIS
 
-1300-1400 Lunch
+11:30-12:30 QGIS and Three.js
+
+12:30-13:30 Lunch
 
 ### Registration
 
@@ -90,7 +92,7 @@ _Details about how to register coming soon..._
 
 <img src="https://dl.dropboxusercontent.com/u/15008199/img/mel-cycle-cent-close.png" style="float:right; width:50%; height:auto;" />
 
-The [GIS for Transport Applications workshop](http://leeds.gisruk.org/gis4ta.html) is organised by the University of Leed's School of Geography in collaboration with the Institute of Transport Studies ([ITS](http://www.its.leeds.ac.uk/)). Official sponsors include the Royal Geographical Society ([RGS](http://www.rgs.org/)) via the Transport Geography Research Group ([TGRG](http://tgrg.wordpress.com/)).
+The [GIS for Transport Applications workshop](http://leeds.gisruk.org/gis4ta.html) is organised by the University of Leeds School of Geography in collaboration with the Institute of Transport Studies ([ITS](http://www.its.leeds.ac.uk/)). Official sponsors include the Royal Geographical Society ([RGS](http://www.rgs.org/)) via the Transport Geography Research Group ([TGRG](http://tgrg.wordpress.com/)).
 
 The **aim** of this workshop is to showcase the latest methods of GIS analysis in transport and illustrate how to apply these to real-world transport problems.
 
@@ -119,7 +121,9 @@ Please use the [application template](http://leeds.gisruk.org/GIS4TA_Application
 13:30 – 14:30	Collecting, processing and analysing large GPS and Smartphone datasets: talk 
 		followed by an introductory tutorial ([Richard Ellison](http://sydney.edu.au/business/itls/staff/richarde) and [Adrian Ellison](http://sydney.edu.au/business/staff/adriane), [University of Sydney](http://sydney.edu.au/business/itls))
 
-14:30 – 16:30	 Hackathon to develop methods for identifying optimal routes for bicycle paths,
+14:30 - 15:00    Tea / coffee break
+
+15:00 – 16:30	 Hackathon to develop methods for identifying optimal routes for bicycle paths,
 		using methods described in morning session (Godwin Yeboah,
 		[University of	Aberdeen](http://www.abdn.ac.uk/geosciences/people/profiles/godwin.yeboah))
 
@@ -158,13 +162,15 @@ _Interactive web apps with coding using ArcGIS Pro and ArcGIS Online_
 
 _Geospatial coding made easy with ArcGIS Developer toolkit_
 
-10:00 - 10:30   Arrival, coffee etc.
+09:30 - 09:45   Arrival, coffee etc.
 
-10:30 - 11:00   Introduction, what is an API and SDK? What platforms do we support? What is possible with our APIs and SDKs? What is the REST API and why is it important?
+09:45 - 10:15   Introduction, what is an API and SDK? What platforms do we support? What is possible with our APIs and SDKs? What is the REST API and why is it important?
 
-11:00 - 11:30   Sign up for a developer account, create application credentials, and create a feature service in developer account. 
+10:15 - 10:45   Sign up for a developer account, create application credentials, and create a feature service in developer account. 
 
-11:30 - 11:45   Tea / Coffee
+10:45 - 11:00   Tea / Coffee
 
-11:45 - 13:15   Start using the JavaScript API; HTML page setup, CSS map setup, putting a map on the page, changing the basemap, changing center point/zoom distance. Next add a 2D hosted feature service from yesterday to our map, explain how to change symbology. Finally do some analysis and produce a heatmap.
+11:00 - 12:30   Start using the JavaScript API; HTML page setup, CSS map setup, putting a map on the page, changing the basemap, changing center point/zoom distance. Next add a 2D hosted feature service from yesterday to our map, explain how to change symbology. Finally do some analysis and produce a heatmap.
+
+12:30 - 13:30   Lunch
 
