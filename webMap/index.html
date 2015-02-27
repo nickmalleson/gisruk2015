@@ -1,0 +1,38 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+		<script src = "map_setup.js"></script>
+		<script src = "data.js"></script>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"> 
+	</head> 
+	
+	<body onload = "initialize()">
+
+		<div class = "wrapper">
+			<div id="map"></div>
+			<div class = 'legend'>
+				<div class = 'legendIcons'>
+					<img class = 'icon' src = 'attraction.png' width = '30px' height = '30px'>
+					<img class = 'icon' src = 'pub.png' width = '30px' height = '30px'>
+					<img class = 'icon' src = 'hotel.png' width = '30px' height = '30px'>
+					<img class = 'icon' src = 'food.png' width = '30px' height = '30px'>
+					<img class = 'icon' src = 'building.png' width = '30px' height = '30px'>
+					<img class = 'icon' src = 'shopping.png' width = '30px' height = '30px'>
+			</div>
+			
+			<div class = 'legendText'>
+				<div class='legendItem'><p>Attraction</p></div>
+				<div class='legendItem'><p>Bar / Pub</p></div>
+				<div class='legendItem'><p>Hotel</p></div>
+				<div class='legendItem'><p>Restaurant</p></div>
+				<div class='legendItem'><p>University Building</p></div>
+				<div class='legendItem'><p>Shopping</p></div>
+			</div>
+			
+		</div>
+	
+	</body> 
+</html> 
