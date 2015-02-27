@@ -12,7 +12,6 @@ The preliminary programme is as follows:
 -->
 
 <img src="./figures/conference_programme.png" style="
-	width:95%;
     height: auto;
     border: none;
     border-radius:0px;
@@ -20,7 +19,8 @@ The preliminary programme is as follows:
     border:1px solid #BFBFBF;
     background-color:white;
     box-shadow:2px 2px 3px #aaaaaa;
-    border-radius:15px;"/>
+    border-radius:15px;"
+/>
 
 
 <a name="WorkshopTimetable">Workshop Timetable</a>
@@ -35,5 +35,5 @@ The preliminary programme is as follows:
     border:1px solid #BFBFBF;
     background-color:white;
     box-shadow:2px 2px 3px #aaaaaa;
-    border-radius:15px;"/>
+    border-radius:15px;"
 />
