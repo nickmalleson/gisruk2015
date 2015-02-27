@@ -7,7 +7,7 @@ Workshops
 
 GISRUK will be organising workshops on the day before the conference (Tuesday 14th April) and the following morning (Wednesday 15th).
 
-See the details below if you would like to register for any of the workshops.
+An overview of the workshop timetable is available <a href="programme.html#WorkshopTimetable">here</a>.
 
  - [Early Career Researchers Forum](#ECRF)
  - [3D GIS Workshop and Tutorial](#3DGIS)
@@ -41,9 +41,10 @@ The Early Career Researchers Forum (ECRF) will run before the main GISRUK confer
  - Networking (& social networking) as ways of getting jobs.
  - Getting Published - An exploration of some of the various routes to publishing research findings and to identify the requirements, opportunities and limitations involved.
 
+<hr/>
+
 <img src="figures/3DGIS-Logo.png" style="float:right; width:30%; height:auto;" />
 
-<hr/>
 
 <a name="3DGIS">3D GIS Workshop and Tutorial</a>
 ----------------------
