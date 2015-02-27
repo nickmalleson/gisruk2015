@@ -14,11 +14,21 @@ See the details below if you would like to register for any of the workshops.
  - [GIS for Transport Applications](#Transport)
  - [ESRI GIS Workshop](#ESRI)
  
+Registering for Workshops
+----------------------
+
+You can register for workshops through the conference online store:
+
+ - [http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=9&catid=47&prodid=509](http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=9&catid=47&prodid=509)
+
+ 
 <!---
  Add this event to your digital organiser via Google Calendar and don't forget to sign up asap.
 
 <a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=NzkyNXYyY3VodjJxcmZnam4zaThmcm52OWsgMGVybzVrcjUwb3JvN2lzM3IzbjJvMjBhdXNAZw&tmsrc=0ero5kr50oro7is3r3n2o20aus%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
 -->
+
+<hr/>
 
 <a name="ECRF">Early Career Researchers Forum</a>
 ----------------------
@@ -84,10 +94,6 @@ in conjunction with Ordnance Survey in developing a new 3D dataset for Great Bri
 11:30-12:30 QGIS and Three.js
 
 12:30-13:30 Lunch
-
-### Registration
-
-_Details about how to register coming soon..._
 
 
 <hr/>
