@@ -5,6 +5,12 @@ layout: master
 Call for papers
 ===============
 
+<hr/>
+The deadline for paper submissions has passed, but you can <a href="registration.html">register for the conference</a> until 23rd March 2015.
+
+If you have had a paper accepted, the deadline for changes is also 23rd March.
+<hr/>
+
 We welcome colleagues to the 23rd GIS Research UK (GISRUK) conference. The GISRUK conference series
 is the UK's national GIS research conference, established in 1993. GISRUK conferences attract
 delegates from all parts of the UK, together with the European Union and North America and from
@@ -29,11 +35,13 @@ will be a special poster session for authors to briefly present their poster.
 Important Dates
 ---------------
 
-<s>Abstract submission deadline: <span style="color:red">**Friday 7th November 2014**</span>.</s>
+<s>Abstract submission deadline: <span style="color:red">Friday 7th November 2014</span>.</s>
 
-**Abstract deadline extended until <span style="color:red">9th Jan 2015</span>.**
+<s>Abstract deadline extended until <span style="color:red">9th Jan 2015</span>.</s>
 
-Notification of acceptance: <span style="color:red">**February 2015**</span>.
+
+
+Notification of acceptance: <span style="color:red">February 2015</span>.
 
 Conference Themes
 -----------------

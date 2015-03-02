@@ -5,6 +5,11 @@ layout: master
 Registration
 ============
 
+Deadline
+--------
+
+The deadline for registration is **23rd  March**.
+
 Conference Fees
 ---------------
 

@@ -7,17 +7,28 @@ Workshops
 
 GISRUK will be organising workshops on the day before the conference (Tuesday 14th April) and the following morning (Wednesday 15th).
 
-See the details below if you would like to register for any of the workshops.
+An overview of the workshop timetable is available <a href="programme.html#WorkshopTimetable">here</a>.
 
  - [Early Career Researchers Forum](#ECRF)
  - [3D GIS Workshop and Tutorial](#3DGIS)
  - [GIS for Transport Applications](#Transport)
  - [ESRI GIS Workshop](#ESRI)
  
+Registering for Workshops
+----------------------
+
+You can register for workshops through the conference online store:
+
+ - [http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=9&catid=47&prodid=509](http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=9&catid=47&prodid=509)
+
+ 
+<!---
  Add this event to your digital organiser via Google Calendar and don't forget to sign up asap.
 
 <a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=NzkyNXYyY3VodjJxcmZnam4zaThmcm52OWsgMGVybzVrcjUwb3JvN2lzM3IzbjJvMjBhdXNAZw&tmsrc=0ero5kr50oro7is3r3n2o20aus%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
+-->
 
+<hr/>
 
 <a name="ECRF">Early Career Researchers Forum</a>
 ----------------------
@@ -30,7 +41,10 @@ The Early Career Researchers Forum (ECRF) will run before the main GISRUK confer
  - Networking (& social networking) as ways of getting jobs.
  - Getting Published - An exploration of some of the various routes to publishing research findings and to identify the requirements, opportunities and limitations involved.
 
+<hr/>
+
 <img src="figures/3DGIS-Logo.png" style="float:right; width:30%; height:auto;" />
+
 
 <a name="3DGIS">3D GIS Workshop and Tutorial</a>
 ----------------------
@@ -82,10 +96,8 @@ in conjunction with Ordnance Survey in developing a new 3D dataset for Great Bri
 
 12:30-13:30 Lunch
 
-### Registration
 
-_Details about how to register coming soon..._
-
+<hr/>
 
 <a name="Transport">GIS for Transport Applications</a>
 ----------------------
@@ -131,6 +143,8 @@ Please use the [application template](http://leeds.gisruk.org/GIS4TA_Application
 
 For more information on this workshop, please see its [web page](http://leeds.gisruk.org/gis4ta.html).
 
+<hr/>
+
 
 <a name="ESRI">ESRI GIS Workshop</a>
 ----------------------
@@ -147,28 +161,28 @@ Online, and how to easily create geospatial code use the ArcGIS Developer toolki
 
 _Interactive web apps with coding using ArcGIS Pro and ArcGIS Online_
 
-14:00 - 14:15   Arrive and register
+14:00 - 14:30   Arrive and register
 
-14:15 – 14:30   What’s new in the ArcGIS Platform (ArcGIS Pro / 3D / CityEngine  / ArcGIS Online / Collector App)
+14:30 – 15:00   What’s new in the ArcGIS Platform (ArcGIS Pro / 3D / CityEngine  / ArcGIS Online / Collector App)
 
-14:30 – 15:30   Introduction to ArcGIS Pro including small exercise
+15:00 – 15:30   Introduction to ArcGIS Pro including small exercise
 
-15:30 - 15:45   Tea / Coffee break
+15:30 - 16:00   Tea / Coffee break
 
-15:45 – 17:00   Creating interactive web apps without coding through ArcGIS Online and Web App Builder
+16:00 – 17:00   Creating interactive web apps without coding through ArcGIS Online and Web App Builder
 
 
 *Wednesday 15th April*
 
 _Geospatial coding made easy with ArcGIS Developer toolkit_
 
-09:30 - 09:45   Arrival, coffee etc.
+09:30 - 10:00   Arrival, coffee etc.
 
-09:45 - 10:15   Introduction, what is an API and SDK? What platforms do we support? What is possible with our APIs and SDKs? What is the REST API and why is it important?
+10:00 - 10:30   Introduction, what is an API and SDK? What platforms do we support? What is possible with our APIs and SDKs? What is the REST API and why is it important?
 
-10:15 - 10:45   Sign up for a developer account, create application credentials, and create a feature service in developer account. 
+10:30 - 11:00   Sign up for a developer account, create application credentials, and create a feature service in developer account. 
 
-10:45 - 11:00   Tea / Coffee
+11:00 - 11:30   Tea / Coffee
 
 11:00 - 12:30   Start using the JavaScript API; HTML page setup, CSS map setup, putting a map on the page, changing the basemap, changing center point/zoom distance. Next add a 2D hosted feature service from yesterday to our map, explain how to change symbology. Finally do some analysis and produce a heatmap.
 
