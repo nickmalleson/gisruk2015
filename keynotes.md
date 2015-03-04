@@ -8,6 +8,7 @@ Keynote Presenters
 We are proud to announce the following keynote speakers will be presenting at GISRUK 2015.
 
  - [Ed Parsons](http://www.edparsons.com/) (Wednesday 15th)
+ 
  	- Geospatial Technologist, Google
        
  - Steven Ramage (Thursday 16th)
