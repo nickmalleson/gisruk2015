@@ -32,6 +32,6 @@ Contributions are encouraged from domains that are particularly relevant to GISR
 
 Anyone with even rudimentary data analysis skills might be interested in this DataDive, that runs from 17th - 19th April in Leeds.
 
-<a href="http://www.datakind.org/blog/datadiving-in-leeds/">http://www.datakind.org/blog/datadiving-in-leeds/"</a>
+<a href="http://www.datakind.org/blog/datadiving-in-leeds/">http://www.datakind.org/blog/datadiving-in-leeds/</a>
 
 _.. more information coming soon .._
