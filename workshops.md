@@ -7,7 +7,7 @@ Workshops
 
 GISRUK will be organising workshops on the day before the conference (Tuesday 14th April) and the following morning (Wednesday 15th).
 
-An overview of the workshop timetable is available <a href="programme.html#WorkshopTimetable">here</a>.
+An overview of the workshop timetable is available <a href="programme.html#workshope">here</a>.
 
  - [Early Career Researchers Forum](#ECRF)
  - [3D GIS Workshop and Tutorial](#3DGIS)
