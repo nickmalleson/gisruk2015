@@ -28,7 +28,7 @@ for i in range(len(data)):
     # Split authors string on commas and 'and'
     authors = []
     for auth in re.split(r',|and', data['authors'][i].strip()):
-        authors.append(auth.strip())
+        authors.append(auth.strip().strip(','))
     d['authors'] = authors
     out.append(d)
 
