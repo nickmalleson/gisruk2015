@@ -15,11 +15,11 @@ If you are attending a workshop, the [workshop programme](#workshop) is also bel
 _**Please note that a nice, interactive programme is coming soon...**_
 
 
-<a name="sessions">Timetabled Sessions</a>
+<a name="sessions">Papers and their Timetabled Sessions</a>
 ---------------
 
 
-<table border="1">
+<table >
 <thead><tr><th title="Field #1">Paper Number</th>
 <th title="Field #2">Authors</th>
 <th title="Field #3">Title</th>
