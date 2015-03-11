@@ -19,7 +19,7 @@ _**Please note that a nice, interactive programme is coming soon...**_
 ---------------
 
 
-<table border=1>
+<table border="1">
 <thead style="width: 100%;"><tr><th title="Field #1">Paper Number</th>
 <th title="Field #2">Authors</th>
 <th title="Field #3">Title</th>
