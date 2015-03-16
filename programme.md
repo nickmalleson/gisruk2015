@@ -598,7 +598,7 @@ _**Please note that a nice, interactive programme is coming soon...**_
 <tr><td align="right">122</td>
 <td>Humphrey Southall and Michael Stoner</td>
 <td>Creating a spatio-temporal â€œData Feedâ€ù API for a large and diverse library of historical statistics for areas within Britain</td>
-<td>5A</td>
+<td>1C</td>
 </tr>
 <tr><td align="right">123</td>
 <td>Chris Gale, Alex Singleton and Paul Longley</td>
