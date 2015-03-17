@@ -9,6 +9,14 @@ Call for papers
 The deadline for paper submissions has passed, but you can <a href="registration.html">register for the conference</a> until 23rd March 2015.
 
 If you have had a paper accepted, the deadline for changes is also 23rd March.
+
+If you are presenting a paper, please prepare a presentation that is **no longer than 15 minutes**. This
+will allow a few minutes for questions. If you have electronic slides, these can be uploaded on the
+day. The presentation computers will have internet access (barring any unexpected failures).
+
+If you are preparing a poster, it will need to fit on a poster board that is A0 size portrait. So
+your poster can either be A0 portrait size, or A1 landscape (or smaller of course).
+
 <hr/>
 
 We welcome colleagues to the 23rd GIS Research UK (GISRUK) conference. The GISRUK conference series
