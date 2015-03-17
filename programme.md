@@ -14,6 +14,16 @@ If you are attending a workshop, the [workshop programme](#workshop) is also bel
 
 _**Please note that a nice, interactive programme is coming soon...**_
 
+Preparing your Presentation or Poster
+---------------
+
+If you are presenting a paper, please prepare a presentation that is no longer than 15 minutes. This
+will allow a few minutes for questions. If you have electronic slides, these can be uploaded on the
+day. The presentation computers will have internet access (barring any unexpected failures).
+
+If you are preparing a poster, it will need to fit on a poster board that is A0 size portrait. So
+your poster can either be A0 portrait size, or A1 landscape (or smaller of course).
+
 
 <a name="sessions">Papers and their Timetabled Sessions</a>
 ---------------
