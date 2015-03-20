@@ -14,4 +14,6 @@ papers_db.csv -> papaers_db.json
 
 Uses D3 to read the conference data (in the file all_papers.json) and display it, providing functions for filtering etc.
 
+all_papers.json comes from a dump of all easychair data (see research/conferences/GISRUK2015/programme/easychair_scrape/scrape_gisruk_html.py)
+
 
