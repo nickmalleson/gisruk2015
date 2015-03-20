@@ -21,15 +21,18 @@
         
         <!-- Placeholder for the table -->
         <table>
-            <tr>
-                <th>#</th>
-                <th>Authors</th>
-                <th>Title</th>
-                <th>Session</th>
-                <!--<th>Group</th>
-                <th>Category</th>-->
-                <th>Abstract</th>
-            </tr>
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Authors</th>
+                    <th>Title</th>
+                    <th>Session</th>
+                    <!--<th>Group</th>
+                    <th>Category</th>-->
+                    <th>Abstract</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
         </table>
         
         
@@ -82,7 +85,7 @@
                 if (init) {
 
                     // Bind the rows to each line of data / json object (e.g. a paper)
-                    var tr = d3.select("table").selectAll("tr").data(dataset).enter().append("tr");
+                    var tr = d3.select("tbody").selectAll("tr").data(dataset).enter().append("tr");
 
                     // Add some fancy visualisation stuff to the rows
                     tr.on("mouseover", function(d) {
