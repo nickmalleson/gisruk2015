@@ -14,9 +14,9 @@
         <h1>Programme Database (Under Development)</h1>
         
         <form>
-            Author name: <input type="text" name="name" id="name-form">
-            Paper Title: <input type="text" name="title" id="title-form">
-            Abstract: <input type="text" name="abstract" id="abstract-form">
+            <div class="formbox">Author name: <input type="text" name="name" id="name-form"></div>
+            <div class="formbox">Paper Title: <input type="text" name="title" id="title-form"></div>
+            <div class="formbox">Abstract: <input type="text" name="abstract" id="abstract-form"></div>
         </form>
         
         <!-- Placeholder for the table -->
@@ -26,8 +26,8 @@
                 <th>Authors</th>
                 <th>Title</th>
                 <th>Session</th>
-                <th>Group</th>
-                <th>Category</th>
+                <!--<th>Group</th>
+                <th>Category</th>-->
                 <th>Abstract</th>
             </tr>
         </table>
@@ -95,18 +95,15 @@
                         // Bind the data json object (a paper) to the number of <td> elements required
                         .data(function(d, i){
                             console.log("populatePaper:"+filter_name);
-                            //if (d['authors'].indexOf(filter_name) > -1 ) {
-                            //        return [d,d,d,d,d,d];
-                            //}
-                            //else {
-                            //    return [0,0,0,0,0,0];
-                            //}
-                            return [d,d,d,d,d,d,d];
+                            return [d,d,d,d,d];
                         }) 
                         // Create new <td> elements for each datum
                         .enter().append("td")
                         // Populate the <td> with author, title, etc
-                        .text(function(d, i){return paperInfo(d,i);});
+                        .text(function(d, i){return paperInfo(d,i,"details");})
+                        // Attrbute can be use to set the style for <td>s
+                        .attr("style", function(d, i){return paperInfo(d,i,"style");})
+                        ;
                           //.text(function(d, i){return "AA";});
                     
                 } // if init
@@ -115,13 +112,14 @@
                     
                     if (filter_name === "" && filter_title === "" && filter_abstract === "") { // 
                         // No filter criteria, display all the rows
-                        var tr = d3.select("table").selectAll("tr").transition().attr("style", "");
+                        // (Note: transition doesn't work because d3 only interpolates on numerical values)
+                        var tr = d3.select("table").selectAll("tr").transition().duration(1000).attr("style", "");
                     }
                     
                     else { // There are some filter criteria, only display those rows that match criteria
                         // Get the rows and make them invisible
-                        var tr = d3.select("table").selectAll("tr").transition().
-                            attr("style", function(d,i) {
+                        var tr = d3.select("table").selectAll("tr")
+                            .attr("style", function(d,i) {
                                 if (i===0) {
                                     // Always show the first row (the header). Returning empty string
                                     // means that the style attrbute for each row is null (i.e. not display:none)
@@ -166,28 +164,33 @@
             } // List papers ()
             
             
-            /** Return a row of html for the datum 'd' */
-            function paperInfo(d, i){
+            /** Return a row of html for the datum 'd'.
+            Type can have the following:
+             - 'details' - return the actual text for each <td>
+             - 'style' - return the style attribute for the <td> (used to reduce abstract text size)
+             */
+            function paperInfo(d, i, type){
                 switch (i) {
-                        case 0: return d['number'];
-                        case 1: return d['authors'];
-                        case 2: return d['title'];
-                        case 3: return d['session'].substring(0,2); // Don't use session names yet
-                        case 4: return d['groups'];
-                        case 5: return d['category'];
-                        case 6: return d['abstract'];
+                        case 0: 
+                            if (type==="details") return d['number'];
+                            else if (type==="style") return null; // Return null so no font-size attribute
+                        case 1: 
+                            if (type==="details") return d['authors']; 
+                            else if (type==="style") return null;
+                        case 2: 
+                            if (type==="details") return d['title']; 
+                            else if (type==="style") return null;
+                        case 3: 
+                            if (type==="details")  return d['session'].substring(0,2); // Don't use session names yet
+                            else if (type==="style") return null;
+                        /*case 4: return d['groups'];
+                        case 5: return d['category'];*/
+                        case 4: 
+                            if (type==="details") return d['abstract'];
+                            else if (type==="style") return "font-size: 0.8em;"; // Make abstract smaller
                         //default: return "no abstract yet";                        
                 }// switch
                 
-//                var temp = [
-//                        d['PaperNo'],
-//                        d['authors'],
-//                        d['title'],
-//                        d['Group'],
-//                        d['category'],
-//                        "No abstract yet"
-//                    ] ;
-//                return temp;
             }
             
             /* Bind the user input form to functions that are executed each time there 
