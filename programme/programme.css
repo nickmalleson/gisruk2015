@@ -11,6 +11,10 @@ thead {
     font-style: bold;
 }
 
+thead td {
+  cursor: s-resize;
+}
+
 table {
     border-spacing: 10px ; /* to separate cells */
     padding: 20px;
