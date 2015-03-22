@@ -5,14 +5,13 @@ layout: master
 GISRUK Conference Programme
 ---------------
 
-This page contains the draft conference programme. To find out when your paper has been scheduled:
+This page contains the draft conference programme. To find out when your paper has been scheduled simply locate your paper on the searchable list of [papers and their timetabled sessions](#sesions).
 
- 1. Find your paper on the list of [papers and their timetabled sessions](#sesions) (below).
- 1. Locate the sesion on the [conference programme](#programme) (below).
+There is also:
 
-If you are attending a workshop, the [workshop programme](#workshop) is also below.
-
-_**Please note that a nice, interactive programme is coming soon...**_
+ - An overview of the main [conference programme](#programme).
+ - A [workshop programme](#workshop), containing an overview of all the workshops.
+ - A <a href="./session_overview.html">session overview</a> that lists all papers and abstracts by their session.
 
 Preparing your Presentation or Poster
 ---------------
