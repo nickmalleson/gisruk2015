@@ -7,7 +7,7 @@ GISRUK Conference Programme
 
 This page contains the draft conference programme. To find out when your paper has been scheduled simply locate your paper on the searchable list of [papers and their timetabled sessions](#sesions).
 
-There is also:
+You can also find:
 
  - An overview of the main [conference programme](#programme).
  - A [workshop programme](#workshop), containing an overview of all the workshops.
@@ -26,6 +26,7 @@ your poster can either be A0 portrait size, or A1 landscape (or smaller of cours
 
 <a name="sessions">Papers and their Timetabled Sessions</a>
 ---------------
+
 
 
 <table border="1">
