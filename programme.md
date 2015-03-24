@@ -29,6 +29,8 @@ your poster can either be A0 portrait size, or A1 landscape (or smaller of cours
 
 This is a searchable table. Put text into the boxes below and only papers that match your search criteria will be shown. Clear the text boxes to show all papers.
 
+To find out when your session has been timetabled, see the main [conference programme](#programme).
+
 <!--
 NOTE: the searchable programme below comes from the 'programme' branch of this project. See that branch for details about how it works, where the data come from, and how it was created
 ALSO NOTE: after copying in the <script> stuff, the indentation needs to be reduced otherwise jekyll thinks that it should interpret the html as text (source code), rather than proper html. Possibly best thing to do is remove all indentation all together (the readable code is still available to see in the 'programme' branch).
