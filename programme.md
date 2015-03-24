@@ -41,7 +41,6 @@ ALSO NOTE: after copying in the <script> stuff, the indentation needs to be redu
 <div class="formbox">Abstract: <input type="text" name="abstract" id="abstract-form"></div>
 </form>
         
-<!-- Placeholder for the table -->
 <table>
 <thead>
 <tr>
@@ -57,9 +56,6 @@ ALSO NOTE: after copying in the <script> stuff, the indentation needs to be redu
 <tbody></tbody>
 </table>
 
-
-
-<!-- The script below does the data stuff -->
 
 <script type="text/javascript">
 var dataset; // Global variable to represent the data           
