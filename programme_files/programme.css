@@ -16,9 +16,9 @@ thead td {
 }
 
 table {
-    border-spacing: 10px ; /* to separate cells */
-    padding: 20px;
-    margin:20px;
+    border-spacing: 5px ; /* to separate cells */
+    padding: 5px;
+    margin:5px;
     border:1px solid #EEEEEE;
     box-shadow:1px 5px 5px 1px #aaaaaa;
     border-radius:15px;
@@ -30,23 +30,23 @@ table {
 
 form {
     background: #ffffff;
-	-moz-border-radius: 5px;
+	/*-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
-	border-radius: 5px;
-	padding: 15px;
-    margin:15px;
+	border-radius: 5px;*/
+	padding: 5px;
+    margin:5px;
 }
 
 input {
-	padding: 10px;
+	padding: 5px;
 }
 
 div.formbox { /* The box around each search criteria */
     border:1px solid #EEEEEE;
     box-shadow:1px 5px 5px 1px #aaaaaa;
-    border-radius:15px;
+    /*border-radius:15px;
     -moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
+	-webkit-border-radius: 5px;*/
     background-color: white;
 
     display:inline; /* Stop divs starting a newline */
@@ -54,6 +54,6 @@ div.formbox { /* The box around each search criteria */
 	line-height: 30px;
 	list-style: none;
     padding: 10px;
-	margin: 10px 20px 10px 10px;
+	margin: 5px 10px 5px 5px;
 	margin-bottom: 2px;
 }
