@@ -3,9 +3,9 @@
     <head>
         <meta charset="utf-8">
         <title>GISRUK Programme</title>
-        <script type="text/javascript" src="./d3.min.js"></script>
+        <script type="text/javascript" src="./programme_files/d3.min.js"></script>
        <!-- <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script> -->
-         <link rel="stylesheet" type="text/css" href="programme.css" /> 
+         <link rel="stylesheet" type="text/css" href="./programme_files/programme.css" /> 
     </head>
     
     
@@ -50,7 +50,7 @@
             
             // Read the data. This is asynchronous, so all data handling should be done in the
             // callback function
-            d3.json("./all_papers.json", function(error, data) {
+            d3.json("./programme_files/all_papers.json", function(error, data) {
                     if (error) {  //If error is not null, something went wrong.
                         console.log(error);  //Log the error.
                     } 
