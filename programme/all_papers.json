@@ -17,7 +17,12 @@
             "ethnicity"
         ], 
         "number": 1, 
-        "session": "Po", 
+        "session": [
+            "Poster Session", 
+            "none", 
+            "Po", 
+            "Parkinson Court"
+        ], 
         "title": "Mapping terrorist activities in Central Asia: Regional view on domestic issue 1990-2012", 
         "topics": [
             "Spatial analysis and visualisation"
@@ -43,7 +48,12 @@
             "Blight"
         ], 
         "number": 10, 
-        "session": "Po", 
+        "session": [
+            "Poster Session", 
+            "none", 
+            "Po", 
+            "Parkinson Court"
+        ], 
         "title": "Mapping the Health and Crime Nexus Using Spatial Video and Geonarratives: Examples from the United States", 
         "topics": [
             "Crime and Policing", 
@@ -70,10 +80,16 @@
             "Postcode", 
             "Census", 
             "Density", 
-            "Choropleth"
+            "Choropleth", 
+            "MAUP"
         ], 
         "number": 100, 
-        "session": "4C", 
+        "session": [
+            "4C - Technical Challenges", 
+            "Lex Comber", 
+            "4C", 
+            "LG15"
+        ], 
         "title": "Using GeoTools to explore Advice Leeds client data", 
         "topics": [
             "Geodemographics and populations", 
@@ -98,7 +114,12 @@
             "smartphone tracking"
         ], 
         "number": 101, 
-        "session": "2A", 
+        "session": [
+            "2A - Transport (I)", 
+            "Stephen Clark", 
+            "2A", 
+            "RBLT"
+        ], 
         "title": "Assessing spatial distribution and variability of destinations in inner-city Sydney from travel diary and smartphone location data", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -125,7 +146,12 @@
             "food consumption"
         ], 
         "number": 102, 
-        "session": "3B", 
+        "session": [
+            "3B - Geodemographics (I)", 
+            "Luke Burns", 
+            "3B", 
+            "LG19"
+        ], 
         "title": "Creating an Output Area Classification of Cultural and Ethnic Heritage to Assist the Planning of Ethnic Origin Foods in Supermarkets in England and Wales", 
         "topics": [
             "Geodemographics and populations"
@@ -151,7 +177,12 @@
             "User-Centred Design"
         ], 
         "number": 103, 
-        "session": "4A", 
+        "session": [
+            "4A - Urban", 
+            "Elena Kirby-Hawkins", 
+            "4A", 
+            "RBLT"
+        ], 
         "title": "Designing 3D Geographic Information for Navigation Using Google Glass", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -178,7 +209,12 @@
             "Microdata"
         ], 
         "number": 104, 
-        "session": "6C", 
+        "session": [
+            "6C - UKDS Census Support Session", 
+            "John Stillwell", 
+            "6C", 
+            "LG15"
+        ], 
         "title": "Spatial Analysis of Commuting to Work Intensities and Patterns in England and Wales and the Leeds City Region  ", 
         "topics": [
             "Transport systems"
@@ -198,7 +234,12 @@
             "Spatial Analysis"
         ], 
         "number": 105, 
-        "session": "1C", 
+        "session": [
+            "1C - Big Data (I)", 
+            "Alison Heppenstall", 
+            "1C", 
+            "LG15"
+        ], 
         "title": "Geodemographics and Big Data \u2013 A New Research Agenda", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -225,7 +266,12 @@
             "3D Topology"
         ], 
         "number": 106, 
-        "session": "8A", 
+        "session": [
+            "8A - GIS and the Environment (II)", 
+            "Steve Carver", 
+            "8A", 
+            "RBLT"
+        ], 
         "title": "Integrating BIM and GIS : Exploring the use of IFC space objects and boundaries ", 
         "topics": [
             "Energy and sustainability"
@@ -249,7 +295,12 @@
             "Predictive Policing"
         ], 
         "number": 107, 
-        "session": "1A", 
+        "session": [
+            "1A - Crime and Policing (I)", 
+            "Graham Clarke", 
+            "1A", 
+            "RBLT"
+        ], 
         "title": "Agent-Based Modelling of Crime", 
         "topics": [
             "Crime and Policing"
@@ -271,7 +322,12 @@
             "large scale"
         ], 
         "number": 108, 
-        "session": "Po", 
+        "session": [
+            "Poster Session", 
+            "none", 
+            "Po", 
+            "Parkinson Court"
+        ], 
         "title": "A Methodology for Assessment of Rooftop Solar Potential for Widely Distributed Property Holdings: Challenges, Lessons Learned and Future Directions", 
         "topics": [
             "Energy and sustainability", 
@@ -294,7 +350,12 @@
             "census"
         ], 
         "number": 109, 
-        "session": "5B", 
+        "session": [
+            "5B - Historical GIS", 
+            "Paul Norman", 
+            "5B", 
+            "LG19"
+        ], 
         "title": "Researching long-run trends in South East England 1841-2011 for the European Union and Greater London Authority", 
         "topics": [
             "Historical applications of GIS"
@@ -318,7 +379,12 @@
             "Registrar General"
         ], 
         "number": 11, 
-        "session": "4B", 
+        "session": [
+            "4B - Health", 
+            "Paul Norman", 
+            "4B", 
+            "LG19"
+        ], 
         "title": "Combining Statistics and Texts Using GIS: Nineteenth Century Health Reports", 
         "topics": [
             "Health and Wellbeing", 
@@ -342,7 +408,12 @@
             "Population Projection"
         ], 
         "number": 110, 
-        "session": "6C", 
+        "session": [
+            "6C - UKDS Census Support Session", 
+            "John Stillwell", 
+            "6C", 
+            "LG15"
+        ], 
         "title": "UK internal migration by ethnicity", 
         "topics": [
             "Geodemographics and populations", 
@@ -366,7 +437,12 @@
             "spatial literacy"
         ], 
         "number": 111, 
-        "session": "7C", 
+        "session": [
+            "7C - Geodemographics (II)", 
+            "Adam Dennett", 
+            "7C", 
+            "LG15"
+        ], 
         "title": "Inequality in access to education, and inequality in access to information about allocation of school places", 
         "topics": [
             "Geodemographics and populations", 
@@ -375,7 +451,7 @@
         ]
     }, 
     {
-        "abstract": "The ethnic composition of the UK is changing; in 2011 more than 10% of the population defined themselves as not White British. Still, information on mortality for ethnic groups, an important population health indicator, is not routinely collected.\nIn the course of developing ethnic population projection for the UK, we developed the first estimates of ethnic mortality in the UK for 2001 using geographical distribution of ethnic populations across local areas and vital statistics information.  We now have new estimates for 2011, produced with the same geographically weighted method.\nIn this paper we will discuss changes in ethnic mortality and health between 2001 and 2011 for UK ethnic groups.\n", 
+        "abstract": "The ethnic composition of the UK is changing; about 20% of the population defined themselves as not White British by 2011. Still, information on mortality for ethnic groups, an important population health indicator, is not routinely collected everywhere the country.Previously, we developed the first estimates of ethnic mortality for local areas in the UK for 2001 using information on the geographical distribution of the ethnic populations as well as health and vital statistics information and found profound variations across groups. With updated information available from the recent census, we now produced ethnic mortality estimates for 2011. This paper will discuss how our results can be set in context with other emerging literature and how ethnic mortality has changed over the decade.", 
         "authors": [
             "Pia Wohland", 
             "Phil Rees"
@@ -386,11 +462,17 @@
         "keywords": [
             "Ethnic mortality", 
             "Health inequality", 
-            "UK"
+            "England and Wales", 
+            "Local Areas"
         ], 
         "number": 112, 
-        "session": "4B", 
-        "title": "New estimates of ethnic mortality - resolving the debate ", 
+        "session": [
+            "4B - Health", 
+            "Paul Norman", 
+            "4B", 
+            "LG19"
+        ], 
+        "title": "Estimates of ethnic mortality in the UK revisited", 
         "topics": [
             "Health and Wellbeing"
         ]
@@ -419,7 +501,12 @@
             "Agent Based"
         ], 
         "number": 113, 
-        "session": "1C", 
+        "session": [
+            "1C - Big Data (I)", 
+            "Alison Heppenstall", 
+            "1C", 
+            "LG15"
+        ], 
         "title": "A Framework for Big Data in studies of Urban Mobility and Movement", 
         "topics": [
             "Big Data and the future of GIS"
@@ -441,7 +528,12 @@
             "grid"
         ], 
         "number": 114, 
-        "session": "3B", 
+        "session": [
+            "3B - Geodemographics (I)", 
+            "Luke Burns", 
+            "3B", 
+            "LG19"
+        ], 
         "title": " Census statistics for Civil Parishes \u2013  When \u201cbest-fitting\u201d just isn\u2019t good enough", 
         "topics": [
             "Geodemographics and populations"
@@ -465,7 +557,12 @@
             "Developing Countries"
         ], 
         "number": 115, 
-        "session": "8C", 
+        "session": [
+            "8C - Social Media", 
+            "Alastair Leak", 
+            "8C", 
+            "LG15"
+        ], 
         "title": "Using Mobile Phone Traces to Understand Activity and Mobility in Dakar, Senegal", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -488,7 +585,12 @@
             "Migration"
         ], 
         "number": 116, 
-        "session": "7C", 
+        "session": [
+            "7C - Geodemographics (II)", 
+            "Adam Dennett", 
+            "7C", 
+            "LG15"
+        ], 
         "title": "A Visual, Statistically Robust Anomaly Detector For Migration Data", 
         "topics": [
             "Geodemographics and populations", 
@@ -498,7 +600,7 @@
         ]
     }, 
     {
-        "abstract": "Like most populations worldwide, the population of the UK is aging. That is more people live to older ages. At the same time the UK is still notorious for health and mortality inequalities across the country.\nHere we measure health inequalities with disability free live expected (DFLE) and healthy life expectancy (HLE), which both combine morbidity and mortality experience of a population.\nWe will explore which socio-economic and socio-demographic factors explain the variation in HLE and DFLE between LA in England and Wales in 2001 and do they affect DFLE and HLE in the same way? \n", 
+        "abstract": "The population of the UK is aging. At the same time the UK is renowned for health and mortality inequalities across the country and some studies suggest that this gap is widening. This study explores health inequalities in disability free live expectancy (DFLE) and healthy life expectancy (HLE). We identify socio-economic and socio-demographic factors explaining the variation in HLE and DFLE across England in 2001 and whether they affect DFLE and HLE the same way. In addition, we explore how inequality within a local area affects the overall health expectancy of an area; our hypothesis is that unequal areas are more health disadvantaged than more equal areas.", 
         "authors": [
             "Pia Wohland", 
             "Seraphim Alvanides", 
@@ -510,11 +612,16 @@
         "keywords": [
             "Health expectancy", 
             "Health inequality", 
-            "England and Wales"
+            "England"
         ], 
         "number": 117, 
-        "session": "Po", 
-        "title": "Understanding health expectancy inequalities across local areas in England and Wales", 
+        "session": [
+            "Poster Session", 
+            "none", 
+            "Po", 
+            "Parkinson Court"
+        ], 
+        "title": "Disability free life expectancy and healthy life expectancy -do they tell the same story?", 
         "topics": [
             "Health and Wellbeing"
         ]
@@ -538,7 +645,12 @@
             "developing country"
         ], 
         "number": 118, 
-        "session": "3A", 
+        "session": [
+            "3A - Crime and Policing (II)", 
+            "Nick Addis", 
+            "3A", 
+            "RBLT"
+        ], 
         "title": "Understanding the spatial pattern of urban crime: a developing country\u2019s perspective", 
         "topics": [
             "Crime and Policing", 
@@ -565,7 +677,12 @@
             "data quality assessment"
         ], 
         "number": 119, 
-        "session": "3C", 
+        "session": [
+            "3C - Big Data (II)", 
+            "Alex Singleton", 
+            "3C", 
+            "LG15"
+        ], 
         "title": "Assessing the quality of OpenStreetMap building data and searching for a proxy variable to estimate OSM building data completeness", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -592,38 +709,16 @@
             "Cholera"
         ], 
         "number": 12, 
-        "session": "8A", 
+        "session": [
+            "Poster Session", 
+            "none", 
+            "Po", 
+            "Parkinson Court"
+        ], 
         "title": "The Utility of Spatial Video for Assessing Risk in Challenging Environments: A Case Study of Cholera in Haiti", 
         "topics": [
             "Environmental GIS and Hazards", 
             "Health and Wellbeing"
-        ]
-    }, 
-    {
-        "abstract": "In this paper we present a new approach to regional estimation of population density coefficients. Ancillary data that are used to guide the disaggregation are used also to characterize each of the source zones. Similarity of the derived characteristics is used to construct a non-spatial local neighbourhood of each source zone. Relationships between the ancillary variables and population density are established based on these neighbourhoods rather than conventional regions. A sensitivity study is conducted to find if the non-spatial neighbourhoods are more appropriate in the particular setting compared to conventional regions and spatial neighbourhoods.", 
-        "authors": [
-            "Kon\u0161tant\u00edn Rosina", 
-            "Pavol Hurb\u00e1nek"
-        ], 
-        "category": "Poster (max one page)", 
-        "decision": "poster", 
-        "groups": [
-            "Early-career author (PhD or Masters student)"
-        ], 
-        "keywords": [
-            "dasymetric", 
-            "spatial disaggregation", 
-            "population density", 
-            "feature space", 
-            "neighbourhood"
-        ], 
-        "number": 120, 
-        "session": "Po", 
-        "title": "Dasymetric population disaggregation using local neighbourhoods in feature spaces derived from ancillary data", 
-        "topics": [
-            "Geodemographics and populations", 
-            "Spatial analysis and visualisation", 
-            "Uncertainty and Error"
         ]
     }, 
     {
@@ -642,7 +737,12 @@
             "Temporal profile"
         ], 
         "number": 121, 
-        "session": "8B", 
+        "session": [
+            "8B - Retail Science", 
+            "Nick Hood", 
+            "8B", 
+            "LG19"
+        ], 
         "title": "Temporal profile of daily sales in retail stores in London ", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -665,7 +765,12 @@
             "Historical GIS"
         ], 
         "number": 122, 
-        "session": "5A", 
+        "session": [
+            "1C - Big Data (I)", 
+            "Alison Heppenstall", 
+            "1C", 
+            "LG15"
+        ], 
         "title": "Creating a spatio-temporal \u201cData Feed\u201d API for a large and diverse library of historical statistics for areas within Britain", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -690,7 +795,12 @@
             "OAC"
         ], 
         "number": 123, 
-        "session": "6C", 
+        "session": [
+            "6C - UKDS Census Support Session", 
+            "John Stillwell", 
+            "6C", 
+            "LG15"
+        ], 
         "title": "Profiling Burglary in London using Geodemographics", 
         "topics": [
             "Crime and Policing", 
@@ -715,7 +825,12 @@
             "decision support tool"
         ], 
         "number": 124, 
-        "session": "7A", 
+        "session": [
+            "7A - Cities", 
+            "Robin Lovelace", 
+            "7A", 
+            "RBLT"
+        ], 
         "title": "Calculating the Overbuilding Potential of Municipal Buildings in London ", 
         "topics": [
             "Other GIS topics"
@@ -739,7 +854,12 @@
             "Social network analysis"
         ], 
         "number": 125, 
-        "session": "2C", 
+        "session": [
+            "2C - Visualisation", 
+            "Ed Manley", 
+            "2C", 
+            "LG15"
+        ], 
         "title": "Data Exploration with GIS Viewsheds and Social Network Analysis", 
         "topics": [
             "Geodemographics and populations", 
@@ -765,7 +885,12 @@
             "milieus"
         ], 
         "number": 126, 
-        "session": "6C", 
+        "session": [
+            "6C - UKDS Census Support Session", 
+            "John Stillwell", 
+            "6C", 
+            "LG15"
+        ], 
         "title": "Geodemographics and spatial microsimulation: using survey data to infer health milieu geographies", 
         "topics": [
             "Geodemographics and populations", 
@@ -791,7 +916,12 @@
             "Simulations"
         ], 
         "number": 127, 
-        "session": "3B", 
+        "session": [
+            "3B - Geodemographics (I)", 
+            "Luke Burns", 
+            "3B", 
+            "LG19"
+        ], 
         "title": "Alternative Approaches to Forecasting Migration: Framework and UK Illustrations", 
         "topics": [
             "Geodemographics and populations"
@@ -815,7 +945,12 @@
             "England"
         ], 
         "number": 128, 
-        "session": "7C", 
+        "session": [
+            "7C - Geodemographics (II)", 
+            "Adam Dennett", 
+            "7C", 
+            "LG15"
+        ], 
         "title": "Learning Lessons from Population Projections: How Well Did We Forecast the Ethnic Transition?", 
         "topics": [
             "Geodemographics and populations"
@@ -841,7 +976,12 @@
             "T-GIS"
         ], 
         "number": 129, 
-        "session": "6B", 
+        "session": [
+            "6B - GIS and Hazards", 
+            "Rachel Oldroyd", 
+            "6B", 
+            "LG19"
+        ], 
         "title": "A Spatiotemporal Population Subgroup Model of Radiation Exposure", 
         "topics": [
             "Environmental GIS and Hazards"
@@ -868,7 +1008,12 @@
             "Usability"
         ], 
         "number": 13, 
-        "session": "5A", 
+        "session": [
+            "5A - Big Data (III)", 
+            "James Cheshire", 
+            "5A", 
+            "RBLT"
+        ], 
         "title": "Evaluating the Spraycan: understanding participant interaction with a PPGIS", 
         "topics": [
             "Other GIS topics", 
@@ -893,7 +1038,12 @@
             "Navigation services"
         ], 
         "number": 130, 
-        "session": "Po", 
+        "session": [
+            "Poster Session", 
+            "none", 
+            "Po", 
+            "Parkinson Court"
+        ], 
         "title": "Evaluating Pedestrian Routes", 
         "topics": [
             "Spatial analysis and visualisation", 
@@ -920,7 +1070,12 @@
             "Saudi Arabia"
         ], 
         "number": 131, 
-        "session": "Po", 
+        "session": [
+            "Poster Session", 
+            "none", 
+            "Po", 
+            "Parkinson Court"
+        ], 
         "title": "The Spatial Analysis of Motor Vehicle Theft Patterns in Riyadh, Saudi Arabia", 
         "topics": [
             "Crime and Policing"
@@ -944,7 +1099,12 @@
             "Kuwait"
         ], 
         "number": 132, 
-        "session": "3A", 
+        "session": [
+            "3A - Crime and Policing (II)", 
+            "Nick Addis", 
+            "3A", 
+            "RBLT"
+        ], 
         "title": "Utilising GIS capabilities to study and analyse the spatial distribution of crimes in Kuwait", 
         "topics": [
             "Crime and Policing"
@@ -966,7 +1126,12 @@
             "MIDAS"
         ], 
         "number": 14, 
-        "session": "5B", 
+        "session": [
+            "5B - Historical GIS", 
+            "Paul Norman", 
+            "5B", 
+            "LG19"
+        ], 
         "title": "Do Geospatial & Heritage standards work and do they work together?", 
         "topics": [
             "Historical applications of GIS", 
@@ -990,7 +1155,12 @@
             "pedestrian"
         ], 
         "number": 15, 
-        "session": "5A", 
+        "session": [
+            "5A - Big Data (III)", 
+            "James Cheshire", 
+            "5A", 
+            "RBLT"
+        ], 
         "title": "sDNA: how and why we reinvented Spatial Network Analysis for health, economics and active modes of transport", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -1014,7 +1184,12 @@
             "spatial-temporal analysis"
         ], 
         "number": 16, 
-        "session": "1B", 
+        "session": [
+            "1B - GIS and the Environment (I)", 
+            "Steve Carver", 
+            "1B", 
+            "LG19"
+        ], 
         "title": "Mapping Interactive Behaviour in Wildlife from GPS Tracking Data", 
         "topics": [
             "Environmental GIS and Hazards", 
@@ -1044,7 +1219,12 @@
             "Seasonality"
         ], 
         "number": 17, 
-        "session": "6B", 
+        "session": [
+            "6B - GIS and Hazards", 
+            "Rachel Oldroyd", 
+            "6B", 
+            "LG19"
+        ], 
         "title": "Assessing the impact of seasonal population fluctuation on regional flood risk management", 
         "topics": [
             "Environmental GIS and Hazards", 
@@ -1069,7 +1249,12 @@
             "Risk"
         ], 
         "number": 18, 
-        "session": "6B", 
+        "session": [
+            "6B - GIS and Hazards", 
+            "Rachel Oldroyd", 
+            "6B", 
+            "LG19"
+        ], 
         "title": "Assessing the risk landslides pose to road and rail networks ", 
         "topics": [
             "Environmental GIS and Hazards"
@@ -1094,7 +1279,12 @@
             "Pedestrian Wayfinding"
         ], 
         "number": 19, 
-        "session": "7A", 
+        "session": [
+            "7A - Cities", 
+            "Robin Lovelace", 
+            "7A", 
+            "RBLT"
+        ], 
         "title": "The Influence of Familiarity on Route Choice:  Edinburgh as a Case Study", 
         "topics": [
             "Other GIS topics"
@@ -1118,7 +1308,12 @@
             "Spatial Interaction Modelling"
         ], 
         "number": 2, 
-        "session": "5B", 
+        "session": [
+            "5B - Historical GIS", 
+            "Paul Norman", 
+            "5B", 
+            "LG19"
+        ], 
         "title": "Ephemeral Londoners: Modelling Lower Class Migration to Eighteenth Century London", 
         "topics": [
             "Historical applications of GIS"
@@ -1140,7 +1335,12 @@
             "Twitter Analysis"
         ], 
         "number": 20, 
-        "session": "5A", 
+        "session": [
+            "5A - Big Data (III)", 
+            "James Cheshire", 
+            "5A", 
+            "RBLT"
+        ], 
         "title": "Traffic Prediction and Analysis using a Big Data and Visualisation Approach", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -1164,7 +1364,12 @@
             "Census"
         ], 
         "number": 21, 
-        "session": "2B", 
+        "session": [
+            "2B - Health", 
+            "Mel Tomintz", 
+            "2B", 
+            "LG19"
+        ], 
         "title": "The changing geography of deprivation in Britain: exploiting small area census data 1971 to 2011", 
         "topics": [
             "Geodemographics and populations", 
@@ -1190,7 +1395,12 @@
             "POI"
         ], 
         "number": 22, 
-        "session": "4A", 
+        "session": [
+            "4A - Urban", 
+            "Elena Kirby-Hawkins", 
+            "4A", 
+            "RBLT"
+        ], 
         "title": "Group Behaviour Analysis of London Foot Patrol Police", 
         "topics": [
             "Crime and Policing"
@@ -1214,14 +1424,19 @@
             "Census"
         ], 
         "number": 23, 
-        "session": "3B", 
+        "session": [
+            "3B - Geodemographics (I)", 
+            "Luke Burns", 
+            "3B", 
+            "LG19"
+        ], 
         "title": "CAN ADMINISTRATIVE DATA BE USED TO CREATE A GEODEMOGRAPHIC CLASSIFICATION?", 
         "topics": [
             "Geodemographics and populations"
         ]
     }, 
     {
-        "abstract": "This paper develops a custom geodemographic classification for travel in England and Wales. Travelling is an important factor in many life decisions, including home and work life. Variables for transport (distance to nearest airport, rail station, ferry station, tram stop and bus stop, number of cars owned, and mode of travel to work) and demographics (age and social class) for each Output Area in England and Wales are used to create seven clusters of different transport characteristics. Initial impressions from the different clusters are discussed, along with future improvements to be implemented in the classification method.  ", 
+        "abstract": "This paper develops a custom geodemographic classification for travel in England and Wales. Travelling is an important factor in many life decisions, including home and work life. Variables for transport (distance to nearest airport, rail station, ferry station, tram stop and bus stop, number of cars owned, and mode of travel to work) and demographics (gender, age and social class) for each Output Area in England and Wales are used to create eight clusters of different transport characteristics. The characteristics of the different clusters are discussed, along with future improvements to be implemented in the classification method.", 
         "authors": [
             "Nick Bearman", 
             "Alex Singleton"
@@ -1237,7 +1452,12 @@
             "open data"
         ], 
         "number": 24, 
-        "session": "2A", 
+        "session": [
+            "2A - Transport (I)", 
+            "Stephen Clark", 
+            "2A", 
+            "RBLT"
+        ], 
         "title": "TravelOAC: development of travel geodemographic classifications for England and Wales based on open data", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -1265,7 +1485,12 @@
             "Interdependency"
         ], 
         "number": 25, 
-        "session": "4C", 
+        "session": [
+            "4C - Technical Challenges", 
+            "Lex Comber", 
+            "4C", 
+            "LG15"
+        ], 
         "title": "A geospatial relational database schema for interdependent network analysis and modelling", 
         "topics": [
             "Other GIS topics", 
@@ -1291,7 +1516,12 @@
             "topic modelling"
         ], 
         "number": 26, 
-        "session": "6A", 
+        "session": [
+            "6A - Transport (II)", 
+            "Stephen Clark", 
+            "6A", 
+            "RBLT"
+        ], 
         "title": "Spatio-Temporal Patterns of Passengers\u2019 Interests at London Tube Stations", 
         "topics": [
             "Big Data and the future of GIS"
@@ -1316,7 +1546,12 @@
             "Twitter"
         ], 
         "number": 27, 
-        "session": "3B", 
+        "session": [
+            "3B - Geodemographics (I)", 
+            "Luke Burns", 
+            "3B", 
+            "LG19"
+        ], 
         "title": "Towards a Seamless World Names Database", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -1342,7 +1577,12 @@
             "WiFi localisation"
         ], 
         "number": 28, 
-        "session": "2B", 
+        "session": [
+            "2B - Health", 
+            "Mel Tomintz", 
+            "2B", 
+            "LG19"
+        ], 
         "title": "Is the use of 'mobile computer technology' appropriate for locating people with dementia?", 
         "topics": [
             "Health and Wellbeing"
@@ -1366,7 +1606,12 @@
             "behavior"
         ], 
         "number": 29, 
-        "session": "Po", 
+        "session": [
+            "Poster Session", 
+            "none", 
+            "Po", 
+            "Parkinson Court"
+        ], 
         "title": "Understanding  Environmental Perceptions and Behaviors through use of Geospatial Technologies: Implications for Health Impact Assessments (HIAs)", 
         "topics": [
             "Health and Wellbeing"
@@ -1390,7 +1635,12 @@
             "Kernel Density"
         ], 
         "number": 3, 
-        "session": "2B", 
+        "session": [
+            "2B - Health", 
+            "Mel Tomintz", 
+            "2B", 
+            "LG19"
+        ], 
         "title": "Mapping of Spatial Distribution of Tuberculosis Cases in Kebbi state Nigeria 2008-2011", 
         "topics": [
             "Health and Wellbeing"
@@ -1418,7 +1668,12 @@
             "spatial database"
         ], 
         "number": 30, 
-        "session": "2C", 
+        "session": [
+            "2C - Visualisation", 
+            "Ed Manley", 
+            "2C", 
+            "LG15"
+        ], 
         "title": "Spatially modelling dependent infrastructure networks", 
         "topics": [
             "Spatial analysis and visualisation", 
@@ -1426,7 +1681,7 @@
         ]
     }, 
     {
-        "abstract": "The Digitising Scotland (DS) project aims to digitise the 24 million vital events record images (births, marriages and deaths) for all residents in Scotland since 1855 (ie transcribe them into machine encoded text). This will allow research access to information on individuals and their families for those who have ever lived in Scotland between 1855 to the present day. In this paper we present the methodology for geocoding these 24 million historical addresses in Scotland from 1855 to 1974 by introducing the HAG-GIS spatial framework and its matching algorithms implemented for the needs of the DS project. The matching processes link the historical addresses to the contemporary addresses by exact and fuzzy matching algorithms. Apart from geocoding the historical addresses, we also produce pseudo registration district boundaries using the pilot historical addresses from vital event records in 1900, 1930, 1950 and 1951.", 
+        "abstract": "The Digitising Scotland (DS) project aims to digitise the 24 million vital events record images (births, marriages and deaths) for all residents in Scotland since 1855 (ie transcribe them into machine encoded text). This will allow research access to information on individuals and their families for those who have ever lived in Scotland between 1855 to the present day. In this paper we present the methodology for geocoding these 24 million historical addresses in Scotland from 1855 to 1974 by introducing the Historical Address Geocoder \u2013 GIS (HAG-GIS) spatial framework and its matching algorithms implemented for the needs of the DS project. The matching processes link the historical addresses to the contemporary addresses by exact and fuzzy matching algorithms. Apart from geocoding the historical addresses, we also produce pseudo registration district boundaries using the pilot historical addresses from death event records in 1950 and 1951.", 
         "authors": [
             "Konstantinos Daras", 
             "Zhiqiang Feng", 
@@ -1442,7 +1697,12 @@
             "address matching"
         ], 
         "number": 31, 
-        "session": "5B", 
+        "session": [
+            "5B - Historical GIS", 
+            "Paul Norman", 
+            "5B", 
+            "LG19"
+        ], 
         "title": "HAG-GIS: A spatial framework for geocoding historical addresses", 
         "topics": [
             "Historical applications of GIS"
@@ -1462,7 +1722,12 @@
             "Czech Republic"
         ], 
         "number": 32, 
-        "session": "2A", 
+        "session": [
+            "2A - Transport (I)", 
+            "Stephen Clark", 
+            "2A", 
+            "RBLT"
+        ], 
         "title": "Development of public transport accessibility in the Czech Republic", 
         "topics": [
             "Transport systems"
@@ -1484,7 +1749,12 @@
             "machine learning"
         ], 
         "number": 33, 
-        "session": "7B", 
+        "session": [
+            "7B - New Methods", 
+            "Nik Lomax", 
+            "7B", 
+            "LG19"
+        ], 
         "title": "A self-exciting point process model for predictive policing: implementation and evaluation", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -1507,7 +1777,12 @@
             "National scale"
         ], 
         "number": 34, 
-        "session": "8B", 
+        "session": [
+            "8B - Retail Science", 
+            "Nick Hood", 
+            "8B", 
+            "LG19"
+        ], 
         "title": "A national-scale application of the Huff gravity model for the estimation of town centre retail catchment area", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -1533,7 +1808,12 @@
             "integration"
         ], 
         "number": 35, 
-        "session": "4C", 
+        "session": [
+            "4C - Technical Challenges", 
+            "Lex Comber", 
+            "4C", 
+            "LG15"
+        ], 
         "title": "The Complexity of Exclusion", 
         "topics": [
             "Other GIS topics", 
@@ -1559,7 +1839,12 @@
             "transport planning model"
         ], 
         "number": 36, 
-        "session": "2A", 
+        "session": [
+            "2A - Transport (I)", 
+            "Stephen Clark", 
+            "2A", 
+            "RBLT"
+        ], 
         "title": "Development and application of a two stage hybrid spatial microsimulation technique to provide inputs to a model of capacity to walk and cycle", 
         "topics": [
             "Energy and sustainability", 
@@ -1569,11 +1854,10 @@
         ]
     }, 
     {
-        "abstract": "Two advanced modelling approaches, Multilevel Models and Artificial Neural Networks are employed in this study to examine the impacts of house and neighbourhood characteristics on house prices at several spatial scales simultaneously. Various definitions of neighbourhood are explored to identify good predictors for house prices. This study utilises the advantages of both modelling approaches to analyse house prices in the Greater Bristol area over a 13-year period and empirically compares their predictive performance, which is the distinct contribution of this paper. ", 
+        "abstract": "Two advanced modelling approaches, Multi-Level Models and Artificial Neural Networks are employed to model house prices. These approaches and the standard Hedonic Price Model are compared in terms of predictive accuracy, capability to capture location information, and their explanatory power. These models are applied to house prices in the Greater Bristol area, 2001-2013 using secondary data from the Land Registry, the Population Census and Neighbourhood Statistics so that these models could be applied nationally. The results indicate that MLM offers good predictive accuracy with high explanatory power, especially if neighbourhood effects are explored at multiple spatial scales.", 
         "authors": [
             "Yingyu Feng", 
-            "Kelvyn Jones", 
-            "Richard Harris"
+            "Kelvyn Jones"
         ], 
         "category": "Extended abstract (max 1,500 words)", 
         "decision": "accept", 
@@ -1588,8 +1872,13 @@
             "Predictive accuracy"
         ], 
         "number": 37, 
-        "session": "7B", 
-        "title": "Comparing Methods: Using Multilevel Modelling and Artificial Neural Networks in the Analysis of House Prices ", 
+        "session": [
+            "7B - New Methods", 
+            "Nik Lomax", 
+            "7B", 
+            "LG19"
+        ], 
+        "title": "Comparing Methods: Using Multilevel Modelling and Artificial Neural Networks in the Prediction of House Prices based on property, location and neighbourhood characteristics", 
         "topics": [
             "Spatial analysis and visualisation"
         ]
@@ -1616,7 +1905,12 @@
             "E2SFCA"
         ], 
         "number": 38, 
-        "session": "7B", 
+        "session": [
+            "7B - New Methods", 
+            "Nik Lomax", 
+            "7B", 
+            "LG19"
+        ], 
         "title": "Assessing geographic data usability in analytical contexts: Undertaking sensitivity analysis of geospatial processes", 
         "topics": [
             "Other GIS topics"
@@ -1641,7 +1935,12 @@
             "Planetary Science"
         ], 
         "number": 39, 
-        "session": "3C", 
+        "session": [
+            "3C - Big Data (II)", 
+            "Alex Singleton", 
+            "3C", 
+            "LG15"
+        ], 
         "title": "The Impact of Task Workflow Design on VGI Citizen Science Platforms", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -1666,7 +1965,12 @@
             "data analysis"
         ], 
         "number": 4, 
-        "session": "1C", 
+        "session": [
+            "1C - Big Data (I)", 
+            "Alison Heppenstall", 
+            "1C", 
+            "LG15"
+        ], 
         "title": "GIS, Big Data and Lessons from John Snow", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -1694,7 +1998,12 @@
             "police vehicles"
         ], 
         "number": 40, 
-        "session": "1A", 
+        "session": [
+            "1A - Crime and Policing (I)", 
+            "Graham Clarke", 
+            "1A", 
+            "RBLT"
+        ], 
         "title": "Data-driven modelling of police route choice", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -1721,7 +2030,12 @@
             "Content Analysis"
         ], 
         "number": 41, 
-        "session": "8C", 
+        "session": [
+            "8C - Social Media", 
+            "Alastair Leak", 
+            "8C", 
+            "LG15"
+        ], 
         "title": "Exploring the geo-temporal patterns of the Twitter messages", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -1732,8 +2046,8 @@
     {
         "abstract": "Natural disasters can happen at any time and no community can consider itself completely safe from them. Digital technologies, such as Geographic Information Systems (GIS), are becoming globally pervasive (World Bank, 2014), with smartphones hosting excellent mobile mapping, data collection and information providing platforms. A report was compiled to investigate web and mobile applications that provide preparedness information and stimulate community empowerment, some using maps as a medium to convey the information. This body of work discusses the purpose, results and implications of this analysis for further work to be undertaken to address the identified research gap.", 
         "authors": [
-            "Enrica Verrucci", 
             "Gretchen Fagg", 
+            "Enrica Verrucci", 
             "Patrick Rickles"
         ], 
         "category": "Extended abstract (max 1,500 words)", 
@@ -1749,14 +2063,19 @@
             "Web and Mobile Apps"
         ], 
         "number": 42, 
-        "session": "6B", 
+        "session": [
+            "6B - GIS and Hazards", 
+            "Rachel Oldroyd", 
+            "6B", 
+            "LG19"
+        ], 
         "title": "Exploring new ways of digital engagement: a study on how mobile mapping and applications can contribute to disaster preparedness", 
         "topics": [
             "Environmental GIS and Hazards"
         ]
     }, 
     {
-        "abstract": "Whilst the number of 3D geo-spatial digital models of buildings with cultural heritage interest is burgeoning most lack semantic annotation that could be used to inform users of mobile and desktop applications about the architectural features and origins of the buildings. As part of an ongoing project this research describes methods for enriching 3D models with generic annotation implied from images of building components and from labelled building plans and diagrams, and with the text from object-specific  photo captions from social media. The work is part of broader initiative aimed at annotating 3D models with elements of text from authoritative architectural guides.", 
+        "abstract": "Whilst the number of 3D geo-spatial digital models of buildings with cultural heritage interest is burgeoning most lack semantic annotation that could be used to inform users of mobile and desktop applications about the architectural features and origins of the buildings. As part of an ongoing project this research describes methods for enriching 3D models with generic annotation implied from images of building components and from labelled building plans and diagrams, and with the text from object-specific photo captions from social media. The work is part of a broader initiative aimed at annotating 3D models with elements of text from authoritative architectural guides.", 
         "authors": [
             "Jon Slade", 
             "Christoper Jones", 
@@ -1765,7 +2084,8 @@
         "category": "Extended abstract (max 1,500 words)", 
         "decision": "accept", 
         "groups": [
-            "Early-career author (PhD or Masters student)"
+            "Early-career author (PhD or Masters student)", 
+            "GISRUK early-career bursary"
         ], 
         "keywords": [
             "3D building model", 
@@ -1775,7 +2095,12 @@
             "caption extraction"
         ], 
         "number": 43, 
-        "session": "4C", 
+        "session": [
+            "4C - Technical Challenges", 
+            "Lex Comber", 
+            "4C", 
+            "LG15"
+        ], 
         "title": "Semantic and geometric enrichment of 3D geo-spatial building models with photo captions and illustration labels", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -1801,7 +2126,12 @@
             "Point-Of-Care Diagnosis Devices"
         ], 
         "number": 44, 
-        "session": "5A", 
+        "session": [
+            "5A - Big Data (III)", 
+            "James Cheshire", 
+            "5A", 
+            "RBLT"
+        ], 
         "title": "Geospatial Big Data for Finding Useful Insights from Machine Data ", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -1826,7 +2156,12 @@
             "real-time simulation"
         ], 
         "number": 45, 
-        "session": "4C", 
+        "session": [
+            "4C - Technical Challenges", 
+            "Lex Comber", 
+            "4C", 
+            "LG15"
+        ], 
         "title": "Real time coupled network failure modelling and visualisation", 
         "topics": [
             "Spatial analysis and visualisation", 
@@ -1848,14 +2183,19 @@
             "Historical GIS"
         ], 
         "number": 46, 
-        "session": "5B", 
+        "session": [
+            "5B - Historical GIS", 
+            "Paul Norman", 
+            "5B", 
+            "LG19"
+        ], 
         "title": "Reconstructing the Agricultural Landscape of the South Downs, England: an Examination of the 1940 and 1941 World War II Plough-up Campaigns", 
         "topics": [
             "Historical applications of GIS"
         ]
     }, 
     {
-        "abstract": "1.0 Introduction  \n\nObesity rates in the UK adults continue to be the some of the highest in Europe with 24% and 25% of males and females reported to be obese respectively. Of concern is that governments and local authorities have repeatedly attempted to address the issue of obesity. Despite some attenuation, their approaches on the whole have been ineffective. Policy makers are subsequently, beginning to engage with the idea that the built environment may be a contributing factor to the obesity epidemic. Indeed, public health professionals in the UK are now encouraged to address the prevalence of fast food outlets in their area to support healthier lifestyles.1  \n\nNeighborhood food and physical activity built environments have been labelled obesogenic; facilitating an over-consumption of energy-dense, nutrient poor foods at the expense of minimal energy; thus increasing overweight and obesity. Despite an increasing policy focus, identifying associations between exposure to an obesogenic environment and increased body weight has proved challenging and the evidence base remains equivocal. A recent systematic review2 found that of those studies examining these exposures in relation to increasing body weight, fewer than half reported positive associations. Further, even fewer of the reviewed studies that were included were conducted in England. The evidence base is therefore not strongly placed at present to support interventions into politically difficult modifications of alleged obesogenic environments.\n\nDespite a lack of scientific support, modification of the obesogenic environment currently represents a key focus of local authority health policy. It is an attractive population level intervention to limit risk factors conducive to obesity. Briefly, genetic evolution has been wholly unable to match the rapidity of the environmental and societal transitions made within the 21st century. Therefore, individuals currently pay an overwhelming amount of attention to override their natural habits due to the environmental cues of everyday contemporary life. For example, the high energy densities of many fast foods challenge human appetite control systems with conditions for which they were never designed.3 By influencing the \u2018default\u2019 option in the obesogenic environment such as the proximity of fast food outlets there may be some potential to affect dietary intake and ultimately obesity.  \n\nThe \u2018default option\u2019 for an individual may be influenced somewhat by the obesogenic environment however; some population groups for example low socioeconomic status (SES) may be more vulnerable than others to the effects of the obesogenic environment. Individual- and area-level SES measures are independently related to obesity. It is increasingly important to consider both individual- and area-level measures of SES using multi-level modelling. Lower area level SES with a greater density of fast food outlets may amplify individual risk factors for obesity such as low income, education or absence of transport; a phenomena known as deprivation amplification. Despite the apparent consequences of individuals operating within obesogenic environments the research to date has insufficiently and inconsistently addressed the issue. \n\nIt is interesting that despite lobbying from policy, contemporary evidence on the obesogenic environment is essentially in its infancy. It may be unsurprising that those associations linking exposure to food and physical activity environments to weight status are at present equivocal. Besides, comparisons between studies are made difficult by a US-centric evidence base and should be interpreted with care. England in any case has a very different environmental temperament to the US yet, this important distinction has rarely explicitly been raised. Lastly, few studies have data on both the food and physical activity environment. Therefore, there is little understanding of which aspect of the neighborhood is comparatively stronger in predicting obesity and thus offering greatest policy impact. In addition to these considerations, the lack of associations identified in studies could be explained through other limitations.\n\nDue to the infancy of the evidence, much is cross-sectional limiting the ability to draw causal inference. Furthermore, an individual\u2019s neighbourhood (which in turn defines exposure) is often arbitrary defined for instance, a 400m circular buffer around a participants home. This definition rarely has any theoretical underpinning as to the size or shape of the neighbourhood. Neighbourhoods used within obesogenic environment research are inconsistently defined and rarely represent the locations used to actually buy food. Encouraging a range of measures at present is the best estimate. Importantly, neighbourhoods and exposure to the obesogenic environment often extend beyond home neighbourhood to the work or commute neighbourhood. However, research predominantly focuses on just the residential environment. Further research is needed to inform evidence based policy to tackle the obesity epidemic.         \n\n1.1 Aims \nThis study aims to examine: \ni)\tThe spatial distribution of the food and physical activity (obesogenic) environment across Yorkshire by gender, deprivation and ethnicity \nii)\tThe impact of exposure to the food and physical activity (obesogenic) environment on an individual\u2019s overweight or obesity\n\n2.0 Methods \n\n2.1 Study Design & Data Sources\nThe STROBE (Strengthening the Reporting of Observational Studies in Epidemiology) recommendations were used to add methodological rigour. This large (n=27,806) multi-level and cross-sectional study represents collaboration with Sheffield University\u2019s Yorkshire Health Study (YHS). Following ethical approval participants were contacted through consenting general practitioner surgeries (response rate; 15.9%). Relevant exposure metrics of the physical activity and nutrition environment were then computed in ArcGIS (V10.2) using the UK Ordnance Survey Points of Interest (PoI) dataset.\n\n2.2 Exposure Variables \nParticipant\u2019s homes were mapped by postcode using ArcGIS. Food outlets PoI\u2019s were categorised into supermarkets, takeaways and convenience or other retail. PA facility PoI\u2019s were included as a whole category. The density of PoI\u2019s (both food and PA) was then calculated by placing circular buffers (100m, 400m, 800m, 1000m, 1600m and 2000m) on home postcode locations. Proximity was represented by calculating straight line distance from home postcode to the nearest PoI (food and PA). Further, the quantity of green space was represented at the Middle Super Output Area (MSOA) and Lower Super Output Area (LSOA) the individual lives in. Briefly, a LSOA and MSOA are UK Census geographies designed for small-area statistical analysis. Finally, rural or urban classification for each MSOA and LSOA will be obtained from the Commission for Rural Communities Framework 2004.\n\n2.3 Outcome Variables \nOriginally, this study represents weight status (dependent variable) through multiple outcomes. \n\nBody mass index (BMI) - self-reported weight (kg) was divided by height (cm) squared. Participants were then split into categories of underweight (<18.50), healthy weight (18.50 \u2013 24.99), overweight (25.00 \u2013 29.99) and obese (>30.00) respectively. \nWaist Circumference (WC) \u2013 self-reported WC (cm) was categorised into no, high and very high increased risk of health complications based on gender specific cut-points. \n\n2.4 Covariate Variables \nAge, gender, ethnicity and SES were collected from the participants and the highest level of education was used as a measure of individual level SES.\n\n2.5 Bias & Missing Data\nData validation was an extremely thorough process. Firstly, checked by all parties involved in the collaboration the missing data was then explored (by the first author) dependent upon the type, amount and distribution of missing data. Based on the large sample size, data was included only if postcode, gender, age, ethnicity and either BMI or WC are present, age was greater than 18 years of age and the postcode lay within the Yorkshire boundary. This resulted in 25 706 and 25 294 cases for BMI and WC respectively.  \n\n2.6 Statistical Methods \nThe dataset has a multi-level hierarchical structure which consists of adults nested within neighbourhoods. Based on BMI two binary variables of i) overweight and obese or not and ii) obese or not were created for logistical analysis. A further logistical analysis for WC will be carried out for i) increased risk or not and ii) substantially increased risk or not. Subsequently, multi-level modelling using two level hierarchical logistical models will be used determine variance at different levels using the dependent variables of BMI and WC. Predictors will be sequentially added to models and possible interactions between explanatory variables will be explored. \n\n2.7 Strategic Alignment \nRelating back to the strategic aims of GISRUK, this project represents interdisciplinary collaboration between The School of Public Health and Related Research (ScHARR) at Sheffield University and The Centre for Active Lifestyles at Leeds Beckett University. Further, the project is led by a PhD student supported by Senior Lecturers and Research Associates from both institutions. The goal is to respond to the urgent need to identify evidence based policy to tackle the obesity epidemic. Further, with the help of GIS the project aims to guide long-term town planning, policy change and redesign of existing urban environments to maximise physical activity, nutrition and minimise sedentary behaviour and obesity; all determinants of human health.\n\n1. Cavill N, Rutter H. Healthy people, healthy places briefing: obesity and the environment: regulating the growth of fast food outlets. London: Public Health England, 2013.\n2. Fleischhacker S, Evenson K, Rodriguez D, Ammerman A. A systematic review of fast food access studies. Obesity Reviews 2011;12(501):460-71.\n3. Prentice A, Jebb S. Fast foods, energy density and obesity: a possible mechanistic link. Obesity Reviews 2003;4:187-94.\n\n", 
+        "abstract": "Modification of the obesogenic environment currently represents a key focus of local authority health policy. It is interesting that despite lobbying from policy, contemporary evidence on the obesogenic environment is essentially in its infancy. The BEYH (Built Environment Yorkshire Health) study; a large (n=27,806) multi-level and cross-sectional study aims to assess the impact of exposure to the food and physical activity (obesogenic) environment on an individual\u2019s body weight. Measures of the built physical activity and nutritional environment will be objectively measured using Geographic Information Systems (GIS). Multi-level models will explore how both individual- and neighbourhood-level factors contribute to body weight.", 
         "authors": [
             "Matthew Hobbs", 
             "Jim McKenna", 
@@ -1877,7 +2217,12 @@
             "Body-Mass Index"
         ], 
         "number": 47, 
-        "session": "4B", 
+        "session": [
+            "4B - Health", 
+            "Paul Norman", 
+            "4B", 
+            "LG19"
+        ], 
         "title": "Objectively scrutinising the impact of the obesogenic environment on obesity in Yorkshire, England: a multi-level cross-sectional study", 
         "topics": [
             "Health and Wellbeing"
@@ -1899,7 +2244,12 @@
             "GIS"
         ], 
         "number": 48, 
-        "session": "3A", 
+        "session": [
+            "3A - Crime and Policing (II)", 
+            "Nick Addis", 
+            "3A", 
+            "RBLT"
+        ], 
         "title": "A Model Officer: An Agent-based Model of Policing", 
         "topics": [
             "Crime and Policing"
@@ -1924,7 +2274,12 @@
             "risk assessment"
         ], 
         "number": 49, 
-        "session": "6A", 
+        "session": [
+            "6A - Transport (II)", 
+            "Stephen Clark", 
+            "6A", 
+            "RBLT"
+        ], 
         "title": "Assessing the need for infrastructure adaptation by simulating impacts of extreme weather events on urban transport infrastructure", 
         "topics": [
             "Environmental GIS and Hazards", 
@@ -1945,7 +2300,12 @@
             "ArcGIS extension"
         ], 
         "number": 5, 
-        "session": "7B", 
+        "session": [
+            "7B - New Methods", 
+            "Nik Lomax", 
+            "7B", 
+            "LG19"
+        ], 
         "title": "Visualize and interactively design weight matrices", 
         "topics": [
             "Spatial analysis and visualisation"
@@ -1971,14 +2331,19 @@
             "urban modeling"
         ], 
         "number": 50, 
-        "session": "7A", 
+        "session": [
+            "7A - Cities", 
+            "Robin Lovelace", 
+            "7A", 
+            "RBLT"
+        ], 
         "title": "Accessibility-based simulation of urban expansion in Brazil", 
         "topics": [
             "Other GIS topics"
         ]
     }, 
     {
-        "abstract": "This study examines the existing metrics used for evaluating the effectiveness of area-based crime hotspots for operational policing. We identified some of the limitations of the metric (i.e. Area-to-Perimeter (AP) ratio) used for measuring compactness of hotspots and then proposed a new metric called \u201cClumpiness Index (CI)\u201d as a replacement. The case study of London Metropolitan police crime dataset features the prediction of 3 different crime types using two different crime predictive methods. The effectiveness of the hotspots was then measured using both AP ratio and CI. The comparison of the results clearly shows that CI is a better metric for measuring the effectiveness of crime hotspot for operational policing.", 
+        "abstract": "This study examines the existing metrics used in evaluating the effectiveness of area-based crime hotspots for operational policing. We identified some of the limitations of the metric (i.e. Area-to-Perimeter (AP) ratio) used for measuring compactness of hotspots and then proposed a new improved metric called \u201cClumpiness Index (CI)\u201d. The case study of London Metropolitan police crime dataset features the prediction of 3 different crime types using two different crime predictive methods. The effectiveness of the hotspots was then measured using both AP ratio and CI. The comparison of the results clearly shows that CI is a better metric for measuring the effectiveness of crime hotspots for operational policing.", 
         "authors": [
             "Monsuru Adepeju", 
             "Tao Cheng", 
@@ -1998,7 +2363,12 @@
             "Operational Policing"
         ], 
         "number": 51, 
-        "session": "7C", 
+        "session": [
+            "7C - Geodemographics (II)", 
+            "Adam Dennett", 
+            "7C", 
+            "LG15"
+        ], 
         "title": "A new metric of crime hotspots for operational Policing", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -2020,7 +2390,12 @@
             "Football"
         ], 
         "number": 52, 
-        "session": "8C", 
+        "session": [
+            "8C - Social Media", 
+            "Alastair Leak", 
+            "8C", 
+            "LG15"
+        ], 
         "title": "Football fan locality- An analysis of football fans tweet locations", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -2048,7 +2423,12 @@
             "walkability"
         ], 
         "number": 53, 
-        "session": "4A", 
+        "session": [
+            "4A - Urban", 
+            "Elena Kirby-Hawkins", 
+            "4A", 
+            "RBLT"
+        ], 
         "title": "Are we there yet?  Exploring distance perception in urban environments with mobile Electroencephalography", 
         "topics": [
             "Spatial analysis and visualisation"
@@ -2074,7 +2454,12 @@
             "visual impairment"
         ], 
         "number": 54, 
-        "session": "4B", 
+        "session": [
+            "4B - Health", 
+            "Paul Norman", 
+            "4B", 
+            "LG19"
+        ], 
         "title": "Understanding the urban experience of people with visual impairments", 
         "topics": [
             "Health and Wellbeing", 
@@ -2099,7 +2484,12 @@
             "urban"
         ], 
         "number": 55, 
-        "session": "4A", 
+        "session": [
+            "4A - Urban", 
+            "Elena Kirby-Hawkins", 
+            "4A", 
+            "RBLT"
+        ], 
         "title": "Strategies in the Use of Referring Expressions to Describe Things Urban", 
         "topics": [
             "Spatial analysis and visualisation"
@@ -2122,31 +2512,15 @@
             "spatial microsimulation with R"
         ], 
         "number": 56, 
-        "session": "7B", 
+        "session": [
+            "7B - New Methods", 
+            "Nik Lomax", 
+            "7B", 
+            "LG19"
+        ], 
         "title": "Comparing different spatial microsimulation frameworks", 
         "topics": [
             "Spatial analysis and visualisation"
-        ]
-    }, 
-    {
-        "abstract": "Since the beginning of the depiction of health related data, maps have accompanied modern medicine as tools in public health care and epidemiology. Thanks to freely available and easy to use mapping programs, today contents in medical sociology, for instance, can be illustrated in maps without professional qualification. In Germany an affiliation of the working group \u201eMedical Geography\u201c in the German Geographical Society (DGfG), the working group \u201eHealth Geography\u201c in the German Epidemiological Society (DGEpi) and the Leibniz Institute for Regional Geography (IfL) have initiated an initiative to secure a \u201eGood Cartographical Practice in the Healthcare System\u201c.", 
-        "authors": [
-            "Eric Losang"
-        ], 
-        "category": "Extended abstract (max 1,500 words)", 
-        "decision": "accept", 
-        "groups": [], 
-        "keywords": [
-            "medical maps", 
-            "medical geography", 
-            "critical GIS", 
-            "code of practice"
-        ], 
-        "number": 57, 
-        "session": "2B", 
-        "title": "Good Cartographical Practice in Healthcare Systems - a systematic approach to improve maps in health related contexts", 
-        "topics": [
-            "Health and Wellbeing"
         ]
     }, 
     {
@@ -2169,7 +2543,12 @@
             "Density model"
         ], 
         "number": 58, 
-        "session": "4B", 
+        "session": [
+            "4B - Health", 
+            "Paul Norman", 
+            "4B", 
+            "LG19"
+        ], 
         "title": "Comparing the Quality of Local Authority Spatial Data", 
         "topics": [
             "Health and Wellbeing"
@@ -2195,36 +2574,16 @@
             "Interactive mapping of quantitative and qualitative data"
         ], 
         "number": 59, 
-        "session": "Po", 
+        "session": [
+            "Poster Session", 
+            "none", 
+            "Po", 
+            "Parkinson Court"
+        ], 
         "title": "Telling the Story of Globalisation through an Integration and Analysis of Big Data sets", 
         "topics": [
             "Big Data and the future of GIS", 
             "Other GIS topics", 
-            "Spatial analysis and visualisation"
-        ]
-    }, 
-    {
-        "abstract": "The advent and widespread use of social media platforms enables researchers to access vast numbers of interactions detailing individuals\u2019 opinions and web shares. Typically a small proportion (~1-2%) of records are explicitly geo-coded and may easily be mapped. The majority of records require post-processing to \u2018unlock\u2019 location data implicit in text or shared content. A software toolkit used to replay and analyse two large corpora captured during the US 2012 Presidential Election and Scottish 2014 Independence Referendum is described. The geoparsing, text-mining and sentiment analysis techniques employed suggest GeoScience must embrace new technologies in the age of \u2018Big Data\u2019.", 
-        "authors": [
-            "Adrian Tear"
-        ], 
-        "category": "Extended abstract (max 1,500 words)", 
-        "decision": "poster", 
-        "groups": [
-            "Early-career author (PhD or Masters student)"
-        ], 
-        "keywords": [
-            "Big Data", 
-            "Social Media", 
-            "GeoParsing", 
-            "Graph Centrality", 
-            "Sentiment Analysis"
-        ], 
-        "number": 6, 
-        "session": "na", 
-        "title": "Replaying the campaign: location and sentiment in social media interactions captured during US 2012 and Scottish 2014 elections", 
-        "topics": [
-            "Big Data and the future of GIS", 
             "Spatial analysis and visualisation"
         ]
     }, 
@@ -2247,7 +2606,12 @@
             "policing"
         ], 
         "number": 60, 
-        "session": "1A", 
+        "session": [
+            "1A - Crime and Policing (I)", 
+            "Graham Clarke", 
+            "1A", 
+            "RBLT"
+        ], 
         "title": "Exploratory spatiotemporal data analysis of public confidence in the police in London", 
         "topics": [
             "Crime and Policing", 
@@ -2274,7 +2638,12 @@
             "participatory sensing"
         ], 
         "number": 64, 
-        "session": "1B", 
+        "session": [
+            "1B - GIS and the Environment (I)", 
+            "Steve Carver", 
+            "1B", 
+            "LG19"
+        ], 
         "title": "Participatory mapping for transformation: multiple visual representation of foodscapes and environment in informal settlements in Nairobi ", 
         "topics": [
             "Environmental GIS and Hazards", 
@@ -2298,7 +2667,12 @@
             "Crowdsourcing"
         ], 
         "number": 65, 
-        "session": "3C", 
+        "session": [
+            "3C - Big Data (II)", 
+            "Alex Singleton", 
+            "3C", 
+            "LG15"
+        ], 
         "title": "Is VGI Big Data?", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -2306,7 +2680,7 @@
         ]
     }, 
     {
-        "abstract": "This study presents global and local models explaining household car ownership elasticity in England and Wales based on new datasets from road worthiness tests (Ministry of Transport - MOT), 2011 Census and Experian median household income released by UK Government agencies.  Latest empirical evidence on car ownership elasticity across the area is based on 2001 Ward level household average income estimates and 2001 Census. In using different income estimates and new datasets, new evidence is compared with what we already know about car ownership elasticity. Geographically weighted regression is utilized to estimate and forecast car ownership elasticities at both Ward and Lower layer Super Output Areas.", 
+        "abstract": "This study presents global and local models explaining household car ownership elasticity in England and Wales based on new datasets from Experian household median income and 2011 Census released by UK Government agencies.  Latest empirical evidence on car ownership elasticity across the area is based on 2001 Ward level household average income estimates and 2001 Census. In using different income estimates and new datasets, new evidence is compared with what we already know about car ownership elasticity. Geographically weighted regression is utilized to estimate and forecast car ownership elasticities at both Ward and Lower layer Super Output Areas. With our initial modelling in this paper, we suggest that future work should incorporate road worthiness tests data, at lower geographies when released, from Ministry of Transport (MOT) as a proxy for car ownership to undertake a comparative analysis towards deepening our understanding of car ownership trends to inform transport policy in England and Wales.", 
         "authors": [
             "Godwin Yeboah", 
             "Jillian Anable", 
@@ -2322,12 +2696,17 @@
         "keywords": [
             "car ownership", 
             "median income", 
-            "MOT test", 
             "geographically weighted regression", 
-            "elasticity"
+            "elasticity", 
+            "MOT test"
         ], 
         "number": 66, 
-        "session": "3C", 
+        "session": [
+            "3C - Big Data (II)", 
+            "Alex Singleton", 
+            "3C", 
+            "LG15"
+        ], 
         "title": "Understanding car ownership elasticities in England and Wales: Advancing the evidence base with new data sources", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -2338,7 +2717,7 @@
         ]
     }, 
     {
-        "abstract": "The future of GIS within the context of Big Data from social media platforms, such as Twitter, potentially depends on the possibility to capture, analyse, and make sense of the spatial component of Tweets. This study presents a case study which explores millions of transport related tweets from 2014 Commonwealth Games with the aim of understanding the usefulness, or non-usefulness, of the spatial component of the tweets. The overarching question, within the context of big data, is that - are spatial tweets for big events useful, or not useful, for transport research?", 
+        "abstract": "The future of GIS within the context of Big Data from social media platforms, such as Twitter, potentially depends on the possibility to capture, analyse, and make sense of the spatially referenced social media data such as Tweets. In this project, the broader aim is to study how people look for and respond to information on travel disruption related to large events, taking into account questions related to trust, timeliness, and information diffusion through a social network (Twitter).This poster explores a sub-set of spatially referenced Tweets collected as part of a larger overall study with the aim of understanding the usefulness or non-usefulness of the Tweets. A Twitter Monitor Infrastructure (TMI) was developed to capture the Tweets followed by descriptive statistics together with GeoSentiment analysis. In this poster, we used spatial information where available to analyse and visualise:\u2022\tnegative sentiments (as sad spots); and,\u2022\tpositive sentiments (as happy spots)locally (i.e. host citywide) and globally (worldwide).", 
         "authors": [
             "Godwin Yeboah", 
             "Caitlin Cottrill", 
@@ -2347,7 +2726,7 @@
             "Jillian Anable", 
             "David Corsar"
         ], 
-        "category": "Extended abstract (max 1,500 words)", 
+        "category": "Poster (max one page)", 
         "decision": "poster", 
         "groups": [], 
         "keywords": [
@@ -2358,7 +2737,12 @@
             "big data"
         ], 
         "number": 67, 
-        "session": "Po", 
+        "session": [
+            "Poster Session", 
+            "none", 
+            "Po", 
+            "Parkinson Court"
+        ], 
         "title": "Exploring the usefulness of transport Spatial Tweets from big events: A case study of 2014 Commonwealth Games", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -2388,7 +2772,12 @@
             "K-means"
         ], 
         "number": 68, 
-        "session": "6C", 
+        "session": [
+            "6C - UKDS Census Support Session", 
+            "John Stillwell", 
+            "6C", 
+            "LG15"
+        ], 
         "title": "The Role of Geographical Context in Building Geodemographic Classifications", 
         "topics": [
             "Geodemographics and populations"
@@ -2415,7 +2804,12 @@
             "Knowledge Exchange"
         ], 
         "number": 69, 
-        "session": "8A", 
+        "session": [
+            "8A - GIS and the Environment (II)", 
+            "Steve Carver", 
+            "8A", 
+            "RBLT"
+        ], 
         "title": "Visualisation of Spread of Chalara Ash Dieback for Raising Public Awareness and Responsible Woodland Access", 
         "topics": [
             "Environmental GIS and Hazards", 
@@ -2423,7 +2817,7 @@
         ]
     }, 
     {
-        "abstract": "Assessment of social vulnerability under three flood scenarios using an open source vulnerability index\n\nGarbutt K 1, Ellul C 2 and Fujiyama T 2\n\n1 Centre for Urban Sustainability and Resilience, Department of Civil, Environmental and Geomatic Engineering, University College London \n2 Department of Civil, Environmental and Geomatic Engineering, University College London\n\nNovember 12, 2014\n\nSummary\n\nThis paper utilises an open source flood vulnerability index to assess changes in social vulnerability within the English county of Norfolk under three flood scenarios. Open source demographics data is combined with flood zone data and GIS analysis of accessibility to key services to create the flood vulnerability index. The impact of flooding was found to be disproportionately distributed amongst those areas recording a high level of social vulnerability before flood risk was included. Analysis suggests those at risk of flooding are more likely to be elderly, poor and have long-term health problems.\n\n\nKEYWORDS: Vulnerability, Open Source, Demographics, Flood Risk, Vulnerability Index\n\n\n1.\tIntroduction\n\nFloods pose an environmental and fiscal challenge for the United Kingdom. More than five million homes and businesses are at risk of flooding (DEFRA, 2013) and an average of \u00a31 billion in flood damages is incurred each year (EA, 2013). Flooding can have a far-reaching and long-lasting impact on a community (Bennet, 1970; Milojevic et al., 2011). Those in society most often deemed vulnerable: the elderly, poor or unemployed, for example, often see their level of vulnerability increase during hazard events as both risk and exposure increases. The features of a person\u2019s life that makes them vulnerable are often intensified: the loss of income following a flood exacerbating poverty, for example. A greater knowledge of the spatial distribution of vulnerability within communities is therefore key to understanding how a population may be impacted by a hazard event (Cutter & Emrich, 2006). Highlighting those who are exposed to a hazard, as well as those who are potentially more vulnerable due to their circumstances, can aid emergency response and risk reduction strategies (Nelson, et al., 2007).\n\nThis paper utilises an open source vulnerability index (OS-VI), previously created by the authors (Garbutt et al., 2014), to assess changes in social vulnerability within the English county of Norfolk under three flood scenarios. Norfolk has a substantial coastline and a lengthy history of flooding, including being severely impacted by the 1953 North Sea Flood, as well as a substantial elderly (23%) and potentially vulnerable population (DCLG, 2011). The revised OS-VI, which incorporates updated demographics data recently released by the Office for National Statistics, provides a place-based assessment of vulnerability and when combined with flood risk scenarios can provide non-governmental organisations (NGO) and local authorities with valuable context and guidance when planning for or responding to flood emergencies.\n\n\n2.\tBackground\n\nThe British Red Cross (BRC) work throughout the UK and internationally preparing communities for disasters, supporting post-disaster recovery, delivering and teaching first aid and assisting individuals with health and social care needs. Since 2010 the BRC has operated a Mapping Team that utilises Geographical Information Systems (GIS) and the growing wealth of spatial data to support the organization\u2019s work. For the BRC, vulnerability analysis and mapping provides context to hazards and provides information that can guide service delivery and the provision of community resilience building programs.\n\nThe development of vulnerability indices is an increasingly common method to capture the geographical distribution of vulnerability across regions countries or sub-national areas (see: Cutter et al., 2003; Johnson et al., 2012). Further, such indices are increasingly being coupled with hazard assessments to create integrated risk analyses (Siagian, et al., 2013). To produce such practical analysis and assessment of vulnerability, many socio-economic elements that influence vulnerability must be assigned measureable numeric indicators (Atteslander et al., 2008). However, past work on measuring and mapping vulnerability has been limited by a focus on income-related indicators, a lack of consideration of accessibility, the production of large resolution indices (county or country scale), and the reliance on proprietary data and/or methodologies, with limited attention paid to open source data (Garbutt et al., 2014).\n\n3.\tMethodology \n\nThe authors previously created an Open Source Vulnerability Index (OS-VI), a deductive indicator-based index that incorporated 53 different vulnerability indicators shown to influence vulnerability (Garbutt et al., 2014). Unlike many vulnerability indices, the OS-VI was produced using open source demographic data only and incorporated indicators of flood risk as well as the loss of capabilities and access to key services (health facilities and food stores) when determining an area\u2019s level of social vulnerability. The OS-VI provided a mechanism whereby quality open source data on the core drivers of vulnerability could be used to create a vulnerability index with a sufficiently small resolution to examine vulnerability at the community level. Here, the OS-VI is used as a starting point to examine the impact of three flood scenarios (presented in table 1) and is supplemented with spatial analysis to generate four flood vulnerability indicators for each of the 539 Lower Layer Super Output Areas (LSOA) within Norfolk (see figure 1).\n\nTable 1 Flood Scenarios (adapted from Environment Agency, 2014)\n\nScenario\tProbability\nVery Low (FZ1) \tLand assessed as having less than 1 in 1,000 (0.1%) annual probability of flooding. This scenario is described as an \u2018extreme flood\u2019.\nLow (FZ2)\tLand assessed as having between a 1 in 200 (0.5%) annual probability of flooding.\nModerate (FZ3)\tLand assessed as having a 1 in 100 (1%) or greater annual probability of flooding.\n\nThe results of the four flood vulnerability indicators are combined with the social vulnerability indicators within the original OS-VI to produce an overall vulnerability score for each LSOA in Norfolk. The results are mapped and the changes in vulnerability examined.\n\n\nFigure 1 Flow Chart outlining the methodology used to develop the flood vulnerability OS-VI presented herein. 1) Use of original OS-VI; 2) production of flood vulnerability indicators; 3) combination of both to create a Flood Vulnerability OS-VI for each flood scenario under analysis.\n\n4.\tResults\n\nAs can be seen in figures 2 and 3, the major clusters of LSOA with high vulnerability ratings across the original OS-VI and all three flood scenarios loosely match those areas with greater exposure to the flood hazard. Although changes are slight, vulnerability ratings of areas already deemed highly vulnerable within the original OS-VI were found to increase as the impact and extent of flooding increased across the three flood scenarios examined. The impact of flooding was found to be disproportionately distributed amongst those LSOA recording a high or moderate-high vulnerability rating: roughly 66% of LSOA with the majority of their area within the flood zone and 76% with their Centroid within a flood zone recorded a high or moderate-high vulnerability rating.\n\nOf those highlighted as at risk of flooding, our analysis suggests residents are also more likely to live alone and be aged 65+; have an income below the national median; lack central heating in their home; have bad or very bad health and limited actions due to a long-term health problem/disability; provide in excess of 50 hours care to another per week. An underlying relationship between the presence of flood hazard in an area and its socio-economic and health vulnerabilities is therefore suggested, although the relationship is unclear and further study is needed.\n\nIn addition, analysis of changes in accessibility found that those populations highlighted above are also more likely to live in an area where travel time to key services is in excess of the national average. Travel time to key services was severely impacted under all flood scenarios. For example, under scenario FZ1, the local authority of Kings Lynn recorded a 223% increase in average travel time, from 21 minutes to 68 minutes, and the local authority of Great Yarmouth, which was identified as being the most vulnerable local authority in Norfolk as well as the most affected by flooding, recorded 43% of its LSOA as completely cut-off from healthcare facilities.\n\n\nFigure 2 Vulnerability Indices. 1) Original OS-VI; 2) Vulnerability Index under FZ1 scenario; 3) Vulnerability Index under FZ2 scenario; 4) Vulnerability Index under FZ3 scenario.\n\n\nFigure 3 Vulnerability Index under FZ3 \u2018extreme flood\u2019 scenario featuring flood data overlay.\n\n5.\tDiscussion \n\nThe results presented above demonstrate the potential cascading impact of a flood hazard as it impacts an already vulnerable population: exacerbating pre-existing vulnerabilities, limiting capabilities and restricting accessibility and access to key services. The OS-VI and its use here to examine the potential impact of flooding was found to be a useful supplementary tool for the BRC, with the measurement and visualisation of vulnerability and potential hazard impact providing context and aiding response service planning and capability assessment.\n\nTo ensure its use by the BRC, open data and software was used exclusively to reduce organizational expenditure and provide quality data that can be freely disseminated. The demographic data used was deemed the best available at the scale and resolution required and the GIS software used, QGIS, was also deemed appropriate for the analysis required. One limitation noted was the assumption that, under each flood scenario, all roads within the flood zone would be impassable and thus roads and key services within each zone were restricted. This was due to the lack of flood depth information within the available flood data. Future work would use topographical data and digital elevation models to calculate flood depth and improve the accessibility metrics within the indices.\n\nIt was also noted that the discrete county boundary used to restrict analysis to within the county of Norfolk likely led to limitations within accessibility routing as key services outside of the study zone may have been a viable option if the restriction was not in place. At a county level the analysis remains valid, but for organisations like the BRC who regularly work across boundaries, future work will address this scale effect by examining service locality and the catchment zones of neighbouring services that are utilised by populations within the study zone.\n\n6.\tConclusion\n\nThe approach presented here utilises vulnerability indices built upon quality open data to examine the potential impact of flooding on social vulnerability. The original OS-VI takes into account a broad range of social and economic indicators to highlight hotspots of social vulnerability. The addition of varying hazard scenarios allows for the examination of how vulnerability changes during an emergency. The indices produced can be extended to the national level whilst retaining the relatively small LSOA resolution. The methods used are scalable and adaptable and the use of open data allows all parties involved to easily coordinate and share information, potentially improving local knowledge and reducing vulnerability (Trujillo et al. 2000). The OS-VI and its use here to examine flood risk represents the first step in imagining a dynamic and customisable disaster risk platform that can be updated as new data is made available and adapted and utilised by the BRC and others to identify pockets of vulnerable communities and improve emergency response. \n\n7.\tBiography\n\nKurtis Garbutt is a postgraduate research engineer at the Centre for Urban Sustainability & Resilience at University College London. Kurtis received a full EPSRC scholarship to work with the British Red Cross on development of a GIS tool to support the work of NGOs and improve understanding of urban resilience.\n\nClaire Ellul is a lecturer and course tutor at UCL. Claire\u2019s research focuses on spatial data management and infrastructures, in particular the creation, maintenance and use of metadata, as well as big data performance optimization and the use of topology in GIS, in particular 3D GIS. \n\nTaku Fujiyama is a lecturer and leader of the Resilience Research Group at UCL. Taku\u2019s research focuses on the resilience of infrastructure, primarily transport systems, as well as the understanding of user behaviour of transport environments, particularly amongst the most vulnerable, and the design and operation of railway infrastructure.\n\n8.\tAcknowledgements \n\nThis work was supported by the Economic and Social Research Council and represents part of an EngD project currently being undertaken at University College London. The authors thank Andrew Braye and the Mapping Team at the British Red Cross for guidance. Portions of this study have been presented in an article currently under review by Global Environmental Change. Data was provided by Ordnance Survey under \u00a9Crown copyright and database right 2014; Office for National Statistics licensed under the Open Government Licence v.1.0; Environment Agency under Copyright Environment Agency 2014; and OpenStreetMap under \u00a9OpenStreetMap contributors.\n\nReferences \n\nBennet G., 1970. Bristol floods 1968. Controlled survey of effects on health of local community disaster.\nBr Med J, 3, 454-458.\nCutter, S.L., Boruff, B.J. & Shirley, W.L., 2003. Social vulnerability to environmental hazards. Social Science Quarterly, 84, pp.242\u2013261.\nCutter, S.L. & Emrich, C.T., 2006. Moral Hazard, Social Catastrophe: The Changing Face of Vulnerability along the Hurricane Coasts. Annals of the American Academy of Political and Social Science, 604(1), p.110.\nDCLG, 2011 Department for Communities and Local Government. English Indices of Deprivation 2010.\nDepartment for Environment Food & Rural, 2013. Reducing the threats of flooding and coastal change. Available at: https://www.gov.uk/government/policies/reducing-the-threats-of-flooding-and-coastal-change.\nEnvironment Agency, 2013. Investing in the Future: Flood and Coastal Flood Risk Management in England \u2013 A long-term investment plan. Available at: http://www.environment-\nagency.gov.uk/research/library/publications/108673.aspx.\nEA, 2014 Flood Map for Planning (from Rivers and the Sea). Available at: http://apps.environment-agency.gov.uk/wiyby/37837.aspx\nGarbutt, K., Ellul, C. and Fujiyama, T. 2014 Mapping Social Vulnerability to Flood Hazard in Norfolk, England Global Environmental Change, (under review).\nJohnson, D.P., Stanforth, A., Lulla, V. & Luber, G. 2012. Developing an applied extreme heat vulnerability index utilizing socioeconomic and environmental data. Applied Geography, 35(1-2), pp.23\u201331. Available at: http://linkinghub.elsevier.com/retrieve/pii/S014362281200032X [Accessed March 17, 2013].\nMilojevic, A., Armstrong, B., Kovats, S., Butler, B., Hayes, E., Leonardi, G., & Wilkinson, P. 2011. Long-term effects of flooding on mortality in England and Wales, 1994-2005: controlled interrupted time-series analysis. Environ Health, 10(1), 11.\nNelson, C., Lurie, N., Wasserman, J., Zakowski, S., & Leuschner, K. J. (2007). Conceptualizing and defining public health emergency preparedness. RAND Working Paper \u2013 May 2008. National Emergency Training Center.\nTrujillo, M., Ordones, A. and Hernandes, C. (2000) Risk mapping and local capacities: lessons from Mexico and Central America. Oxfam.\nSiagian, T.H., Purhadi, P., Suhartono, S. & Ritonga, H. 2013. Social vulnerability to natural hazards in Indonesia: driving factors and policy implications. Natural Hazards, 70(2), pp.1603\u20131617.\n", 
+        "abstract": "This paper utilises an open source flood vulnerability index to assess changes in social vulnerability within the English county of Norfolk under three flood scenarios. Open source demographics data is combined with flood zone data and GIS analysis of accessibility to key services to create the flood vulnerability index. The impact of flooding was found to be disproportionately distributed amongst those areas recording a high level of social vulnerability before flood risk was included. Analysis suggests those at risk of flooding are more likely to be elderly, poor and have long-term health problems.", 
         "authors": [
             "Kurtis Garbutt", 
             "Claire Ellul", 
@@ -2442,7 +2836,12 @@
             "Vulnerability Index"
         ], 
         "number": 70, 
-        "session": "2B", 
+        "session": [
+            "2B - Health", 
+            "Mel Tomintz", 
+            "2B", 
+            "LG19"
+        ], 
         "title": "Assessment of social vulnerability under three flood scenarios using an open source vulnerability index", 
         "topics": [
             "Health and Wellbeing"
@@ -2463,7 +2862,12 @@
             "Sustainable transport"
         ], 
         "number": 71, 
-        "session": "6A", 
+        "session": [
+            "6A - Transport (II)", 
+            "Stephen Clark", 
+            "6A", 
+            "RBLT"
+        ], 
         "title": "Crowd sourced vs centralised data for transport planning: a case study of  bicycle path data in the UK", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -2489,32 +2893,16 @@
             "urban form"
         ], 
         "number": 73, 
-        "session": "7A", 
+        "session": [
+            "7A - Cities", 
+            "Robin Lovelace", 
+            "7A", 
+            "RBLT"
+        ], 
         "title": "New approaches to measure the spatial structure(s) of cities", 
         "topics": [
             "Geodemographics and populations", 
             "Spatial analysis and visualisation"
-        ]
-    }, 
-    {
-        "abstract": "The study focuses on designing\u060c developing\u060c and implementing a program with Geographic User Interface (GUI) within the environment of geographic information systems (ArcMap\u00ae). The Goal of this program is to measure the proportion and direction of the temporal and spatial changes in land use/land cover (LULC) based on two spatial informatics layers\u060c which include polygons and descriptive information for the Land use Code within two consecutive periods. Thus\u060c this program could be used as a tool to study any type or number of land in any area of study.\n\nFurthermore\u060c the mentioned program\u060c can examine the spatial and descriptive land uses data\u060c measures the land use changes\u060c generates the matrices changes to determine the land use shift trends\u060c and presents statistical and graphical reports that describe the measure and direction of these changes. The program was built on the programming language (Visual Basic Dot Net)\u060c and implemented with several GIS program\u2019s (ArcMap\u00ae) Add-ins. \n\nThis program has been applied to study the measure and direction of land use changes in Al-Olaya municipality\u060c Riyadh\u060c Saudi Arabia\u060c during the period 2004-2012. The aforementioned study broke down into two major periods (2004-2009 and 2009-2012)\u060c and was based on the official land uses data published by the High Commission for the Development of Riyadh.\n\nAccording to that study\u060c the land use changes of Al-Olaya municipality during the period 2004-2012 reached 13.78 Km\u00b2\u060c which is equivalent to 22.33% of Al-Olaya municipality total lands. In addition\u060c Al-Olaya land use rate of change varies during the period 2004-2012\u060c with the largest increase in land uses registered for the residential purposes (3.58 Km\u00b2)\u060c and the major decrease was in the vacant land usage (10.61 Km\u00b2).\n", 
-        "authors": [
-            "Nasser Alzeer", 
-            "Suliman Aldaham"
-        ], 
-        "category": "Poster (max one page)", 
-        "decision": "poster", 
-        "groups": [], 
-        "keywords": [
-            "Design", 
-            "program", 
-            "Measuring"
-        ], 
-        "number": 74, 
-        "session": "Po", 
-        "title": "               Using the geographical information systems (ArcMap\u00ae) to design a program measuring the magnitude and direction changes in land use: \u201cA case study of Al-Olaya municipality, Riyadh city, during 2004-2012\u201d", 
-        "topics": [
-            "Other GIS topics"
         ]
     }, 
     {
@@ -2534,7 +2922,12 @@
             "Genetic Algorithm"
         ], 
         "number": 75, 
-        "session": "1B", 
+        "session": [
+            "1B - GIS and the Environment (I)", 
+            "Steve Carver", 
+            "1B", 
+            "LG19"
+        ], 
         "title": "Evolutionary Computing for Multi-Objective Spatial Optimisation", 
         "topics": [
             "Environmental GIS and Hazards", 
@@ -2559,7 +2952,12 @@
             "product reviews"
         ], 
         "number": 76, 
-        "session": "3C", 
+        "session": [
+            "3C - Big Data (II)", 
+            "Alex Singleton", 
+            "3C", 
+            "LG15"
+        ], 
         "title": "Optimising sentiment analysis in commercial context", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -2567,11 +2965,12 @@
         ]
     }, 
     {
-        "abstract": "This paper presents a number of cartographic design solutions to the creation of a web-map for the mixed-reality location-based game \u2018Pac-Lan: Zombie Apocalypse\u2019. The research-purpose of this game is to explore ways to encourage players to become more fully engaged with the physical location in which the game is played, by designing the game interface in such a way as to discourage players from becoming reliant solely upon the device screen for navigation. By increasing the level of player interaction with their surroundings, it is intended that a more immersive game experience within mixed reality space may be created. The map is a crucial on-screen element in any location based game, and four maps are presented here as potential solutions for \u2018Pac-Lan: Zombie Apocalypse\u2019, each of which approach the design goals of the game in a different manner. All four maps will be user-evaluated and assessed for their suitability early in 2015.", 
+        "abstract": "This paper presents a number of cartographic design solutions to the creation of a map for the mixed-reality location-based game \u2018Pac-Lan: Zombie Apocalypse\u2019. The research-purpose of this game is to explore ways in which players may be encouraged to become less reliant upon the device screen during gameplay, and so more fully engaged with the physical environment in which the game is played. In this paper we specifically consider approaches to designing the game-map in such a way as to discourage players from becoming solely reliant upon it for navigation, and instead interact more with their surroundings during gameplay. This paper therefore considers four maps as potential solutions for \u2018Pac-Lan: Zombie Apocalypse\u2019, which serve explore the use of abstract feature representation as a cartographic device to encourage player engagement with the landscape. A description of the design rationale for each of the maps is presented here, along with some preliminary findings from user evaluation of the maps against a defined set of design goals.", 
         "authors": [
             "Jonny Huck", 
             "Paul Coulton", 
-            "Adrian Gradinar"
+            "Adrian Gradinar", 
+            "Duncan Whyatt"
         ], 
         "category": "Extended abstract (max 1,500 words)", 
         "decision": "accept", 
@@ -2586,8 +2985,13 @@
             "Landscape Legibility"
         ], 
         "number": 77, 
-        "session": "2C", 
-        "title": "Cartography, Location-Based Gaming and the Legibility of Mixed Reality Spaces", 
+        "session": [
+            "2C - Visualisation", 
+            "Ed Manley", 
+            "2C", 
+            "LG15"
+        ], 
+        "title": "Abstract Feature Representation as a Cartographic Device for Mixed-Reality Location-Based Games", 
         "topics": [
             "Other GIS topics"
         ]
@@ -2611,7 +3015,12 @@
             "online sales"
         ], 
         "number": 78, 
-        "session": "8B", 
+        "session": [
+            "8B - Retail Science", 
+            "Nick Hood", 
+            "8B", 
+            "LG19"
+        ], 
         "title": "Designing a location model for face to face and on-line retailing for the UK grocery market", 
         "topics": [
             "Spatial analysis and visualisation"
@@ -2634,7 +3043,12 @@
             "Lima"
         ], 
         "number": 79, 
-        "session": "4A", 
+        "session": [
+            "4A - Urban", 
+            "Elena Kirby-Hawkins", 
+            "4A", 
+            "RBLT"
+        ], 
         "title": "Mapping to Disrupt unjust urban trajectories", 
         "topics": [
             "Spatial analysis and visualisation"
@@ -2660,7 +3074,12 @@
             "Resilience"
         ], 
         "number": 80, 
-        "session": "Po", 
+        "session": [
+            "Poster Session", 
+            "none", 
+            "Po", 
+            "Parkinson Court"
+        ], 
         "title": "High-Street Resilience and Social Media Opinion Mining", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -2687,7 +3106,12 @@
             "evacuation shelter selection-allocation"
         ], 
         "number": 81, 
-        "session": "6B", 
+        "session": [
+            "6B - GIS and Hazards", 
+            "Rachel Oldroyd", 
+            "6B", 
+            "LG19"
+        ], 
         "title": "SAFEVolcano: Spatial Information Framework for Volcanic Eruption Evacuation Site Selection-allocation", 
         "topics": [
             "Environmental GIS and Hazards", 
@@ -2711,7 +3135,12 @@
             "vehicle tracking"
         ], 
         "number": 82, 
-        "session": "3A", 
+        "session": [
+            "3A - Crime and Policing (II)", 
+            "Nick Addis", 
+            "3A", 
+            "RBLT"
+        ], 
         "title": "Quantifying the deterrent effect of police patrol via GPS analysis", 
         "topics": [
             "Crime and Policing"
@@ -2734,7 +3163,12 @@
             "Cartography"
         ], 
         "number": 83, 
-        "session": "2C", 
+        "session": [
+            "2C - Visualisation", 
+            "Ed Manley", 
+            "2C", 
+            "LG15"
+        ], 
         "title": "Spoilt for Choice? An Investigation Into Creating Gastner and Newman-style Cartograms", 
         "topics": [
             "Spatial analysis and visualisation", 
@@ -2761,7 +3195,12 @@
             "dynamic attributes"
         ], 
         "number": 84, 
-        "session": "1B", 
+        "session": [
+            "1B - GIS and the Environment (I)", 
+            "Steve Carver", 
+            "1B", 
+            "LG19"
+        ], 
         "title": "The role of the age() function in a GIS for ecological conservation", 
         "topics": [
             "Environmental GIS and Hazards"
@@ -2791,7 +3230,12 @@
             "Three.js"
         ], 
         "number": 85, 
-        "session": "2C", 
+        "session": [
+            "2C - Visualisation", 
+            "Ed Manley", 
+            "2C", 
+            "LG15"
+        ], 
         "title": "Beyond Visualisation in 3D GIS", 
         "topics": [
             "Other GIS topics", 
@@ -2816,7 +3260,12 @@
             "Self-Organising Maps"
         ], 
         "number": 86, 
-        "session": "8A", 
+        "session": [
+            "8A - GIS and the Environment (II)", 
+            "Steve Carver", 
+            "8A", 
+            "RBLT"
+        ], 
         "title": "Characterisation and Classification of Hydrological Catchments in Alberta, Canada Using Growing Self-Organising Maps", 
         "topics": [
             "Environmental GIS and Hazards", 
@@ -2843,7 +3292,12 @@
             "data mining"
         ], 
         "number": 87, 
-        "session": "1B", 
+        "session": [
+            "1B - GIS and the Environment (I)", 
+            "Steve Carver", 
+            "1B", 
+            "LG19"
+        ], 
         "title": "Identifying perpetuation in processes driving fish movement", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -2871,7 +3325,12 @@
             "volunteered geographic information"
         ], 
         "number": 88, 
-        "session": "Po", 
+        "session": [
+            "Poster Session", 
+            "none", 
+            "Po", 
+            "Parkinson Court"
+        ], 
         "title": "Exploring the sentiment of trail users' tweets.", 
         "topics": [
             "Big Data and the future of GIS"
@@ -2897,7 +3356,12 @@
             "volunteered geographic information"
         ], 
         "number": 89, 
-        "session": "8C", 
+        "session": [
+            "8C - Social Media", 
+            "Alastair Leak", 
+            "8C", 
+            "LG15"
+        ], 
         "title": "Can the sentiment expressed in trail users' tweets help to assess the effectiveness of Environmental Stewardship Agreements? An exploratory analysis of the Pennine Way National Trail, England.", 
         "topics": [
             "Big Data and the future of GIS"
@@ -2920,7 +3384,12 @@
             "Regional Climate Model"
         ], 
         "number": 9, 
-        "session": "8A", 
+        "session": [
+            "8A - GIS and the Environment (II)", 
+            "Steve Carver", 
+            "8A", 
+            "RBLT"
+        ], 
         "title": "Constrained clustering of the precipitation regime in Greece", 
         "topics": [
             "Other GIS topics"
@@ -2942,7 +3411,12 @@
             "Land Use Change"
         ], 
         "number": 90, 
-        "session": "1C", 
+        "session": [
+            "1C - Big Data (I)", 
+            "Alison Heppenstall", 
+            "1C", 
+            "LG15"
+        ], 
         "title": "Land-use Simulation at Large-scale using Big Data", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -2967,7 +3441,12 @@
             "Tourism"
         ], 
         "number": 91, 
-        "session": "8B", 
+        "session": [
+            "8B - Retail Science", 
+            "Nick Hood", 
+            "8B", 
+            "LG19"
+        ], 
         "title": "Retail Modelling in Tourist Resorts: A case study of Looe, Cornwall", 
         "topics": [
             "Other GIS topics", 
@@ -2994,7 +3473,12 @@
             "Regression Analysis"
         ], 
         "number": 92, 
-        "session": "2A", 
+        "session": [
+            "2A - Transport (I)", 
+            "Stephen Clark", 
+            "2A", 
+            "RBLT"
+        ], 
         "title": "Big Data Analysis of Population Flow between TfL Oyster and Bicycle Hire Networks in London", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -3020,7 +3504,12 @@
             "England."
         ], 
         "number": 93, 
-        "session": "Po", 
+        "session": [
+            "Poster Session", 
+            "none", 
+            "Po", 
+            "Parkinson Court"
+        ], 
         "title": "The Social Distribution of Ecosystem Services under Land-Use Change in England", 
         "topics": [
             "Environmental GIS and Hazards", 
@@ -3045,7 +3534,12 @@
             "Greater Manchester"
         ], 
         "number": 94, 
-        "session": "Po", 
+        "session": [
+            "Poster Session", 
+            "none", 
+            "Po", 
+            "Parkinson Court"
+        ], 
         "title": "Parallel computation for accessibility based planning support", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -3068,7 +3562,12 @@
             "Vandalism"
         ], 
         "number": 95, 
-        "session": "3A", 
+        "session": [
+            "3A - Crime and Policing (II)", 
+            "Nick Addis", 
+            "3A", 
+            "RBLT"
+        ], 
         "title": "Understanding Spatio Temporal Patterns of Crime Using Hotspot AND Coldspot Analysis", 
         "topics": [
             "Crime and Policing", 
@@ -3091,7 +3590,12 @@
             "economic growth"
         ], 
         "number": 96, 
-        "session": "7C", 
+        "session": [
+            "7C - Geodemographics (II)", 
+            "Adam Dennett", 
+            "7C", 
+            "LG15"
+        ], 
         "title": "A Simultaneous Model forDemographics, Economy  and Infrastructure", 
         "topics": [
             "Geodemographics and populations", 
@@ -3116,7 +3620,12 @@
             "Nutrition"
         ], 
         "number": 97, 
-        "session": "8B", 
+        "session": [
+            "8B - Retail Science", 
+            "Nick Hood", 
+            "8B", 
+            "LG19"
+        ], 
         "title": "Exploring the role of consumer data for food in national survey reporting", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -3142,7 +3651,12 @@
             "Cycling"
         ], 
         "number": 98, 
-        "session": "6A", 
+        "session": [
+            "6A - Transport (II)", 
+            "Stephen Clark", 
+            "6A", 
+            "RBLT"
+        ], 
         "title": "Spatiotemporal Identification of Trip Stops from Smartphone Data", 
         "topics": [
             "Big Data and the future of GIS", 
@@ -3169,7 +3683,12 @@
             "Operational Analysis"
         ], 
         "number": 99, 
-        "session": "1A", 
+        "session": [
+            "1A - Crime and Policing (I)", 
+            "Graham Clarke", 
+            "1A", 
+            "RBLT"
+        ], 
         "title": "Analysis of Spatial Patterns of Urban Street Crimes by using GIS: A Case Study of Faisalabad City", 
         "topics": [
             "Crime and Policing"

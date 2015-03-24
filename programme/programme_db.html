@@ -103,7 +103,7 @@
                         // Create new <td> elements for each datum
                         .enter().append("td")
                         // Populate the <td> with author, title, etc
-                        .text(function(d, i){return paperInfo(d,i,"details");})
+                        .html(function(d, i){return paperInfo(d,i,"details");})
                         // Attrbute can be use to set the style for <td>s
                         .attr("style", function(d, i){return paperInfo(d,i,"style");})
                         ;
@@ -181,16 +181,32 @@
                             if (type==="details") return d['authors']; 
                             else if (type==="style") return null;
                         case 2: 
-                            if (type==="details") return d['title']; 
-                            else if (type==="style") return null;
+                            if (type==="details") {
+                                // Paper title should link to the full pdf
+                                var url = "http://leeds.gisruk.org/abstracts/gisruk2015_submission_"+d['number']+".pdf";
+                                return "<a href=\""+url+"\">"+d['title']+"<\a>"; 
+                                //return d['title']; 
+                            }
+                            else if (type==="style") {
+                                return null;
+                            }
                         case 3: 
-                            if (type==="details")  return d['session'].substring(0,2); // Don't use session names yet
-                            else if (type==="style") return null;
+                            if (type==="details")  {
+                                // Session should link to the relevant part of the session overview page
+                                // note: 'session' json element contains and array with information about the session:
+                                // session title, chair, session number, location
+                                //return d['session'][0].substring(0,2); // Don't use session names yet
+                                var url = "http://leeds.gisruk.org/session_overview.html#"+d['session'][2];
+                                return "<a href=\""+url+"\">"+d['session'][0]+"<\a>"; 
+                            }
+                            else if (type==="style") {
+                                return null;
+                            }
                         /*case 4: return d['groups'];
                         case 5: return d['category'];*/
                         case 4: 
                             if (type==="details") return d['abstract'];
-                            else if (type==="style") return "font-size: 0.8em;"; // Make abstract smaller
+                            else if (type==="style") return "font-size: 0.7em;"; // Make abstract smaller
                         //default: return "no abstract yet";                        
                 }// switch
                 
