@@ -1,0 +1,59 @@
+/*body {
+    min-width: 1200px;
+}*/
+
+tbody tr:hover {
+    background-color: #ffff99;
+}
+
+thead {
+    font-size: 1.2em;
+    font-style: bold;
+}
+
+thead td {
+  cursor: s-resize;
+}
+
+table {
+    border-spacing: 5px ; /* to separate cells */
+    padding: 5px;
+    margin:5px;
+    border:1px solid #EEEEEE;
+    box-shadow:1px 5px 5px 1px #aaaaaa;
+    border-radius:15px;
+    -moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+    background-color: white;
+}
+
+
+form {
+    background: #ffffff;
+	/*-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;*/
+	padding: 5px;
+    margin:5px;
+}
+
+input {
+	padding: 5px;
+}
+
+div.formbox { /* The box around each search criteria */
+    border:1px solid #EEEEEE;
+    box-shadow:1px 5px 5px 1px #aaaaaa;
+    /*border-radius:15px;
+    -moz-border-radius: 5px;
+	-webkit-border-radius: 5px;*/
+    background-color: white;
+
+    display:inline; /* Stop divs starting a newline */
+
+	line-height: 30px;
+	list-style: none;
+    padding: 10px;
+	margin: 5px 10px 5px 5px;
+	margin-bottom: 2px;
+}
