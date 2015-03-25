@@ -39,7 +39,7 @@ ALSO NOTE: after copying in the <script> stuff, the indentation needs to be redu
 
 <form>
 <div class="formbox">Author name: <input type="text" name="name" id="name-form"></div>
-<div class="formbox">Paper Title: <input type="text" name="title" id="title-form"></div>>
+<div class="formbox">Paper Title: <input type="text" name="title" id="title-form"></div>
 <div class="formbox">Abstract: <input type="text" name="abstract" id="abstract-form"></div>
 </form>
         
