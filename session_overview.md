@@ -205,7 +205,7 @@ This page contains a list of all papers, organised into their sessions. For a se
 </tr>
 </table>
 <hr>
-<h2 id="3C">3C - Big Data (II)</h2>
+<h2 id="3C">3C - Big Data (II): VGI</h2>
 <p>Chair: Alex Singleton. Location: LG15</p>
 <table>
 <tr><td>39</td>
