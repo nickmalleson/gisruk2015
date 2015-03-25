@@ -18,19 +18,19 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>40</td>
 <td>Kira Kowalska, John Shawe-Taylor and Paul Longley<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_40.pdf"><i>Data-driven modelling of police route choice</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_40.pdf"><i>Data-driven modelling of police route choice</i></a></td>
 </tr>
 <tr><td>60</td>
 <td>Dawn Williams, James Haworth and Tao Cheng<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_60.pdf"><i>Exploratory spatiotemporal data analysis of public confidence in the police in London</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_60.pdf"><i>Exploratory spatiotemporal data analysis of public confidence in the police in London</i></a></td>
 </tr>
 <tr><td>99</td>
 <td>Shoaib Khalid, Jiechen Wang, Mhammad Shakeel and Nan Xia<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_99.pdf"><i>Analysis of Spatial Patterns of Urban Street Crimes by using GIS: A Case Study of Faisalabad City</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_99.pdf"><i>Analysis of Spatial Patterns of Urban Street Crimes by using GIS: A Case Study of Faisalabad City</i></a></td>
 </tr>
 <tr><td>107</td>
 <td>Nick Addis<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_107.pdf"><i>Agent-Based Modelling of Crime</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_107.pdf"><i>Agent-Based Modelling of Crime</i></a></td>
 </tr>
 </table>
 <hr>
@@ -39,23 +39,23 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>16</td>
 <td>Jed Long<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_16.pdf"><i>Mapping Interactive Behaviour in Wildlife from GPS Tracking Data</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_16.pdf"><i>Mapping Interactive Behaviour in Wildlife from GPS Tracking Data</i></a></td>
 </tr>
 <tr><td>64</td>
 <td>Sohel Ahmed, Muki Haklay, Adriana Allen, Cecilia Tacoli and Dvila Julio<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_64.pdf"><i>Participatory mapping for transformation: multiple visual representation of foodscapes and environment in informal settlements in Nairobi</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_64.pdf"><i>Participatory mapping for transformation: multiple visual representation of foodscapes and environment in informal settlements in Nairobi</i></a></td>
 </tr>
 <tr><td>75</td>
 <td>Daniel Caparros-Midwood, Stuart Barr and Richard Dawson<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_75.pdf"><i>Evolutionary Computing for Multi-Objective Spatial Optimisation</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_75.pdf"><i>Evolutionary Computing for Multi-Objective Spatial Optimisation</i></a></td>
 </tr>
 <tr><td>84</td>
 <td>Greg Wood, Duncan Whyatt and Carly Stevens<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_84.pdf"><i>The role of the age() function in a GIS for ecological conservation</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_84.pdf"><i>The role of the age() function in a GIS for ecological conservation</i></a></td>
 </tr>
 <tr><td>87</td>
 <td>Matt Duckham, Antony Galton and Alan Both<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_87.pdf"><i>Identifying perpetuation in processes driving fish movement</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_87.pdf"><i>Identifying perpetuation in processes driving fish movement</i></a></td>
 </tr>
 </table>
 <hr>
@@ -64,23 +64,23 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>4</td>
 <td>Doug Specht<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_4.pdf"><i>GIS, Big Data and Lessons from John Snow</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_4.pdf"><i>GIS, Big Data and Lessons from John Snow</i></a></td>
 </tr>
 <tr><td>90</td>
 <td>Dan Li<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_90.pdf"><i>Land-use Simulation at Large-scale using Big Data</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_90.pdf"><i>Land-use Simulation at Large-scale using Big Data</i></a></td>
 </tr>
 <tr><td>105</td>
 <td>Mark Birkin<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_105.pdf"><i>Geodemographics and Big Data  A New Research Agenda</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_105.pdf"><i>Geodemographics and Big Data  A New Research Agenda</i></a></td>
 </tr>
 <tr><td>113</td>
 <td>Eusebio Odiari, Mark Birkin, Susan Grant-Muller and Nick Malleson<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_113.pdf"><i>A Framework for Big Data in studies of Urban Mobility and Movement</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_113.pdf"><i>A Framework for Big Data in studies of Urban Mobility and Movement</i></a></td>
 </tr>
 <tr><td>122</td>
 <td>Humphrey Southall and Michael Stoner<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_122.pdf"><i>Creating a spatio-temporal Data Feed API for a large and diverse library of historical statistics for areas within Britain</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_122.pdf"><i>Creating a spatio-temporal Data Feed API for a large and diverse library of historical statistics for areas within Britain</i></a></td>
 </tr>
 </table>
 <hr>
@@ -89,23 +89,23 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>24</td>
 <td>Nick Bearman and Alex Singleton<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_24.pdf"><i>TravelOAC: development of travel geodemographic classifications for England and Wales based on open data</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_24.pdf"><i>TravelOAC: development of travel geodemographic classifications for England and Wales based on open data</i></a></td>
 </tr>
 <tr><td>32</td>
 <td>Igor Ivan<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_32.pdf"><i>Development of public transport accessibility in the Czech Republic</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_32.pdf"><i>Development of public transport accessibility in the Czech Republic</i></a></td>
 </tr>
 <tr><td>36</td>
 <td>Ian Philips<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_36.pdf"><i>Development and application of a two stage hybrid spatial microsimulation technique to provide inputs to a model of capacity to walk and cycle</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_36.pdf"><i>Development and application of a two stage hybrid spatial microsimulation technique to provide inputs to a model of capacity to walk and cycle</i></a></td>
 </tr>
 <tr><td>92</td>
 <td>Nilufer Sari Aslam, James Cheshire and Tao Cheng<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_92.pdf"><i>Big Data Analysis of Population Flow between TfL Oyster and Bicycle Hire Networks in London</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_92.pdf"><i>Big Data Analysis of Population Flow between TfL Oyster and Bicycle Hire Networks in London</i></a></td>
 </tr>
 <tr><td>101</td>
 <td>Richard Ellison, Adrian Ellison and Stephen Greaves<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_101.pdf"><i>Assessing spatial distribution and variability of destinations in inner-city Sydney from travel diary and smartphone location data</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_101.pdf"><i>Assessing spatial distribution and variability of destinations in inner-city Sydney from travel diary and smartphone location data</i></a></td>
 </tr>
 </table>
 <hr>
@@ -114,19 +114,19 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>3</td>
 <td>Usman Lawal Gulma<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_3.pdf"><i>Mapping of Spatial Distribution of Tuberculosis Cases in Kebbi state Nigeria 2008-2011</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_3.pdf"><i>Mapping of Spatial Distribution of Tuberculosis Cases in Kebbi state Nigeria 2008-2011</i></a></td>
 </tr>
 <tr><td>21</td>
 <td>Paul Norman<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_21.pdf"><i>The changing geography of deprivation in Britain: exploiting small area census data 1971 to 2011</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_21.pdf"><i>The changing geography of deprivation in Britain: exploiting small area census data 1971 to 2011</i></a></td>
 </tr>
 <tr><td>28</td>
 <td>Steve Williams and Mark Ware<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_28.pdf"><i>Is the use of 'mobile computer technology' appropriate for locating people with dementia?</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_28.pdf"><i>Is the use of 'mobile computer technology' appropriate for locating people with dementia?</i></a></td>
 </tr>
 <tr><td>70</td>
 <td>Kurtis Garbutt, Claire Ellul and Taku Fujiyama<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_70.pdf"><i>Assessment of social vulnerability under three flood scenarios using an open source vulnerability index</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_70.pdf"><i>Assessment of social vulnerability under three flood scenarios using an open source vulnerability index</i></a></td>
 </tr>
 </table>
 <hr>
@@ -135,23 +135,23 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>30</td>
 <td>Craig Robson, Stuart Barr, Philip James and Alistair Ford<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_30.pdf"><i>Spatially modelling dependent infrastructure networks</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_30.pdf"><i>Spatially modelling dependent infrastructure networks</i></a></td>
 </tr>
 <tr><td>77</td>
 <td>Jonny Huck, Paul Coulton and Adrian Gradinar<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_77.pdf"><i>Cartography, Location-Based Gaming and the Legibility of Mixed Reality Spaces</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_77.pdf"><i>Cartography, Location-Based Gaming and the Legibility of Mixed Reality Spaces</i></a></td>
 </tr>
 <tr><td>83</td>
 <td>Chris Brunsdon and Martin Charlton<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_83.pdf"><i>Spoilt for Choice? An Investigation Into Creating Gastner and Newman-style Cartograms</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_83.pdf"><i>Spoilt for Choice? An Investigation Into Creating Gastner and Newman-style Cartograms</i></a></td>
 </tr>
 <tr><td>85</td>
 <td>James Milner, Kelvin Wong and Claire Ellul<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_85.pdf"><i>Beyond Visualisation in 3D GIS</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_85.pdf"><i>Beyond Visualisation in 3D GIS</i></a></td>
 </tr>
 <tr><td>125</td>
 <td>Giles Oatley, Tom Crick and Ray Howell<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_125.pdf"><i>Data Exploration with GIS Viewsheds and Social Network Analysis</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_125.pdf"><i>Data Exploration with GIS Viewsheds and Social Network Analysis</i></a></td>
 </tr>
 </table>
 <hr>
@@ -160,23 +160,23 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>48</td>
 <td>Sarah Wise and Tao Cheng<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_48.pdf"><i>A Model Officer: An Agent-based Model of Policing</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_48.pdf"><i>A Model Officer: An Agent-based Model of Policing</i></a></td>
 </tr>
 <tr><td>82</td>
 <td>Toby Davies and Kate Bowers<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_82.pdf"><i>Quantifying the deterrent effect of police patrol via GPS analysis</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_82.pdf"><i>Quantifying the deterrent effect of police patrol via GPS analysis</i></a></td>
 </tr>
 <tr><td>95</td>
 <td>Ellie Bates and William Mackaness<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_95.pdf"><i>Understanding Spatio Temporal Patterns of Crime Using Hotspot AND Coldspot Analysis</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_95.pdf"><i>Understanding Spatio Temporal Patterns of Crime Using Hotspot AND Coldspot Analysis</i></a></td>
 </tr>
 <tr><td>118</td>
 <td>Faisal Umar, James Cheshire and Shane Johnson<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_118.pdf"><i>Understanding the spatial pattern of urban crime: a developing countrys perspective</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_118.pdf"><i>Understanding the spatial pattern of urban crime: a developing countrys perspective</i></a></td>
 </tr>
 <tr><td>132</td>
 <td>Nawaf Alfadhli, Graham Clarke and Mark Birkin<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_132.pdf"><i>Utilising GIS capabilities to study and analyse the spatial distribution of crimes in Kuwait</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_132.pdf"><i>Utilising GIS capabilities to study and analyse the spatial distribution of crimes in Kuwait</i></a></td>
 </tr>
 </table>
 <hr>
@@ -185,23 +185,23 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>23</td>
 <td>Mildred Ajebon and Paul Norman<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_23.pdf"><i>CAN ADMINISTRATIVE DATA BE USED TO CREATE A GEODEMOGRAPHIC CLASSIFICATION?</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_23.pdf"><i>CAN ADMINISTRATIVE DATA BE USED TO CREATE A GEODEMOGRAPHIC CLASSIFICATION?</i></a></td>
 </tr>
 <tr><td>27</td>
 <td>Alistair Leak, Paul Longley and Muhammad Adnan<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_27.pdf"><i>Towards a Seamless World Names Database</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_27.pdf"><i>Towards a Seamless World Names Database</i></a></td>
 </tr>
 <tr><td>102</td>
 <td>Guy Lansley, Yiran Wei and Tim Rains<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_102.pdf"><i>Creating an Output Area Classification of Cultural and Ethnic Heritage to Assist the Planning of Ethnic Origin Foods in Supermarkets in England and Wales</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_102.pdf"><i>Creating an Output Area Classification of Cultural and Ethnic Heritage to Assist the Planning of Ethnic Origin Foods in Supermarkets in England and Wales</i></a></td>
 </tr>
 <tr><td>114</td>
 <td>Bruce Mitchell<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_114.pdf"><i>Census statistics for Civil Parishes   When best-fitting just isnt good enough</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_114.pdf"><i>Census statistics for Civil Parishes   When best-fitting just isnt good enough</i></a></td>
 </tr>
 <tr><td>127</td>
 <td>Philip Rees, Nikolas Lomax and Peter Boden<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_127.pdf"><i>Alternative Approaches to Forecasting Migration: Framework and UK Illustrations</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_127.pdf"><i>Alternative Approaches to Forecasting Migration: Framework and UK Illustrations</i></a></td>
 </tr>
 </table>
 <hr>
@@ -210,23 +210,23 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>39</td>
 <td>James Sprinks, Jeremy Morley, Robert Houghton and Steven Bamford<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_39.pdf"><i>The Impact of Task Workflow Design on VGI Citizen Science Platforms</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_39.pdf"><i>The Impact of Task Workflow Design on VGI Citizen Science Platforms</i></a></td>
 </tr>
 <tr><td>65</td>
 <td>Peter Mooney and Adam Winstanley<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_65.pdf"><i>Is VGI Big Data?</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_65.pdf"><i>Is VGI Big Data?</i></a></td>
 </tr>
 <tr><td>66</td>
 <td>Godwin Yeboah, Jillian Anable, Tim Chatterton, Jo Barnes, Eddie Wilson, Oliver Turnbull and Sally Cairns<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_66.pdf"><i>Understanding car ownership elasticities in England and Wales: Advancing the evidence base with new data sources</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_66.pdf"><i>Understanding car ownership elasticities in England and Wales: Advancing the evidence base with new data sources</i></a></td>
 </tr>
 <tr><td>76</td>
 <td>Radoslaw Kowalski<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_76.pdf"><i>Optimising sentiment analysis in commercial context</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_76.pdf"><i>Optimising sentiment analysis in commercial context</i></a></td>
 </tr>
 <tr><td>119</td>
 <td>Claire Fram, Katerina Chistopoulou and Claire Ellul<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_119.pdf"><i>Assessing the quality of OpenStreetMap building data and searching for a proxy variable to estimate OSM building data completeness</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_119.pdf"><i>Assessing the quality of OpenStreetMap building data and searching for a proxy variable to estimate OSM building data completeness</i></a></td>
 </tr>
 </table>
 <hr>
@@ -235,23 +235,23 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>22</td>
 <td>Jianan Shen and Tao Cheng<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_22.pdf"><i>Group Behaviour Analysis of London Foot Patrol Police</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_22.pdf"><i>Group Behaviour Analysis of London Foot Patrol Police</i></a></td>
 </tr>
 <tr><td>53</td>
 <td>Katerina Skroumpelou, Panagiotis Mavros and Andrew Hudson Smith<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_53.pdf"><i>Are we there yet?  Exploring distance perception in urban environments with mobile Electroencephalography</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_53.pdf"><i>Are we there yet?  Exploring distance perception in urban environments with mobile Electroencephalography</i></a></td>
 </tr>
 <tr><td>55</td>
 <td>William Mackaness, Phil Bartie and Philipp Petrenz<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_55.pdf"><i>Strategies in the Use of Referring Expressions to Describe Things Urban</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_55.pdf"><i>Strategies in the Use of Referring Expressions to Describe Things Urban</i></a></td>
 </tr>
 <tr><td>79</td>
 <td>Rita Lambert and Adriana Allen<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_79.pdf"><i>Mapping to Disrupt unjust urban trajectories</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_79.pdf"><i>Mapping to Disrupt unjust urban trajectories</i></a></td>
 </tr>
 <tr><td>103</td>
 <td>Kelvin Wong and Claire Ellul<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_103.pdf"><i>Designing 3D Geographic Information for Navigation Using Google Glass</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_103.pdf"><i>Designing 3D Geographic Information for Navigation Using Google Glass</i></a></td>
 </tr>
 </table>
 <hr>
@@ -260,23 +260,23 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>11</td>
 <td>Catherine Porter, Paul Atkinson and Ian Gregory<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_11.pdf"><i>Combining Statistics and Texts Using GIS: Nineteenth Century Health Reports</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_11.pdf"><i>Combining Statistics and Texts Using GIS: Nineteenth Century Health Reports</i></a></td>
 </tr>
 <tr><td>47</td>
 <td>Matthew Hobbs, Jim McKenna, Mark Green, Hannah Jordan and Claire Griffiths<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_47.pdf"><i>Objectively scrutinising the impact of the obesogenic environment on obesity in Yorkshire, England: a multi-level cross-sectional study</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_47.pdf"><i>Objectively scrutinising the impact of the obesogenic environment on obesity in Yorkshire, England: a multi-level cross-sectional study</i></a></td>
 </tr>
 <tr><td>54</td>
 <td>Panos Mavros, Katerina Skroumpelou and Andrew Hudson Smith<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_54.pdf"><i>Understanding the urban experience of people with visual impairments</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_54.pdf"><i>Understanding the urban experience of people with visual impairments</i></a></td>
 </tr>
 <tr><td>58</td>
 <td>Amy Mizen, Sarah Rodgers and Richard Fry<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_58.pdf"><i>Comparing the Quality of Local Authority Spatial Data</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_58.pdf"><i>Comparing the Quality of Local Authority Spatial Data</i></a></td>
 </tr>
 <tr><td>112</td>
 <td>Pia Wohland and Phil Rees<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_112.pdf"><i>New estimates of ethnic mortality - resolving the debate</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_112.pdf"><i>New estimates of ethnic mortality - resolving the debate</i></a></td>
 </tr>
 </table>
 <hr>
@@ -285,23 +285,23 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>25</td>
 <td>David Alderson, Stuart Barr, Tomas Holderness, Craig Robson and Alistair Ford<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_25.pdf"><i>A geospatial relational database schema for interdependent network analysis and modelling</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_25.pdf"><i>A geospatial relational database schema for interdependent network analysis and modelling</i></a></td>
 </tr>
 <tr><td>35</td>
 <td>Jacobus Van Rooyen and Joana Barros<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_35.pdf"><i>The Complexity of Exclusion</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_35.pdf"><i>The Complexity of Exclusion</i></a></td>
 </tr>
 <tr><td>43</td>
 <td>Jon Slade, Christoper Jones and Paul Rosin<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_43.pdf"><i>Semantic and geometric enrichment of 3D geo-spatial building models with photo captions and illustration labels</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_43.pdf"><i>Semantic and geometric enrichment of 3D geo-spatial building models with photo captions and illustration labels</i></a></td>
 </tr>
 <tr><td>45</td>
 <td>Neil Harris, Craig Robson, Stuart Barr and Phil James<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_45.pdf"><i>Real time coupled network failure modelling and visualisation</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_45.pdf"><i>Real time coupled network failure modelling and visualisation</i></a></td>
 </tr>
 <tr><td>100</td>
 <td>Andy Turner and Stuart Hodkinson<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_100.pdf"><i>Using GeoTools to explore Advice Leeds client data</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_100.pdf"><i>Using GeoTools to explore Advice Leeds client data</i></a></td>
 </tr>
 </table>
 <hr>
@@ -310,19 +310,19 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>13</td>
 <td>Jonathan Huck, Duncan Whyatt and Paul Coulton<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_13.pdf"><i>Evaluating the Spraycan: understanding participant interaction with a PPGIS</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_13.pdf"><i>Evaluating the Spraycan: understanding participant interaction with a PPGIS</i></a></td>
 </tr>
 <tr><td>15</td>
 <td>Crispin Cooper and Alain Chiaradia<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_15.pdf"><i>sDNA: how and why we reinvented Spatial Network Analysis for health, economics and active modes of transport</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_15.pdf"><i>sDNA: how and why we reinvented Spatial Network Analysis for health, economics and active modes of transport</i></a></td>
 </tr>
 <tr><td>20</td>
 <td>Declan McHugh<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_20.pdf"><i>Traffic Prediction and Analysis using a Big Data and Visualisation Approach</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_20.pdf"><i>Traffic Prediction and Analysis using a Big Data and Visualisation Approach</i></a></td>
 </tr>
 <tr><td>44</td>
 <td>Pouria Amirian, Francois Van Loggerenberg, Trudie Lang and Margaret Varga<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_44.pdf"><i>Geospatial Big Data for Finding Useful Insights from Machine Data</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_44.pdf"><i>Geospatial Big Data for Finding Useful Insights from Machine Data</i></a></td>
 </tr>
 </table>
 <hr>
@@ -331,23 +331,23 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>2</td>
 <td>Adam Dennett, Adam Crymble, Tim Hitchcock and Louise Falcini<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_2.pdf"><i>Ephemeral Londoners: Modelling Lower Class Migration to Eighteenth Century London</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_2.pdf"><i>Ephemeral Londoners: Modelling Lower Class Migration to Eighteenth Century London</i></a></td>
 </tr>
 <tr><td>14</td>
 <td>Glen Hart<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_14.pdf"><i>Do Geospatial & Heritage standards work and do they work together?</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_14.pdf"><i>Do Geospatial & Heritage standards work and do they work together?</i></a></td>
 </tr>
 <tr><td>31</td>
 <td>Konstantinos Daras, Zhiqiang Feng and Chris Dibben<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_31.pdf"><i>HAG-GIS: A spatial framework for geocoding historical addresses</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_31.pdf"><i>HAG-GIS: A spatial framework for geocoding historical addresses</i></a></td>
 </tr>
 <tr><td>46</td>
 <td>Nigel Walford<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_46.pdf"><i>Reconstructing the Agricultural Landscape of the South Downs, England: an Examination of the 1940 and 1941 World War II Plough-up Campaigns</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_46.pdf"><i>Reconstructing the Agricultural Landscape of the South Downs, England: an Examination of the 1940 and 1941 World War II Plough-up Campaigns</i></a></td>
 </tr>
 <tr><td>109</td>
 <td>Paula Aucott and Humphrey Southall<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_109.pdf"><i>Researching long-run trends in South East England 1841-2011 for the European Union and Greater London Authority</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_109.pdf"><i>Researching long-run trends in South East England 1841-2011 for the European Union and Greater London Authority</i></a></td>
 </tr>
 </table>
 <hr>
@@ -356,19 +356,19 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>26</td>
 <td>Juntao Lai, Tao Cheng and Guy Lansley<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_26.pdf"><i>Spatio-Temporal Patterns of Passengers Interests at London Tube Stations</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_26.pdf"><i>Spatio-Temporal Patterns of Passengers Interests at London Tube Stations</i></a></td>
 </tr>
 <tr><td>49</td>
 <td>Alistair Ford, Maria Pregnolato, Richard Dawson, Stuart Barr and Katie Jenkins<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_49.pdf"><i>Assessing the need for infrastructure adaptation by simulating impacts of extreme weather events on urban transport infrastructure</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_49.pdf"><i>Assessing the need for infrastructure adaptation by simulating impacts of extreme weather events on urban transport infrastructure</i></a></td>
 </tr>
 <tr><td>71</td>
 <td>Robin Lovelace<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_71.pdf"><i>Crowd sourced vs centralised data for transport planning: a case study of  bicycle path data in the UK</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_71.pdf"><i>Crowd sourced vs centralised data for transport planning: a case study of  bicycle path data in the UK</i></a></td>
 </tr>
 <tr><td>98</td>
 <td>Adrian Ellison, Richard Ellison, Asif Ahmed and Stephen Greaves<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_98.pdf"><i>Spatiotemporal Identification of Trip Stops from Smartphone Data</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_98.pdf"><i>Spatiotemporal Identification of Trip Stops from Smartphone Data</i></a></td>
 </tr>
 </table>
 <hr>
@@ -377,23 +377,23 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>17</td>
 <td>Alan Smith, Andy Newing, Niall Quinn, David Martin and Samantha Cockings<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_17.pdf"><i>Assessing the impact of seasonal population fluctuation on regional flood risk management</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_17.pdf"><i>Assessing the impact of seasonal population fluctuation on regional flood risk management</i></a></td>
 </tr>
 <tr><td>18</td>
 <td>Khaled Taalab and Tao Cheng<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_18.pdf"><i>Assessing the risk landslides pose to road and rail networks</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_18.pdf"><i>Assessing the risk landslides pose to road and rail networks</i></a></td>
 </tr>
 <tr><td>42</td>
 <td>Enrica Verrucci, Gretchen Fagg and Patrick Rickles<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_42.pdf"><i>Exploring new ways of digital engagement: a study on how mobile mapping and applications can contribute to disaster preparedness</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_42.pdf"><i>Exploring new ways of digital engagement: a study on how mobile mapping and applications can contribute to disaster preparedness</i></a></td>
 </tr>
 <tr><td>81</td>
 <td>Jumadi, Steve Carver and Duncan Quincey<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_81.pdf"><i>SAFEVolcano: Spatial Information Framework for Volcanic Eruption Evacuation Site Selection-allocation</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_81.pdf"><i>SAFEVolcano: Spatial Information Framework for Volcanic Eruption Evacuation Site Selection-allocation</i></a></td>
 </tr>
 <tr><td>129</td>
 <td>Becky Martin, David Martin and Samantha Cockings<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_129.pdf"><i>A Spatiotemporal Population Subgroup Model of Radiation Exposure</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_129.pdf"><i>A Spatiotemporal Population Subgroup Model of Radiation Exposure</i></a></td>
 </tr>
 </table>
 <hr>
@@ -402,23 +402,23 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>68</td>
 <td>Alexandros Alexiou and Alexander Singleton<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_68.pdf"><i>The Role of Geographical Context in Building Geodemographic Classifications</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_68.pdf"><i>The Role of Geographical Context in Building Geodemographic Classifications</i></a></td>
 </tr>
 <tr><td>104</td>
 <td>Thomas Murphy<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_104.pdf"><i>Spatial Analysis of Commuting to Work Intensities and Patterns in England and Wales and the Leeds City Region</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_104.pdf"><i>Spatial Analysis of Commuting to Work Intensities and Patterns in England and Wales and the Leeds City Region</i></a></td>
 </tr>
 <tr><td>110</td>
 <td>Nik Lomax<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_110.pdf"><i>UK internal migration by ethnicity</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_110.pdf"><i>UK internal migration by ethnicity</i></a></td>
 </tr>
 <tr><td>123</td>
 <td>Chris Gale, Alex Singleton and Paul Longley<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_123.pdf"><i>Profiling Burglary in London using Geodemographics</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_123.pdf"><i>Profiling Burglary in London using Geodemographics</i></a></td>
 </tr>
 <tr><td>126</td>
 <td>Jens Kandt<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_126.pdf"><i>Geodemographics and spatial microsimulation: using survey data to infer health milieu geographies</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_126.pdf"><i>Geodemographics and spatial microsimulation: using survey data to infer health milieu geographies</i></a></td>
 </tr>
 </table>
 <hr>
@@ -427,19 +427,19 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>19</td>
 <td>Maud van Haeren and William Mackaness<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_19.pdf"><i>The Influence of Familiarity on Route Choice:  Edinburgh as a Case Study</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_19.pdf"><i>The Influence of Familiarity on Route Choice:  Edinburgh as a Case Study</i></a></td>
 </tr>
 <tr><td>50</td>
 <td>Marcus Saraiva, Joana Barros and Maurcio Polidori<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_50.pdf"><i>Accessibility-based simulation of urban expansion in Brazil</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_50.pdf"><i>Accessibility-based simulation of urban expansion in Brazil</i></a></td>
 </tr>
 <tr><td>73</td>
 <td>Daniel Arribas-Bel and Emmanouil Tranos<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_73.pdf"><i>New approaches to measure the spatial structure(s) of cities</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_73.pdf"><i>New approaches to measure the spatial structure(s) of cities</i></a></td>
 </tr>
 <tr><td>124</td>
 <td>Joanna Foster, Claire Ellul and Philippa Wood<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_124.pdf"><i>Calculating the Overbuilding Potential of Municipal Buildings in London</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_124.pdf"><i>Calculating the Overbuilding Potential of Municipal Buildings in London</i></a></td>
 </tr>
 </table>
 <hr>
@@ -448,23 +448,23 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>5</td>
 <td>Angelos Mimis<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_5.pdf"><i>Visualize and interactively design weight matrices</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_5.pdf"><i>Visualize and interactively design weight matrices</i></a></td>
 </tr>
 <tr><td>33</td>
 <td>Gabriel Rosser and Tao Cheng<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_33.pdf"><i>A self-exciting point process model for predictive policing: implementation and evaluation</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_33.pdf"><i>A self-exciting point process model for predictive policing: implementation and evaluation</i></a></td>
 </tr>
 <tr><td>37</td>
 <td>Yingyu Feng, Kelvyn Jones and Richard Harris<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_37.pdf"><i>Comparing Methods: Using Multilevel Modelling and Artificial Neural Networks in the Analysis of House Prices</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_37.pdf"><i>Comparing Methods: Using Multilevel Modelling and Artificial Neural Networks in the Analysis of House Prices</i></a></td>
 </tr>
 <tr><td>38</td>
 <td>Robin Frew, Gary Higgs, Mitchel Langford and Jenny Harding<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_38.pdf"><i>Assessing geographic data usability in analytical contexts: Undertaking sensitivity analysis of geospatial processes</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_38.pdf"><i>Assessing geographic data usability in analytical contexts: Undertaking sensitivity analysis of geospatial processes</i></a></td>
 </tr>
 <tr><td>56</td>
 <td>Melanie Tomintz and Bernhard Kosar<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_56.pdf"><i>Comparing different spatial microsimulation frameworks</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_56.pdf"><i>Comparing different spatial microsimulation frameworks</i></a></td>
 </tr>
 </table>
 <hr>
@@ -473,23 +473,23 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>51</td>
 <td>Monsuru Adepeju, Tao Cheng, John Shawe-Taylor and Kate Bowers<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_51.pdf"><i>A new metric of crime hotspots for operational Policing</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_51.pdf"><i>A new metric of crime hotspots for operational Policing</i></a></td>
 </tr>
 <tr><td>96</td>
 <td>Chengchao Zuo and Mark Birkin<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_96.pdf"><i>A Simultaneous Model forDemographics, Economy  and Infrastructure</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_96.pdf"><i>A Simultaneous Model forDemographics, Economy  and Infrastructure</i></a></td>
 </tr>
 <tr><td>111</td>
 <td>Oliver Duke-Williams, Elizabeth Shepherd and Alexandra Eveleigh<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_111.pdf"><i>Inequality in access to education, and inequality in access to information about allocation of school places</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_111.pdf"><i>Inequality in access to education, and inequality in access to information about allocation of school places</i></a></td>
 </tr>
 <tr><td>116</td>
 <td>Chris Brunsdon and Aidan Slingsby<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_116.pdf"><i>A Visual, Statistically Robust Anomaly Detector For Migration Data</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_116.pdf"><i>A Visual, Statistically Robust Anomaly Detector For Migration Data</i></a></td>
 </tr>
 <tr><td>128</td>
 <td>Philip Rees and Pia Wohland<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_128.pdf"><i>Learning Lessons from Population Projections: How Well Did We Forecast the Ethnic Transition?</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_128.pdf"><i>Learning Lessons from Population Projections: How Well Did We Forecast the Ethnic Transition?</i></a></td>
 </tr>
 </table>
 <hr>
@@ -498,19 +498,19 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>9</td>
 <td>Eftychia Rousi, Christina Anagnostopoulou, Angelos Mimis and Marianthi Stamou<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_9.pdf"><i>Constrained clustering of the precipitation regime in Greece</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_9.pdf"><i>Constrained clustering of the precipitation regime in Greece</i></a></td>
 </tr>
 <tr><td>69</td>
 <td>Chen Wang, David Miller, Paula Horne, Yang Jiang, Gillian Donaldson-Selby and Jane Morrice<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_69.pdf"><i>Visualisation of Spread of Chalara Ash Dieback for Raising Public Awareness and Responsible Woodland Access</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_69.pdf"><i>Visualisation of Spread of Chalara Ash Dieback for Raising Public Awareness and Responsible Woodland Access</i></a></td>
 </tr>
 <tr><td>86</td>
 <td>Michael Allchin<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_86.pdf"><i>Characterisation and Classification of Hydrological Catchments in Alberta, Canada Using Growing Self-Organising Maps</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_86.pdf"><i>Characterisation and Classification of Hydrological Catchments in Alberta, Canada Using Growing Self-Organising Maps</i></a></td>
 </tr>
 <tr><td>106</td>
 <td>Gareth Boyes, Charles Thomson and Claire Ellul<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_106.pdf"><i>Integrating BIM and GIS : Exploring the use of IFC space objects and boundaries</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_106.pdf"><i>Integrating BIM and GIS : Exploring the use of IFC space objects and boundaries</i></a></td>
 </tr>
 </table>
 <hr>
@@ -519,23 +519,23 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>34</td>
 <td>Michail Pavlis, Les Dolega and Alexander Singleton<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_34.pdf"><i>A national-scale application of the Huff gravity model for the estimation of town centre retail catchment area</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_34.pdf"><i>A national-scale application of the Huff gravity model for the estimation of town centre retail catchment area</i></a></td>
 </tr>
 <tr><td>78</td>
 <td>Elena Kirby-Hawkins, Graham Clarke and Mark Birkin<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_78.pdf"><i>Designing a location model for face to face and on-line retailing for the UK grocery market</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_78.pdf"><i>Designing a location model for face to face and on-line retailing for the UK grocery market</i></a></td>
 </tr>
 <tr><td>91</td>
 <td>Andy Newing, Graham Clarke and Martin Clarke<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_91.pdf"><i>Retail Modelling in Tourist Resorts: A case study of Looe, Cornwall</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_91.pdf"><i>Retail Modelling in Tourist Resorts: A case study of Looe, Cornwall</i></a></td>
 </tr>
 <tr><td>97</td>
 <td>Michelle Morris, Graham Clarke and Mark Birkin<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_97.pdf"><i>Exploring the role of consumer data for food in national survey reporting</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_97.pdf"><i>Exploring the role of consumer data for food in national survey reporting</i></a></td>
 </tr>
 <tr><td>121</td>
 <td>Syed Rakib Uddin and Professor Paul Longley<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_121.pdf"><i>Temporal profile of daily sales in retail stores in London</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_121.pdf"><i>Temporal profile of daily sales in retail stores in London</i></a></td>
 </tr>
 </table>
 <hr>
@@ -544,19 +544,19 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>41</td>
 <td>Muhammad Adnan, Guy Lansley and Paul Longley<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_41.pdf"><i>Exploring the geo-temporal patterns of the Twitter messages</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_41.pdf"><i>Exploring the geo-temporal patterns of the Twitter messages</i></a></td>
 </tr>
 <tr><td>52</td>
 <td>Neil Harris and Phil James<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_52.pdf"><i>Football fan locality- An analysis of football fans tweet locations</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_52.pdf"><i>Football fan locality- An analysis of football fans tweet locations</i></a></td>
 </tr>
 <tr><td>89</td>
 <td>Tom Wilson and Robin Lovelace<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_89.pdf"><i>Can the sentiment expressed in trail users' tweets help to assess the effectiveness of Environmental Stewardship Agreements? An exploratory analysis of the Pennine Way National Trail, England.</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_89.pdf"><i>Can the sentiment expressed in trail users' tweets help to assess the effectiveness of Environmental Stewardship Agreements? An exploratory analysis of the Pennine Way National Trail, England.</i></a></td>
 </tr>
 <tr><td>115</td>
 <td>Ed Manley, Adam Dennett and Michael Batty<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_115.pdf"><i>Using Mobile Phone Traces to Understand Activity and Mobility in Dakar, Senegal</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_115.pdf"><i>Using Mobile Phone Traces to Understand Activity and Mobility in Dakar, Senegal</i></a></td>
 </tr>
 </table>
 <hr>
@@ -565,58 +565,58 @@ This page contains a list of all papers, organised into their sessions. For a se
 <table>
 <tr><td>1</td>
 <td>Andre Python and Aliya Tskhay<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_1.pdf"><i>Mapping terrorist activities in Central Asia: Regional view on domestic issue 1990-2012</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_1.pdf"><i>Mapping terrorist activities in Central Asia: Regional view on domestic issue 1990-2012</i></a></td>
 </tr>
 <tr><td>10</td>
 <td>Andrew Curtis, Eric Eric Jefferis, Lauren Porter and Eric Shook<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_10.pdf"><i>Mapping the Health and Crime Nexus Using Spatial Video and Geonarratives: Examples from the United States</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_10.pdf"><i>Mapping the Health and Crime Nexus Using Spatial Video and Geonarratives: Examples from the United States</i></a></td>
 </tr>
 <tr><td>12</td>
 <td>Andrew Curtis, Jason Blackburn, Sarah Smiley, Afsar Ali and John Glenn Morris<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_12.pdf"><i>The Utility of Spatial Video for Assessing Risk in Challenging Environments: A Case Study of Cholera in Haiti</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_12.pdf"><i>The Utility of Spatial Video for Assessing Risk in Challenging Environments: A Case Study of Cholera in Haiti</i></a></td>
 </tr>
 <tr><td>29</td>
 <td>Jacqueline Curtis and Kim Gilhuly<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_29.pdf"><i>Understanding  Environmental Perceptions and Behaviors through use of Geospatial Technologies: Implications for Health Impact Assessments (HIAs)</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_29.pdf"><i>Understanding  Environmental Perceptions and Behaviors through use of Geospatial Technologies: Implications for Health Impact Assessments (HIAs)</i></a></td>
 </tr>
 <tr><td>59</td>
 <td>Anthonia Ijeoma Onyeahialam and Michael Woods<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_59.pdf"><i>Telling the Story of Globalisation through an Integration and Analysis of Big Data sets</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_59.pdf"><i>Telling the Story of Globalisation through an Integration and Analysis of Big Data sets</i></a></td>
 </tr>
 <tr><td>67</td>
 <td>Godwin Yeboah, Caitlin Cottrill, Paul Edward Gault, John Nelson, Jillian Anable and David Corsar<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_67.pdf"><i>Exploring the usefulness of transport Spatial Tweets from big events: A case study of 2014 Commonwealth Games</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_67.pdf"><i>Exploring the usefulness of transport Spatial Tweets from big events: A case study of 2014 Commonwealth Games</i></a></td>
 </tr>
 <tr><td>80</td>
 <td>Alyson Lloyd, James Cheshire and Helena Titheridge<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_80.pdf"><i>High-Street Resilience and Social Media Opinion Mining</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_80.pdf"><i>High-Street Resilience and Social Media Opinion Mining</i></a></td>
 </tr>
 <tr><td>88</td>
 <td>Tom Wilson and Robin Lovelace<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_88.pdf"><i>Exploring the sentiment of trail users' tweets.</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_88.pdf"><i>Exploring the sentiment of trail users' tweets.</i></a></td>
 </tr>
 <tr><td>93</td>
 <td>Karen Mullin<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_93.pdf"><i>The Social Distribution of Ecosystem Services under Land-Use Change in England</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_93.pdf"><i>The Social Distribution of Ecosystem Services under Land-Use Change in England</i></a></td>
 </tr>
 <tr><td>94</td>
 <td>Jianquan Cheng, Jianguang Tu and Liangxiu Han<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_94.pdf"><i>Parallel computation for accessibility based planning support</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_94.pdf"><i>Parallel computation for accessibility based planning support</i></a></td>
 </tr>
 <tr><td>108</td>
 <td>Andrew Miles and Lesley Browne<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_108.pdf"><i>A Methodology for Assessment of Rooftop Solar Potential for Widely Distributed Property Holdings: Challenges, Lessons Learned and Future Directions</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_108.pdf"><i>A Methodology for Assessment of Rooftop Solar Potential for Widely Distributed Property Holdings: Challenges, Lessons Learned and Future Directions</i></a></td>
 </tr>
 <tr><td>117</td>
 <td>Pia Wohland, Seraphim Alvanides and Carol Jagger<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_117.pdf"><i>Understanding health expectancy inequalities across local areas in England and Wales</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_117.pdf"><i>Understanding health expectancy inequalities across local areas in England and Wales</i></a></td>
 </tr>
 <tr><td>130</td>
 <td>Ebiteme Botu, Jia Wang and Michael Worboys<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_130.pdf"><i>Evaluating Pedestrian Routes</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_130.pdf"><i>Evaluating Pedestrian Routes</i></a></td>
 </tr>
 <tr><td>131</td>
 <td>Nawaf Alotaibi, Nick Malleson, Andy Evans and Alison Heppenstall<br/>
-<a href="http://leeds.gisruk.org/abstracts/gisruk2015_submission_131.pdf"><i>The Spatial Analysis of Motor Vehicle Theft Patterns in Riyadh, Saudi Arabia</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_131.pdf"><i>The Spatial Analysis of Motor Vehicle Theft Patterns in Riyadh, Saudi Arabia</i></a></td>
 </tr>
 </table>

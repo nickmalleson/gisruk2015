@@ -203,7 +203,7 @@ else if (type==="style") return null;
 case 2: 
 if (type==="details") {
 // Paper title should link to the full pdf
-var url = "http://leeds.gisruk.org/abstracts/gisruk2015_submission_"+d['number']+".pdf";
+var url = "http://leeds.gisruk.org/abstracts/2015_submission_"+d['number']+".pdf";
 return "<a href=\""+url+"\">"+d['title']+"<\a>"; 
 //return d['title']; 
 }
