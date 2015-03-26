@@ -433,6 +433,10 @@ This page contains a list of all papers, organised into their sessions. For a se
 <td>Daniel Arribas-Bel and Emmanouil Tranos<br/>
 <a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_73.pdf"><i>New approaches to measure the spatial structure(s) of cities</i></a></td>
 </tr>
+<tr><td>96</td>
+<td>Chengchao Zuo and Mark Birkin<br/>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_96.pdf"><i>A Simultaneous Model forDemographics, Economy  and Infrastructure</i></a></td>
+</tr>
 <tr><td>124</td>
 <td>Joanna Foster, Claire Ellul and Philippa Wood<br/>
 <a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_124.pdf"><i>Calculating the Overbuilding Potential of Municipal Buildings in London</i></a></td>
@@ -470,10 +474,6 @@ This page contains a list of all papers, organised into their sessions. For a se
 <tr><td>51</td>
 <td>Monsuru Adepeju, Tao Cheng, John Shawe-Taylor and Kate Bowers<br/>
 <a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_51.pdf"><i>A new metric of crime hotspots for operational Policing</i></a></td>
-</tr>
-<tr><td>96</td>
-<td>Chengchao Zuo and Mark Birkin<br/>
-<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_96.pdf"><i>A Simultaneous Model forDemographics, Economy  and Infrastructure</i></a></td>
 </tr>
 <tr><td>111</td>
 <td>Oliver Duke-Williams, Elizabeth Shepherd and Alexandra Eveleigh<br/>
