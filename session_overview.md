@@ -24,10 +24,6 @@ This page contains a list of all papers, organised into their sessions. For a se
 <td>Dawn Williams, James Haworth and Tao Cheng<br/>
 <a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_60.pdf"><i>Exploratory spatiotemporal data analysis of public confidence in the police in London</i></a></td>
 </tr>
-<tr><td>99</td>
-<td>Shoaib Khalid, Jiechen Wang, Mhammad Shakeel and Nan Xia<br/>
-<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_99.pdf"><i>Analysis of Spatial Patterns of Urban Street Crimes by using GIS: A Case Study of Faisalabad City</i></a></td>
-</tr>
 <tr><td>107</td>
 <td>Nick Addis<br/>
 <a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_107.pdf"><i>Agent-Based Modelling of Crime</i></a></td>

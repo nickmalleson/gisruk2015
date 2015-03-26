@@ -3662,36 +3662,5 @@
             "Big Data and the future of GIS", 
             "Transport systems"
         ]
-    }, 
-    {
-        "abstract": "The present paper discusses the spatial pattern of urban street crimes and the shifting of hotspots in Faisalabad city of Pakistan. The crime reports of 2012 were geocoded and the crime maps were prepared in ArcGIS 10. The strategic crime analysis was done in a series of meetings with police department and crime controlling strategies were built. The Compstat model with some modifications was followed for the accountability and performance management of police department. Operational analysis were carried out for resource allocations and deployment.  After implementing crime control strategies it has been observed that there was a remarkable reduction in the street crimes. The crime data of 2013 was plotted on map and the hotspot changing patterns were observed.", 
-        "authors": [
-            "Shoaib Khalid", 
-            "Jiechen Wang", 
-            "Mhammad Shakeel", 
-            "Nan Xia"
-        ], 
-        "category": "Extended abstract (max 1,500 words)", 
-        "decision": "accept", 
-        "groups": [
-            "Early-career author (PhD or Masters student)", 
-            "GISRUK early-career bursary"
-        ], 
-        "keywords": [
-            "Crime Mapping", 
-            "Hotspot Shifting", 
-            "Operational Analysis"
-        ], 
-        "number": 99, 
-        "session": [
-            "1A - Crime and Policing (I)", 
-            "Graham Clarke", 
-            "1A", 
-            "RBLT"
-        ], 
-        "title": "Analysis of Spatial Patterns of Urban Street Crimes by using GIS: A Case Study of Faisalabad City", 
-        "topics": [
-            "Crime and Policing"
-        ]
     }
 ]
