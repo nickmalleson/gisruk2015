@@ -9,8 +9,10 @@ This page contains the draft conference programme. To find out when your paper h
 
 You can also find:
 
- - An overview of the main [conference programme](#programme).
+ - An [overview](#programme) of the programme.
+ 
  - A [workshop programme](#workshop), containing an overview of all the workshops.
+ 
  - A <a href="./session_overview.html">session overview</a> that lists all papers and abstracts by their session.
 
 Preparing your Presentation or Poster
@@ -280,7 +282,7 @@ populateTable(false);
 
 
 
-<a name="programme">Preliminary Conference Programme</a>
+<a name="programme">Conference Programme</a>
 ---------------
 
 <!---
