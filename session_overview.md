@@ -688,6 +688,6 @@ I added a few extra bits though, like this table of contents-->
 </tr>
 <tr><td>131</td>
 <td>Nawaf Alotaibi, Nick Malleson, Andy Evans and Alison Heppenstall<br/>
-<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_131.pdf"><i>The Spatial Analysis of Motor Vehicle Theft Patterns in Riyadh, Saudi Arabia</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_131.pdf"><i>Motor Vehicle Theft in Saudi Arabia - how does it differ to the UK?</i></a></td>
 </tr>
 </table>
