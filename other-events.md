@@ -30,8 +30,22 @@ Contributions are encouraged from domains that are particularly relevant to GISR
 <a name="datadive">DataDitve - 17-19th April</a>
 -----------------
 
-Anyone with even rudimentary data analysis skills might be interested in this DataDive, that runs from 17th - 19th April in Leeds.
+Want to use your data skills to make the world a better place? Then
+join us at the next DataDive in Leeds on April 17-19th. <a href="http://www.datakind.org/howitworks/datachapters/datakind-uk/">DataKind UK</a>, in
+partnership with the Young Foundation, Leeds City Council and Joseph
+Rowntree Foundation, is working with three local organisations to help
+them understand and answer their data problems.
 
-<a href="http://www.datakind.org/blog/datadiving-in-leeds/">http://www.datakind.org/blog/datadiving-in-leeds/</a>
+We will be working with Voluntary Action Leeds on their Young Lives
+Leeds project to help them interpret the results from 10 focus groups
+with young people. With another charity called Volition we will map the
+mental health support services available in the city. And finally, we
+will be working with the Money Information Centre at Leeds City Council
+to understand the impact of tax and benefit changes on financial
+security of Leeds residents.
 
-_.. more information coming soon .._
+If this sounds like your idea of fun then please join us! The event is
+free and will take place at the ODI Leeds (Duke Street, LS9 8AG) over
+the course of a weekend. You just need to bring your laptop and a
+curious, data-savvy mind. You can sign up to take part here:
+<a href="https://www.eventbrite.co.uk/e/leeds-datadive-tickets-16184844305">https://www.eventbrite.co.uk/e/leeds-datadive-tickets-16184844305</a>
