@@ -24,6 +24,10 @@ This page contains a list of all papers, organised into their sessions. For a se
 <td>Dawn Williams, James Haworth and Tao Cheng<br/>
 <a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_60.pdf"><i>Exploratory spatiotemporal data analysis of public confidence in the police in London</i></a></td>
 </tr>
+<tr><td>82</td>
+<td>Toby Davies and Kate Bowers<br/>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_82.pdf"><i>Quantifying the deterrent effect of police patrol via GPS analysis</i></a></td>
+</tr>
 <tr><td>107</td>
 <td>Nick Addis<br/>
 <a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_107.pdf"><i>Agent-Based Modelling of Crime</i></a></td>
@@ -157,10 +161,6 @@ This page contains a list of all papers, organised into their sessions. For a se
 <tr><td>48</td>
 <td>Sarah Wise and Tao Cheng<br/>
 <a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_48.pdf"><i>A Model Officer: An Agent-based Model of Policing</i></a></td>
-</tr>
-<tr><td>82</td>
-<td>Toby Davies and Kate Bowers<br/>
-<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_82.pdf"><i>Quantifying the deterrent effect of police patrol via GPS analysis</i></a></td>
 </tr>
 <tr><td>95</td>
 <td>Ellie Bates and William Mackaness<br/>
@@ -324,7 +324,6 @@ This page contains a list of all papers, organised into their sessions. For a se
 <td>Daniel Arribas-Bel and Emmanouil Tranos<br/>
 <a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_73.pdf"><i>New approaches to measure the spatial structure(s) of cities</i></a></td>
 </tr>
-
 </table>
 <hr>
 <h2 id="5B">5B - Historical GIS</h2>
