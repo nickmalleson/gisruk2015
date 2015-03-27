@@ -320,6 +320,11 @@ This page contains a list of all papers, organised into their sessions. For a se
 <td>Pouria Amirian, Francois Van Loggerenberg, Trudie Lang and Margaret Varga<br/>
 <a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_44.pdf"><i>Geospatial Big Data for Finding Useful Insights from Machine Data</i></a></td>
 </tr>
+<tr><td>73</td>
+<td>Daniel Arribas-Bel and Emmanouil Tranos<br/>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_73.pdf"><i>New approaches to measure the spatial structure(s) of cities</i></a></td>
+</tr>
+
 </table>
 <hr>
 <h2 id="5B">5B - Historical GIS</h2>
@@ -428,10 +433,6 @@ This page contains a list of all papers, organised into their sessions. For a se
 <tr><td>50</td>
 <td>Marcus Saraiva, Joana Barros and Maurcio Polidori<br/>
 <a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_50.pdf"><i>Accessibility-based simulation of urban expansion in Brazil</i></a></td>
-</tr>
-<tr><td>73</td>
-<td>Daniel Arribas-Bel and Emmanouil Tranos<br/>
-<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_73.pdf"><i>New approaches to measure the spatial structure(s) of cities</i></a></td>
 </tr>
 <tr><td>96</td>
 <td>Chengchao Zuo and Mark Birkin<br/>
