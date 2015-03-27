@@ -45,25 +45,8 @@ I added a few extra bits though, like this table of contents-->
 
 
 
-<h1 id="S1">Session 1: Wednesday 15:00 - 16:20</h1>
 <hr/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h1 id="S1">Session 1: Wednesday 15:00 - 16:20</h1>
 
 
 <h2 id="1A">1A - Crime and Policing (I)</h2>
