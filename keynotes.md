@@ -11,7 +11,7 @@ We are proud to announce that the following keynote speakers will be presenting 
 
  - **[Ed Parsons](http://www.edparsons.com/)**, Geospatial Technologist for Google. (Presenting on Wednesday 15th)
  
-<a href="http://www.edparsons.com/"><img src="./figures/ed.parsons.picture.png" style="float:left; width:20%; height:auto;"/></a>
+<a href="http://www.edparsons.com/"><img src="./figures/ed.parsons.picture.png" style="float:left; width:10%; height:auto;"/></a>
  
  
  
@@ -22,7 +22,7 @@ Ed Parsons is the Geospatial Technologist of Google, with responsibility for eva
        
  - **[Steven Ramage](https://twitter.com/Steven_Ramage)**, Director of Strategy [what3words](www.what3words.com), previously Managing Director at [Ordnance Survey International](www.ordnancesurvey.co.uk/international/) (Presenting on Thursday 16th)
  
-<img src="./figures/s.ramage.picture.png" style="float:left; width:20%; height:auto;"/>
+<img src="./figures/s.ramage.picture.png" style="float:left; width:10%; height:auto;"/>
  
 Steven Ramage has had a very diverse career that began with container ships and marine surveying, before joining Navteq (Nokia HERE) in the 90s. In 2001 Steven joined 1Spatial (previously Laser-Scan) and led the market development of spatial database tools before being appointed as an Executive Director to the Open Geospatial Consortium and later by the Ordnance Survey to lead their international activities. Most recently, Steven became a director of what3words - an organisation that is building a global platform to simply and precisely communicate location using only words.  Steven retains contact with the Ordnance Survey as an industry consultant, and also consults for the World Bank. He is a Visiting Professor at the Institute for Future Cities at the University of Strathclyde and a fellow of the Royal Institution of Chartered Surveyors (RICS), and of the Royal Geographical Society (RGS). 
  
@@ -30,7 +30,7 @@ Steven Ramage has had a very diverse career that began with container ships and 
  
  - **[Dominic Stubbins](https://www.linkedin.com/pub/dominic-stubbins/5/439/1a2)**, Chief Architect at [ESRI UK](http://www.esriuk.com/)  (Presenting on Thursday 16th)
 
-<img src="./figures/d.stubbins_photo.jpg" style="float:left; width:20%; height:auto;"/>
+<img src="./figures/d.stubbins_photo.jpg" style="float:left; width:10%; height:auto;"/>
 
 Dominic Stubbins is the Chief Architect at Esri UK He has extensive experience in the delivery of enterprise geospatial solutions for government, defence, utilities and the private sector. In particular, Dominic has focussed on the design of solutions, system architectures and spatial data infrastructures focussed on interoperability and data dissemination within and between organisations. Recently Dominic has been leading the development of new products centred around the analysis of ‘big’ data sets.  Above all Dominic is passionate about using geographic analysis to help understand and change the world we live in.
 
@@ -38,7 +38,7 @@ Dominic Stubbins is the Chief Architect at Esri UK He has extensive experience i
 
  - **[Sarah Williams](http://dusp.mit.edu/faculty/sarah-williams)**, Director of the [Civic Data Design Lab](http://www.civicdatadesignlab.org/) at Massachusetts Institute of Technology’s (MIT) [School of Architecture and Planning](http://sap.mit.edu/)  (Presenting on Friday 17th)
  
-<a href="http://dusp.mit.edu/faculty/sarah-williams"><img src="./figures/s.williams.picture.jpg" style="float:left; width:20%; height:auto;"/></a>
+<a href="http://dusp.mit.edu/faculty/sarah-williams"><img src="./figures/s.williams.picture.jpg" style="float:left; width:10%; height:auto;"/></a>
 
  
 Sarah Williams is an Assistant Professor of Urban Planning and the Director of the Civic Data Design Lab at Massachusetts Institute of Technology’s (MIT) School of Architecture and Planning School. The Civic Data Design Lab works with data, maps, and mobile technologies to develop interactive design and communication strategies that bring urban policy issues to broader audiences.  Trained as a Geographer (Clark University), Landscape Architect (University of Pennsylvania), and Urban Planner (MIT), Williams’ work combines geographic analysis and design. Sarah’s design work has been widely exhibited including work in the Guggenheim and the Museum of Modern Art (MoMA) in New York City. Before coming to MIT, she was Co-Director of the Spatial Information Design Lab at Columbia University’s, Graduate School of Architecture Planning and Preservation(GSAPP). Williams has won numerous awards including being named top 25 planners in the technology and 2012 Game Changer by Metropolis Magazine. Her work is currently on view in the Museum of Modern Art (MoMA), New York.
