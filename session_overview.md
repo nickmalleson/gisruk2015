@@ -333,7 +333,7 @@ I added a few extra bits though, like this table of contents-->
 <p>Chair: Lex Comber. Location: LG15</p>
 <table>
 <tr><td>25</td>
-<td>David Alderson, Stuart Barr, Tomas Holderness, Craig Robson and Alistair Ford<br/>
+<td>David Alderson, Stuart Barr, Tomas Holderness, Craig Robson and Alistair Ford, Ruth Kennedy-Walker<br/>
 <a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_25.pdf"><i>A geospatial relational database schema for interdependent network analysis and modelling</i></a></td>
 </tr>
 <tr><td>35</td>
