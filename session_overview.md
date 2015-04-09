@@ -342,7 +342,7 @@ I added a few extra bits though, like this table of contents-->
 </tr>
 <tr><td>43</td>
 <td>Jon Slade, Christoper Jones and Paul Rosin<br/>
-<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_43.pdf"><i>Semantic and geometric enrichment of 3D geo-spatial building models with photo captions and illustration labels</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_43.pdf"><i>Semantic and geometric enrichment of 3D geo-spatial building models with photo captions and illustration labels using template matching & SIFT</i></a></td>
 </tr>
 <tr><td>45</td>
 <td>Neil Harris, Craig Robson, Stuart Barr and Phil James<br/>

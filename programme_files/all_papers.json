@@ -2102,7 +2102,7 @@
             "4C", 
             "LG15"
         ], 
-        "title": "Semantic and geometric enrichment of 3D geo-spatial building models with photo captions and illustration labels", 
+        "title": "Semantic and geometric enrichment of 3D geo-spatial building models with photo captions and illustration labels using template matching & SIFT", 
         "topics": [
             "Big Data and the future of GIS", 
             "Historical applications of GIS", 
