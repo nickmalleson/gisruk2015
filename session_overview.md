@@ -610,7 +610,7 @@ I added a few extra bits though, like this table of contents-->
 
 
 <h2 id="8C">8C - Social Media</h2>
-<p>Chair: Alastair Leak. Location: LG15</p>
+<p>Chair: Alistair Leak. Location: LG15</p>
 <table>
 <tr><td>41</td>
 <td>Muhammad Adnan, Guy Lansley and Paul Longley<br/>
