@@ -4,7 +4,7 @@ layout: master
 
 <hr/>
  - Download the **[full conference handbook (.pdf)](./programme_files/GISRUK_2015_handbook.pdf).**
- - Download **[all paper abstracts (.zip)](XX)** 
+ - Download **[all paper abstracts (.zip)](http://www.personal.leeds.ac.uk/~geonsm/GISRUK2015-all_abstracts.zip)** 
  <hr/>
  
 GISRUK Conference Programme
