@@ -50,7 +50,7 @@ I added a few extra bits though, like this table of contents-->
 
 
 <h2 id="1A">1A - Crime and Policing (I)</h2>
-<p>Chair: Graham Clarke. Location: RBLT</p>
+<p>Chair: Alex Hirschfield. Location: RBLT</p>
 <table>
 <tr><td>40</td>
 <td>Kira Kowalska, John Shawe-Taylor and Paul Longley<br/>
