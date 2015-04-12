@@ -2,8 +2,10 @@
 layout: master
 ---
 
+<hr/>
  - Download the **[full conference handbook (.pdf)](./programme_files/GISRUK_handbook.pdf).**
  - Download **[all paper abstracts (.zip)](XX)** 
+ <hr/>
  
 GISRUK Conference Programme
 ---------------
