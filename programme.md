@@ -2,14 +2,19 @@
 layout: master
 ---
 
+<hr/>
+ - Download the **[full conference handbook (.pdf)](./programme_files/GISRUK_2015_handbook.pdf).**
+ - Download **[all paper abstracts (.zip)](http://www.personal.leeds.ac.uk/~geonsm/GISRUK2015-all_abstracts.zip)** 
+ <hr/>
+ 
 GISRUK Conference Programme
 ---------------
 
 This page contains the draft conference programme. To find out when your paper has been scheduled simply locate your paper on the searchable list of [papers and their timetabled sessions](#sesions).
 
-You can also find:
+On this page you can also find:
 
- - An [overview](#programme) of the programme.
+ - A one-page [overview](#programme) of the whole programme.
  
  - A [workshop programme](#workshop), containing an overview of all the workshops.
  

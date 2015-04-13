@@ -50,7 +50,7 @@ I added a few extra bits though, like this table of contents-->
 
 
 <h2 id="1A">1A - Crime and Policing (I)</h2>
-<p>Chair: Graham Clarke. Location: RBLT</p>
+<p>Chair: Alex Hirschfield. Location: RBLT</p>
 <table>
 <tr><td>40</td>
 <td>Kira Kowalska, John Shawe-Taylor and Paul Longley<br/>
@@ -342,7 +342,7 @@ I added a few extra bits though, like this table of contents-->
 </tr>
 <tr><td>43</td>
 <td>Jon Slade, Christoper Jones and Paul Rosin<br/>
-<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_43.pdf"><i>Semantic and geometric enrichment of 3D geo-spatial building models with photo captions and illustration labels</i></a></td>
+<a href="http://leeds.gisruk.org/abstracts/GISRUK2015_submission_43.pdf"><i>Semantic and geometric enrichment of 3D geo-spatial building models with photo captions and illustration labels using template matching & SIFT</i></a></td>
 </tr>
 <tr><td>45</td>
 <td>Neil Harris, Craig Robson, Stuart Barr and Phil James<br/>
@@ -610,7 +610,7 @@ I added a few extra bits though, like this table of contents-->
 
 
 <h2 id="8C">8C - Social Media</h2>
-<p>Chair: Alastair Leak. Location: LG15</p>
+<p>Chair: Alistair Leak. Location: LG15</p>
 <table>
 <tr><td>41</td>
 <td>Muhammad Adnan, Guy Lansley and Paul Longley<br/>
