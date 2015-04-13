@@ -5,6 +5,13 @@ layout: master
 
 The GIS for Transport Applications workshop ([#GIS4TA](https://twitter.com/search?f=realtime&q=%23gis4ta&src=typd) for short!) is organised by the University of Leed's School of Geography in collaboration with the Institute of Transport Studies ([ITS](http://www.its.leeds.ac.uk/)). Official sponsors include the Royal Geographical Society ([RGS](http://www.rgs.org/)) via the Transport Geography Research Group ([TGRG](http://tgrg.wordpress.com/)).
 
+## Resources
+
+To ensure this workshop's longevity and usefulness to people who cannot attend, we've set up an online repository for links, code and even data.
+Check it out here:
+
+[github.com/Robinlovelace/GIS4TA](https://github.com/Robinlovelace/GIS4TA)
+
 ## Introduction
 
 Transport is a field that relies on high quality geographical information. The storage, analysis, visualisation and modelling of roads, pathways, and vehicle flows is critical to understanding any transport system. This makes GIS a critical component of the transport researcher's toolkit.
