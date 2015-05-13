@@ -16,7 +16,7 @@ We are proud to announce that the following keynote speakers will be presenting 
 Speaker Presentations, Slides and Biographies
 ------------------
 
-All keynote speakers kindly agreed to have their presentations recorded. Below you can find the videos. Note that Steven and Dominic presented in the same session, so share the same video.
+All keynote speakers kindly agreed to have their presentations recorded. You can find the videos below.
 
 
 <hr/>
@@ -62,6 +62,8 @@ Chief Architect at [ESRI UK](http://www.esriuk.com/)  (Presenting on Thursday 16
 <img src="./figures/d.stubbins_photo.jpg" style="float:left; width:8%; height:auto; padding:5px;"/>
 
 Presentation available <a href="https://mymedia.leeds.ac.uk/Mediasite/Play/37542ac868e64b68913515649634bc831d">here</a>.
+(Please note that Steven and Dominic shared the same session, so Dominic's talk begins half way
+through the video).
  
 Dominic Stubbins is the Chief Architect at Esri UK He has extensive experience in the delivery of enterprise geospatial solutions for government, defence, utilities and the private sector. In particular, Dominic has focussed on the design of solutions, system architectures and spatial data infrastructures focussed on interoperability and data dissemination within and between organisations. Recently Dominic has been leading the development of new products centred around the analysis of ‘big’ data sets.  Above all Dominic is passionate about using geographic analysis to help understand and change the world we live in.
 
