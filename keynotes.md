@@ -16,8 +16,7 @@ We are proud to announce that the following keynote speakers will be presenting 
 Speaker Presentations, Slides and Biographies
 ------------------
 
-All keynote speakers kindly agreed to be
-
+All keynote speakers kindly agreed to have their presentations recorded. Below you can find the videos. Note that Steven and Dominic presented in the same session, so share the same video.
 
 
 <hr/>
@@ -26,6 +25,8 @@ All keynote speakers kindly agreed to be
 Geospatial Technologist for Google. (Presenting on Wednesday 15th)
 
 <a href="http://www.edparsons.com/"><img src="./figures/ed.parsons.picture.png" style="float:left; width:8%; height:auto; padding:5px;"/></a>
+
+<iframe aligh="right" width="320" height="240" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://mymedia.leeds.ac.uk/Mediasite/Play/cdbf9a40c030492a87e8a926af8478821d"></iframe>
 
 
 Ed Parsons is the Geospatial Technologist of Google, with responsibility for evangelising Google’s mission to organise the world’s information using geography. In this role he maintains links with Universities, Research and Standards Organisations that are involved in the development of Geospatial Technology. He is currently co-chair of the W3C/OGC Spatial Data on the Web Working Group. Ed was the first Chief Technology Officer in the 200-year-old history of Ordnance Survey, and was instrumental in moving the focus of the organisation from mapping to Geographical Information.  Ed earned a Masters degree in Applied Remote Sensing from Cranfield Institute of Technology and holds an Honorary Doctorate in Science from Kingston University, London. Whilst at Kingston, Ed pioneered techniques to make online resources available via the Mosaic Web browser in the early 1990s and also built his own local area network within the university for the distribution of GIS resources.
@@ -42,7 +43,9 @@ Steven Ramage has had a very diverse career that began with container ships and 
 <hr/>
 
 
-**[Dominic Stubbins](https://www.linkedin.com/pub/dominic-stubbins/5/439/1a2)** - Chief Architect at [ESRI UK](http://www.esriuk.com/)  (Presenting on Thursday 16th)
+###[Dominic Stubbins](https://www.linkedin.com/pub/dominic-stubbins/5/439/1a2)
+
+Chief Architect at [ESRI UK](http://www.esriuk.com/)  (Presenting on Thursday 16th)
 
 <img src="./figures/d.stubbins_photo.jpg" style="float:left; width:8%; height:auto; padding:5px;"/>
 
@@ -50,7 +53,9 @@ Dominic Stubbins is the Chief Architect at Esri UK He has extensive experience i
 
 <hr/>
 
-**[Sarah Williams](http://dusp.mit.edu/faculty/sarah-williams)** - Director of the [Civic Data Design Lab](http://www.civicdatadesignlab.org/) at Massachusetts Institute of Technology’s (MIT) [School of Architecture and Planning](http://sap.mit.edu/)  (Presenting on Friday 17th)
+###[Sarah Williams](http://dusp.mit.edu/faculty/sarah-williams)
+
+Director of the [Civic Data Design Lab](http://www.civicdatadesignlab.org/) at Massachusetts Institute of Technology’s (MIT) [School of Architecture and Planning](http://sap.mit.edu/)  (Presenting on Friday 17th)
 
 <a href="http://dusp.mit.edu/faculty/sarah-williams"><img src="./figures/s.williams.picture.jpg" style="float:left; width:8%; height:auto; padding:5px;"/></a>
  
