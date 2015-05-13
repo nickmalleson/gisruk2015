@@ -28,6 +28,7 @@ Geospatial Technologist for Google. (Presenting on Wednesday 15th)
 
 <iframe aligh="right" width="320" height="240" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://mymedia.leeds.ac.uk/Mediasite/Play/cdbf9a40c030492a87e8a926af8478821d"></iframe>
 
+Presentation available <a href="https://mymedia.leeds.ac.uk/Mediasite/Play/cdbf9a40c030492a87e8a926af8478821d">here</>
 
 Ed Parsons is the Geospatial Technologist of Google, with responsibility for evangelising Google’s mission to organise the world’s information using geography. In this role he maintains links with Universities, Research and Standards Organisations that are involved in the development of Geospatial Technology. He is currently co-chair of the W3C/OGC Spatial Data on the Web Working Group. Ed was the first Chief Technology Officer in the 200-year-old history of Ordnance Survey, and was instrumental in moving the focus of the organisation from mapping to Geographical Information.  Ed earned a Masters degree in Applied Remote Sensing from Cranfield Institute of Technology and holds an Honorary Doctorate in Science from Kingston University, London. Whilst at Kingston, Ed pioneered techniques to make online resources available via the Mosaic Web browser in the early 1990s and also built his own local area network within the university for the distribution of GIS resources.
 
