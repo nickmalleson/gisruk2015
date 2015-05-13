@@ -23,12 +23,12 @@ All keynote speakers kindly agreed to have their presentations recorded. Below y
 
 ### [Ed Parsons](http://www.edparsons.com/)
 
+<iframe align="right" width="320" height="240" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0"
+    src="https://mymedia.leeds.ac.uk/Mediasite/Play/cdbf9a40c030492a87e8a926af8478821d"></iframe>
+
 Geospatial Technologist for Google. (Presenting on Wednesday 15th)
 
 <a href="http://www.edparsons.com/"><img src="./figures/ed.parsons.picture.png" style="float:left; width:8%; height:auto; padding:5px;"/></a>
-
-<iframe align="right" width="320" height="240" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0"
-    src="https://mymedia.leeds.ac.uk/Mediasite/Play/cdbf9a40c030492a87e8a926af8478821d"></iframe>
 
 Presentation available <a href="https://mymedia.leeds.ac.uk/Mediasite/Play/cdbf9a40c030492a87e8a926af8478821d">here</a>.
 
@@ -38,12 +38,12 @@ Ed Parsons is the Geospatial Technologist of Google, with responsibility for eva
  
 ###[Steven Ramage](https://twitter.com/Steven_Ramage)
 
+<iframe align="right" width="320" height="240" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0"
+    src="https://mymedia.leeds.ac.uk/Mediasite/Play/37542ac868e64b68913515649634bc831d"></iframe>
+
 Director of Strategy [what3words](www.what3words.com), previously Managing Director at [Ordnance Survey International](www.ordnancesurvey.co.uk/international/) (Presenting on Thursday 16th)
 
 <img src="./figures/s.ramage.picture.png" style="float:left; width:8%; height:auto; padding:5px;"/>
-
-<iframe align="right" width="320" height="240" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0"
-    src="https://mymedia.leeds.ac.uk/Mediasite/Play/37542ac868e64b68913515649634bc831d"></iframe>
 
 Presentation available <a href="https://mymedia.leeds.ac.uk/Mediasite/Play/37542ac868e64b68913515649634bc831d">here<a/>.
  
@@ -54,12 +54,12 @@ Steven Ramage has had a very diverse career that began with container ships and 
 
 ###[Dominic Stubbins](https://www.linkedin.com/pub/dominic-stubbins/5/439/1a2)
 
+<iframe align="right" width="320" height="240" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0"
+    src="https://mymedia.leeds.ac.uk/Mediasite/Play/37542ac868e64b68913515649634bc831d"></iframe>
+
 Chief Architect at [ESRI UK](http://www.esriuk.com/)  (Presenting on Thursday 16th)
 
 <img src="./figures/d.stubbins_photo.jpg" style="float:left; width:8%; height:auto; padding:5px;"/>
-
-<iframe align="right" width="320" height="240" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0"
-    src="https://mymedia.leeds.ac.uk/Mediasite/Play/37542ac868e64b68913515649634bc831d"></iframe>
 
 Presentation available <a href="https://mymedia.leeds.ac.uk/Mediasite/Play/37542ac868e64b68913515649634bc831d">here</a>.
  
@@ -69,12 +69,12 @@ Dominic Stubbins is the Chief Architect at Esri UK He has extensive experience i
 
 ###[Sarah Williams](http://dusp.mit.edu/faculty/sarah-williams)
 
+<iframe align="right" width="320" height="240" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0"
+    src="https://mymedia.leeds.ac.uk/Mediasite/Play/ce91cd5b27d4481b8a49646c2fe564561d"></iframe>
+
 Director of the [Civic Data Design Lab](http://www.civicdatadesignlab.org/) at Massachusetts Institute of Technology’s (MIT) [School of Architecture and Planning](http://sap.mit.edu/)  (Presenting on Friday 17th)
 
 <a href="http://dusp.mit.edu/faculty/sarah-williams"><img src="./figures/s.williams.picture.jpg" style="float:left; width:8%; height:auto; padding:5px;"/></a>
-
-<iframe align="right" width="320" height="240" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0"
-    src="https://mymedia.leeds.ac.uk/Mediasite/Play/ce91cd5b27d4481b8a49646c2fe564561d"></iframe>
 
 Presentation available <a href="https://mymedia.leeds.ac.uk/Mediasite/Play/ce91cd5b27d4481b8a49646c2fe564561d">here</a>.
  
