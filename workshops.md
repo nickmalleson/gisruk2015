@@ -13,7 +13,9 @@ An overview of the workshop timetable is available <a href="programme.html#works
  - [3D GIS Workshop and Tutorial](#3DGIS)
  - [GIS for Transport Applications](#Transport)
  - [ESRI GIS Workshop](#ESRI)
- 
+
+<!-- 
+
 Registering for Workshops
 ----------------------
 
@@ -21,11 +23,10 @@ You can register for workshops through the conference online store:
 
  - [http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=9&catid=47&prodid=509](http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=9&catid=47&prodid=509)
 
- 
-<!---
  Add this event to your digital organiser via Google Calendar and don't forget to sign up asap.
 
 <a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=NzkyNXYyY3VodjJxcmZnam4zaThmcm52OWsgMGVybzVrcjUwb3JvN2lzM3IzbjJvMjBhdXNAZw&tmsrc=0ero5kr50oro7is3r3n2o20aus%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
+
 -->
 
 <hr/>
@@ -103,6 +104,8 @@ in conjunction with Ordnance Survey in developing a new 3D dataset for Great Bri
 ----------------------
 
 <img src="https://dl.dropboxusercontent.com/u/15008199/img/mel-cycle-cent-close.png" style="float:right; width:50%; height:auto;" />
+
+**Workshop materials are avilable here: <a href="https://github.com/Robinlovelace/GIS4TA">https://github.com/Robinlovelace/GIS4TA</a>.**
 
 The [GIS for Transport Applications workshop](http://leeds.gisruk.org/gis4ta.html) is organised by the University of Leeds School of Geography in collaboration with the Institute of Transport Studies ([ITS](http://www.its.leeds.ac.uk/)). Official sponsors include the Royal Geographical Society ([RGS](http://www.rgs.org/)) via the Transport Geography Research Group ([TGRG](http://tgrg.wordpress.com/)).
 
