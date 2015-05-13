@@ -21,10 +21,10 @@ All keynote speakers kindly agreed to have their presentations recorded. Below y
 
 <hr/>
 
-### [Ed Parsons](http://www.edparsons.com/)
-
 <iframe align="right" width="320" height="240" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0"
     src="https://mymedia.leeds.ac.uk/Mediasite/Play/cdbf9a40c030492a87e8a926af8478821d"></iframe>
+
+### [Ed Parsons](http://www.edparsons.com/)
 
 Geospatial Technologist for Google. (Presenting on Wednesday 15th)
 
@@ -36,10 +36,10 @@ Ed Parsons is the Geospatial Technologist of Google, with responsibility for eva
 
 <hr/>
  
-###[Steven Ramage](https://twitter.com/Steven_Ramage)
-
 <iframe align="right" width="320" height="240" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0"
     src="https://mymedia.leeds.ac.uk/Mediasite/Play/37542ac868e64b68913515649634bc831d"></iframe>
+
+###[Steven Ramage](https://twitter.com/Steven_Ramage)
 
 Director of Strategy [what3words](www.what3words.com), previously Managing Director at [Ordnance Survey International](www.ordnancesurvey.co.uk/international/) (Presenting on Thursday 16th)
 
@@ -52,10 +52,10 @@ Steven Ramage has had a very diverse career that began with container ships and 
 <hr/>
 
 
-###[Dominic Stubbins](https://www.linkedin.com/pub/dominic-stubbins/5/439/1a2)
-
 <iframe align="right" width="320" height="240" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0"
     src="https://mymedia.leeds.ac.uk/Mediasite/Play/37542ac868e64b68913515649634bc831d"></iframe>
+
+###[Dominic Stubbins](https://www.linkedin.com/pub/dominic-stubbins/5/439/1a2)
 
 Chief Architect at [ESRI UK](http://www.esriuk.com/)  (Presenting on Thursday 16th)
 
@@ -67,10 +67,10 @@ Dominic Stubbins is the Chief Architect at Esri UK He has extensive experience i
 
 <hr/>
 
-###[Sarah Williams](http://dusp.mit.edu/faculty/sarah-williams)
-
 <iframe align="right" width="320" height="240" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0"
     src="https://mymedia.leeds.ac.uk/Mediasite/Play/ce91cd5b27d4481b8a49646c2fe564561d"></iframe>
+
+###[Sarah Williams](http://dusp.mit.edu/faculty/sarah-williams)
 
 Director of the [Civic Data Design Lab](http://www.civicdatadesignlab.org/) at Massachusetts Institute of Technology’s (MIT) [School of Architecture and Planning](http://sap.mit.edu/)  (Presenting on Friday 17th)
 
